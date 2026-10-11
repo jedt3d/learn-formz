@@ -83,8 +83,8 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}">C7 · วัดขนาดและเขียนแบบสำหรับ Product Design Engineering</a></h3>
-<span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
-🏠 <strong>กบเหลาดินสอ</strong> · Measure, Dimensions, Section, hidden line แบบเส้นประ, drawing 3 views ใน Layout
+<span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 11 บท<br>
+🏠 <strong>กบเหลาดินสอ</strong> · Measure Distance/Between/Quantities, Linear/Multi/Radial/Angular Dimension, Associativity, Clipping Planes, Section, Hatch, แบบ first-angle 2:1 + title block ใน Layout
 </div>
 
 <div class="course-card">

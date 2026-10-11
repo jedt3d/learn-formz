@@ -683,5 +683,95 @@
   "term": "Swatch",
   "th": "ตัวอย่างสีหรือวัสดุบน board",
   "ch": "C6-7"
+ },
+ {
+  "term": "Orthographic projection",
+  "th": "ภาพฉาย มองตรงทีละด้านโดยไม่มี perspective",
+  "ch": "C7-1"
+ },
+ {
+  "term": "First-angle / Third-angle projection",
+  "th": "ระบบวางภาพฉาย (ISO/ไทยนิยม first-angle: Top อยู่ใต้ Front)",
+  "ch": "C7-1"
+ },
+ {
+  "term": "Tolerance",
+  "th": "ช่วงที่ยอมให้ขนาดจริงคลาดได้ เช่น ±0.2 mm",
+  "ch": "C7-1"
+ },
+ {
+  "term": "Title block",
+  "th": "ตารางข้อมูลแบบ (ชื่องาน วัสดุ มาตราส่วน ผู้เขียน วันที่)",
+  "ch": "C7-1"
+ },
+ {
+  "term": "Screw/Bolt",
+  "th": "เครื่องมือสร้างสกรู/โบลต์มีเกลียวจากค่าพารามิเตอร์ (Specialties)",
+  "ch": "C7-3"
+ },
+ {
+  "term": "Measure Distance / Measure Between",
+  "th": "วัดระยะจุดถึงจุด (Update เพื่อ scale ได้) / วัดระหว่างจุด เส้น หน้าที่ขนานกัน",
+  "ch": "C7-4"
+ },
+ {
+  "term": "Measure Quantities",
+  "th": "แสดงข้อมูลวัตถุ เช่น ปริมาตร พื้นที่ และจุดศูนย์ถ่วง",
+  "ch": "C7-5"
+ },
+ {
+  "term": "Center of gravity",
+  "th": "จุดศูนย์ถ่วงของวัตถุ",
+  "ch": "C7-5"
+ },
+ {
+  "term": "Density",
+  "th": "ความหนาแน่น (g/cm³) ใช้คำนวณน้ำหนักจากปริมาตร",
+  "ch": "C7-5"
+ },
+ {
+  "term": "Linear / Multi Dimension (Chain, Stack, Ordinate)",
+  "th": "เส้นบอกขนาดเดี่ยว / หลายช่วงแบบต่อกัน ซ้อนชั้น หรือพิกัด",
+  "ch": "C7-6"
+ },
+ {
+  "term": "Dimension Styles (Screen / World)",
+  "th": "รูปแบบตัวหนังสือและลูกศรของ dimension (ขนาดคงที่บนจอ / ขนาดจริงในโมเดล)",
+  "ch": "C7-6"
+ },
+ {
+  "term": "Radial/Diameter Dimension · Angular Dimension",
+  "th": "บอกรัศมี (R) หรือเส้นผ่านศูนย์กลาง (Ø) · บอกมุมจาก 3 จุด",
+  "ch": "C7-7"
+ },
+ {
+  "term": "Leader Line / Text Note",
+  "th": "ลูกศรชี้พร้อมข้อความ / ข้อความหมายเหตุ",
+  "ch": "C7-7"
+ },
+ {
+  "term": "Associativity",
+  "th": "dimension ที่ผูกกับจุดของวัตถุ แก้วัตถุแล้วขนาดตาม",
+  "ch": "C7-7"
+ },
+ {
+  "term": "Clipping Plane",
+  "th": "ระนาบผ่าเฉพาะการแสดงผล ไม่ตัดโมเดลจริง",
+  "ch": "C7-8"
+ },
+ {
+  "term": "Section (tool)",
+  "th": "ตัดวัตถุจริงเป็น 2D หรือ 3D (Both / Front / Back)",
+  "ch": "C7-8"
+ },
+ {
+  "term": "Hatch",
+  "th": "ลายแรเงาบนวัตถุหรือหน้า เช่น หน้าตัด (โหลด .pat ได้)",
+  "ch": "C7-8"
+ },
+ {
+  "term": "Revision (Rev)",
+  "th": "รุ่นการแก้ไขของแบบ เช่น Rev A, Rev B",
+  "ch": "C7-10"
  }
 ]
