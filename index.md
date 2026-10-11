@@ -71,8 +71,8 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c5-animation/' | relative_url }}">C5 · Animation จากโมเดล</a></h3>
-<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~75 นาที<br>
-🏠 <strong>แม็กเย็บ</strong> (จาก C2) · Create Turntable View, Create Orbit View, Animate Object Staging (exploded view), Orbit Light, export วิดีโอ (formZ Pro 10.1+)
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~75 นาที · 9 บท<br>
+🏠 <strong>แม็กเย็บ</strong> (จาก C2) · Create Turntable View, Edit Axes + Keyframe, Animation Editor, Animate Object Staging (exploded view), Create Orbit View, Orbit Light, Generate Animation (formZ Pro 10.1+)
 </div>
 
 <div class="course-card">

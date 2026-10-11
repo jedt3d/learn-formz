@@ -548,5 +548,75 @@
   "term": "Final Gather",
   "th": "การคำนวณแสงสะท้อนต่อ (indirect light) ให้ภาพสมจริง",
   "ch": "C4-10"
+ },
+ {
+  "term": "Frames Per Second (fps)",
+  "th": "จำนวนภาพต่อวินาทีของวิดีโอ (ค่าเริ่มต้น 30)",
+  "ch": "C5-1"
+ },
+ {
+  "term": "Animation Time Line palette",
+  "th": "แถบเวลาสำหรับเลื่อนเวลาปัจจุบัน ดู key และกดเล่น",
+  "ch": "C5-1"
+ },
+ {
+  "term": "Animated entity",
+  "th": "วัตถุ ไฟ หรือ view ที่เปลี่ยนแปลงตามเวลา (แสดงใน Animation Editor)",
+  "ch": "C5-1"
+ },
+ {
+  "term": "Create Turntable View",
+  "th": "คำสั่ง 10.1 ที่ทำให้กล้องหมุนรอบ COI",
+  "ch": "C5-2"
+ },
+ {
+  "term": "Center of interest (COI)",
+  "th": "จุดที่กล้องมอง เป็นศูนย์กลางของ turntable/orbit",
+  "ch": "C5-2"
+ },
+ {
+  "term": "Ease In/Out",
+  "th": "การค่อย ๆ เร่งและค่อย ๆ ผ่อนความเร็วของการเคลื่อนไหว",
+  "ch": "C5-2"
+ },
+ {
+  "term": "Edit Axes",
+  "th": "ย้าย/หมุนแกนของ object ซึ่งเป็นจุดหมุน (pivot) ใน animation",
+  "ch": "C5-3"
+ },
+ {
+  "term": "Keyframe / Auto Keyframe",
+  "th": "จุดเวลาที่กำหนดสถานะของ / โหมดสร้าง key อัตโนมัติเมื่อแก้ของ",
+  "ch": "C5-4"
+ },
+ {
+  "term": "Animation Editor palette",
+  "th": "รายการ animated entities และกราฟ track ของแต่ละค่า",
+  "ch": "C5-5"
+ },
+ {
+  "term": "Lead in / Lead out",
+  "th": "ด้ามจับซ้าย/ขวาของ key ที่คุมการเร่ง/ผ่อนความเร็ว (flat, Linear)",
+  "ch": "C5-5"
+ },
+ {
+  "term": "Exploded view",
+  "th": "ภาพหรือวิดีโอที่ชิ้นส่วนแยกออกตามแนวประกอบ",
+  "ch": "C5-6"
+ },
+ {
+  "term": "Animate Object Staging",
+  "th": "คำสั่ง 10.1 ทำ exploded/fly-in (Disperse/Collect, Offset, Direction)",
+  "ch": "C5-6"
+ },
+ {
+  "term": "Create Orbit View / Orbit Light",
+  "th": "คำสั่ง 10.1 ให้กล้อง (Azimuth/Altitude) หรือแสงโคจรรอบสินค้า",
+  "ch": "C5-7"
+ },
+ {
+  "term": "Generate Animation...",
+  "th": "คำสั่งใน Display menu เรนเดอร์ทุกเฟรมเป็นไฟล์วิดีโอหรือภาพ",
+  "ch": "C5-8"
  }
 ]
