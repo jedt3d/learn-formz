@@ -468,5 +468,85 @@
   "term": "Pipe",
   "th": "สร้างท่อแบบ parametric ตามเส้น แก้เส้นผ่านศูนย์กลางใน Inspector ได้",
   "ch": "C3-12"
+ },
+ {
+  "term": "Material Type (RenderZone)",
+  "th": "ตัวเลือกใน Material Parameters ที่สลับไปตั้งค่าวัสดุสำหรับ RenderZone",
+  "ch": "C4-3"
+ },
+ {
+  "term": "Shader (Color / Reflection / Transparency / Bump)",
+  "th": "4 ชั้นของวัสดุ RenderZone: สี · การสะท้อน · ความโปร่งใส · ผิวนูน",
+  "ch": "C4-3"
+ },
+ {
+  "term": "Metal, Accurate / Glass, Accurate",
+  "th": "shader สะท้อนแบบ Fresnel สำหรับโลหะ / แก้ว",
+  "ch": "C4-4"
+ },
+ {
+  "term": "Fresnel",
+  "th": "ปรากฏการณ์ที่ผิวสะท้อนมากขึ้นเมื่อมองในมุมเฉียง",
+  "ch": "C4-4"
+ },
+ {
+  "term": "Multilayer Paint",
+  "th": "shader สีรถยนต์ (ชั้นสี + ชั้นเคลือบใส)",
+  "ch": "C4-5"
+ },
+ {
+  "term": "Glossy / Mirror",
+  "th": "shader พลาสติกเงา / กระจกเงา",
+  "ch": "C4-5"
+ },
+ {
+  "term": "Color Map",
+  "th": "ใช้ภาพเป็นสีของวัสดุ (Repetitions, Infinite)",
+  "ch": "C4-6"
+ },
+ {
+  "term": "Map Texture / Edit Texture",
+  "th": "กำหนดวิธีห่อภาพ (Mapping Type) / เลื่อน หมุน ย่อขยายลายบนหน้า",
+  "ch": "C4-6"
+ },
+ {
+  "term": "Decal",
+  "th": "สติกเกอร์ภาพแปะทับ material เดิม สูงสุด 32 ชิ้นต่อวัตถุ",
+  "ch": "C4-7"
+ },
+ {
+  "term": "Area light / Line light",
+  "th": "ไฟที่ปล่อยแสงจากผิวหรือเส้นของวัตถุ ให้เงานุ่ม",
+  "ch": "C4-8"
+ },
+ {
+  "term": "Key / Fill / Rim light",
+  "th": "แสงหลัก / แสงลดเงา / แสงขอบหลัง (การจัดแสง 3 จุด)",
+  "ch": "C4-8"
+ },
+ {
+  "term": "Lumens",
+  "th": "หน่วยความสว่างของแสงที่ปล่อยออกมา",
+  "ch": "C4-8"
+ },
+ {
+  "term": "Environment light",
+  "th": "ไฟจากภาพรอบฉาก (image based illumination)",
+  "ch": "C4-9"
+ },
+ {
+  "term": "Environment (Scene tab)",
+  "th": "ภาพรอบฉากที่วัสดุสะท้อน ไม่แสดงเป็นฉากหลังโดยอัตโนมัติ",
+  "ch": "C4-9"
+ },
+ {
+  "term": "Ambient Occlusion",
+  "th": "เงามืดตามซอกมุมที่แสงเข้าถึงยาก",
+  "ch": "C4-10"
+ },
+ {
+  "term": "Final Gather",
+  "th": "การคำนวณแสงสะท้อนต่อ (indirect light) ให้ภาพสมจริง",
+  "ch": "C4-10"
  }
 ]
