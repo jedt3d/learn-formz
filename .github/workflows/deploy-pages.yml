@@ -29,17 +29,12 @@ jobs:
           ruby-version: "3.4"
           bundler-cache: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "24"
-          cache: "npm"
+      # Node is not needed yet (no package.json). Re-add setup-node + `npm ci`
+      # once a package.json / package-lock.json is committed.
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Install Node dependencies
-        run: npm ci
+        id: pages
+        uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
@@ -52,6 +47,7 @@ jobs:
           path: "./_site"
 
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
