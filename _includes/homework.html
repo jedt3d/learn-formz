@@ -1,0 +1,21 @@
+{%- assign hw_id = include.id | default: page.url -%}
+<div class="homework-box">
+  <h3 class="mt-0">📤 ส่งการบ้าน: {{ include.title | default: "ภาพหน้าจอผลงาน" }}</h3>
+  <p class="mb-2">{{ include.what | default: "จับภาพหน้าจอผลงานของเรา" }}</p>
+  <p class="mb-2"><strong>ตอนนี้ (Phase 1):</strong> เก็บไฟล์ภาพไว้ในโฟลเดอร์ <code>portfolio/</code> ของตัวเอง แล้วติ๊กช่องด้านล่าง (บันทึกไว้ในเบราว์เซอร์เครื่องนี้เท่านั้น)</p>
+  <p class="mb-2"><label><input type="checkbox" data-hw="{{ hw_id }}"> ✅ ฉันทำ workshop นี้เสร็จและเก็บภาพแล้ว</label> <span class="hw-date text-small text-grey-dk-000"></span></p>
+  <p class="text-small mb-0"><em>เร็ว ๆ นี้ (Phase 3): ปุ่มอัปโหลดภาพผ่าน GitHub Issue Form เพื่อบันทึกชื่อและเวลาลง portfolio ส่วนตัว ไม่มีการให้คะแนน เราเชื่อใจกัน 🙂</em></p>
+</div>
+<script>
+(function(){
+  document.querySelectorAll('input[data-hw]').forEach(function(cb){
+    var key='lf-hw:'+cb.dataset.hw, span=cb.parentElement.parentElement.querySelector('.hw-date');
+    var v=localStorage.getItem(key);
+    if(v){cb.checked=true; span.textContent=' (บันทึกเมื่อ '+v+')';}
+    cb.addEventListener('change',function(){
+      if(cb.checked){var d=new Date().toLocaleString('th-TH',{timeZone:'Asia/Bangkok'}); localStorage.setItem(key,d); span.textContent=' (บันทึกเมื่อ '+d+')';}
+      else{localStorage.removeItem(key); span.textContent='';}
+    });
+  });
+})();
+</script>

@@ -1,0 +1,112 @@
+---
+layout: home
+title: หน้าแรก · แคตตาล็อก Course
+nav_order: 1
+permalink: /
+---
+
+# Learn formZ 🇹🇭
+{: .fs-9 }
+
+เรียน **formZ 10 Pro + RenderZone** ฉบับภาษาไทย สำหรับคนที่อยากเป็น **Product Designer**
+แบ่งเป็นบทสั้น ๆ ลงมือทำได้จริง และได้ผลงานไว้ใส่ portfolio ตั้งแต่ course แรก
+{: .fs-5 .fw-300 }
+
+[เริ่ม Course 1 เลย →]({{ '/courses/c1-quick-win/' | relative_url }}){: .btn .btn-primary .fs-5 .mr-2 }
+[อภิธานศัพท์ (Glossary)]({{ '/glossary/' | relative_url }}){: .btn .fs-5 }
+
+---
+
+## ทำไมต้อง formZ?
+
+หลายคนไม่เคยได้ยินชื่อ formZ เพราะ SketchUp ดังกว่าและดูใช้ง่ายกว่า แต่ formZ เป็น **solid + surface modeler** ที่ทำได้มากกว่าในหลายเรื่อง เช่น solid ที่ปิดสนิทจริง, NURBS, Subdivision, Controlled Round ที่กลับมาแก้ได้, ตรวจงานก่อนพิมพ์ 3D และ RenderZone ที่มากับโปรแกรม
+ถ้า **ตั้งค่าถูกตั้งแต่ต้น** formZ ก็ใช้ง่ายพอ ๆ กับ SketchUp เว็บนี้จะพิสูจน์เรื่องนั้นให้ดูทีละบท
+
+## รูปแบบของแต่ละ course
+
+- 1 course ใช้เวลารวม **ไม่เกิน ~1.5 ชั่วโมง** (อ่าน + ลงมือ)
+- 1 บทอ่านได้ใน 3–4 หน้าจอ และลงมือ 3–8 นาที
+- workshop สั้น (≤ 1 ชม.) ทำเสร็จแล้วส่งภาพหน้าจอเป็นการบ้าน **ไม่มีเกรด** เป็นการเก็บประวัติผลงานของตัวเอง
+
+## สัดส่วนเนื้อหา: Designer 75% · Engineering 25%
+
+<div class="balance" role="img" aria-label="สัดส่วน designer 75 เปอร์เซ็นต์ engineering 25 เปอร์เซ็นต์">
+  <div style="width:75%;background:#7253ed">🎨 Designer ~75%</div>
+  <div style="width:25%;background:#2c84fa">📐 Engineering ~25%</div>
+</div>
+
+<span class="tag tag-designer">Designer</span> ฟอร์ม ความสวยงาม วัสดุ ภาพนำเสนอ animation และ board
+<span class="tag tag-eng">Engineering</span> ขนาด แบบ drawing และการเตรียมผลิต (CAD/CAM) สำหรับคนที่ยังไม่มีพื้นฐาน
+
+## แคตตาล็อก
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c1-quick-win/' | relative_url }}">C1 · Quick Win: ปั้น → ใส่วัสดุ → เรนเดอร์</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 8 บท<br>
+ตั้งค่าแค่ที่จำเป็น ปั้น <em>ลำโพงจิ๋ว</em> ใส่วัสดุ 3 แบบ แล้วเรนเดอร์ภาพ hero shot ด้วย RenderZone
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c2-solid-form/' | relative_url }}">C2 · ฟอร์มสวยด้วย Solid</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
+Draw และ Object Type, Pick/Transform, Boolean, Controlled Round, Thicken, Symmetry · ชิ้นงาน: phone stand
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c3-curves-surfaces/' | relative_url }}">C3 · ผิวโค้งแบบมือโปร: Revolve, NURBS, SubD</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
+ชิ้นงาน: ขวดน้ำ (NURBS) และเคสหูฟัง (SubD) · ตรวจผิวด้วย Zebra
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}">C4 · RenderZone ระดับสตูดิโอ</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~85 นาที<br>
+Material library, Map Texture, Decal, แสงสตูดิโอ (Area/Environment), GI, คุณภาพเทียบกับเวลาเรนเดอร์
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c5-animation/' | relative_url }}">C5 · Animation จากโมเดล</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~75 นาที<br>
+Create Turntable View, Create Orbit View, Animate Object Staging (exploded view), Orbit Light, export วิดีโอ (formZ Pro 10.1+)
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c6-layout-boards/' | relative_url }}">C6 · Brand & Presentation Boards ด้วย formZ Layout</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~75 นาที<br>
+New Layout Project, sheet, Place Frame ที่ลิงก์กับโมเดล, ภาพ, ข้อความ, title block → board A3 ของแบรนด์
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}">C7 · วัดขนาดและเขียนแบบสำหรับ Product Design Engineering</a></h3>
+<span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
+Measure, Dimensions และ Dimension Styles, Section/Contours, hidden line แบบเส้นประ, drawing ใน Layout
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c8-make-it/' | relative_url }}">C8 · เตรียมผลิต: 3D Print, STEP, Laser</a></h3>
+<span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~80 นาที<br>
+เช็ค solid, Object Doctor, Print Preparation, Mass Properties, Polygon Mesh, STL/STEP/3DM, Waffle
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c9-capstone/' | relative_url }}">C9 · Capstone: ผลิตภัณฑ์ 1 ชิ้นตั้งแต่ต้นจนจบ</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
+Brief → sketch → model → check → render → board ลง portfolio
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c10-vray/' | relative_url }}">C10 · V-Ray 6 for formZ 10</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-soon">Coming soon</span><br>
+เรนเดอร์ระดับ photoreal ด้วย V-Ray ต่อยอดจาก C4
+</div>
+
+| Course | ประเภท | เวลา (นาที) |
+|---|---|---|
+| C1–C6 | Designer | ~505 |
+| C7–C8 | Engineering | ~170 |
+| C9 | ผสม (60/40) | ~90 |
+| **รวม (ไม่นับ C10)** | **Designer ≈ 73% · Engineering ≈ 27%** | ~765 |
+| ถ้ารวม C10 (~90) | Designer ≈ 76% · Engineering ≈ 24% | ~855 |
+
+{: .note }
+เนื้อหาทั้งหมดอ้างอิง **เอกสาร official ของ formZ 10** (ดู [แหล่งอ้างอิง]({{ '/references/' | relative_url }})) ถ้าเมนูบนเครื่องของเราไม่ตรงกับในบทเรียน ให้ดูกล่อง 🔍 ซึ่งบอกจุดที่ต้องยืนยันกับหน้าจอจริง

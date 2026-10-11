@@ -1,0 +1,70 @@
+title: Learn formZ
+description: เรียน formZ 10 + RenderZone สำหรับนักออกแบบผลิตภัณฑ์รุ่นใหม่ (ภาษาไทย)
+lang: th
+url: "https://jedt3d.github.io"
+baseurl: "/learn-formz"
+timezone: Asia/Bangkok
+
+theme: just-the-docs
+color_scheme: light
+
+plugins:
+  - jekyll-seo-tag
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "กลับขึ้นด้านบน"
+footer_content: "เนื้อหาเพื่อการศึกษา · formZ และ RenderZone เป็นเครื่องหมายการค้าของ AutoDesSys, Inc. · อ้างอิงเอกสาร official formZ 10"
+nav_external_links:
+  - title: formZ 10 Manual (official)
+    url: https://s3.us-east-2.amazonaws.com/assets.autodessys.com/manuals/formz10/formZ_Pro/responsive_html/index.htm
+    opens_in_new_tab: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/jedt3d/learn-formz"
+aux_links_new_tab: true
+
+callouts_level: quiet
+callouts:
+  easy:
+    title: "🟢 ง่ายเหมือน SketchUp"
+    color: green
+  power:
+    title: "🚀 SketchUp ทำไม่ได้ (หรือทำได้ยาก)"
+    color: purple
+  shapr:
+    title: "🔁 Shapr3D → formZ"
+    color: blue
+  warning:
+    title: "⚠ กับดัก"
+    color: red
+  verify:
+    title: "🔍 ต้องยืนยันบนหน้าจอจริง"
+    color: yellow
+  shot:
+    title: "📸 SCREENSHOT"
+    color: grey-lt
+  note:
+    title: "💡 หมายเหตุ"
+    color: blue
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .bundle
+  - "*.zip"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -1,0 +1,22 @@
+body { line-height: 1.75; }
+.main-content p, .main-content li { font-size: 1.02rem; }
+.meta-bar { display:flex; flex-wrap:wrap; gap:.5rem; margin:.25rem 0 1.25rem; }
+.meta-bar span { background:#f3f4f8; border-radius:999px; padding:.15rem .7rem; font-size:.85rem; }
+.chapter-nav { display:flex; justify-content:space-between; gap:1rem; margin:2.5rem 0 1rem; padding-top:1rem; border-top:1px solid #e6e1e8; }
+.chapter-nav a { display:block; max-width:48%; padding:.6rem .9rem; border:1px solid #e6e1e8; border-radius:6px; text-decoration:none; }
+.chapter-nav a:hover { background:#f5f6fa; }
+.chapter-nav .next { margin-left:auto; text-align:right; }
+.chapter-nav small { display:block; color:#5c5962; }
+.course-card { border:1px solid #e6e1e8; border-radius:8px; padding:1rem 1.1rem; margin:0 0 1rem; }
+.course-card h3 { margin-top:0 !important; }
+.tag { display:inline-block; font-size:.75rem; border-radius:4px; padding:.05rem .5rem; margin-right:.3rem; color:#fff; }
+.tag-designer { background:#7253ed; }
+.tag-eng { background:#2c84fa; }
+.tag-soon { background:#959396; }
+.tag-ready { background:#026e57; }
+.balance { display:flex; height:22px; border-radius:6px; overflow:hidden; margin:.5rem 0 1rem; font-size:.8rem; color:#fff; }
+.balance div { display:flex; align-items:center; justify-content:center; }
+.homework-box { border:2px dashed #7253ed; border-radius:8px; padding:1rem 1.2rem; margin:1.5rem 0; background:#faf8ff; }
+.homework-box label { font-weight:600; cursor:pointer; }
+details { margin:.4rem 0; }
+details summary { cursor:pointer; font-weight:600; }

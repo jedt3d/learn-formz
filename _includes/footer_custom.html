@@ -1,0 +1,21 @@
+{%- if page.chapter -%}
+  {%- assign siblings = site.pages | where: "parent", page.parent | where: "chapter", true | sort: "nav_order" -%}
+  {%- for p in siblings -%}
+    {%- if p.url == page.url -%}
+      {%- assign idx = forloop.index0 -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign prev_i = idx | minus: 1 -%}
+  {%- assign next_i = idx | plus: 1 -%}
+  <nav class="chapter-nav" aria-label="บทก่อนหน้าและถัดไป">
+    {%- if idx > 0 -%}
+      {%- assign pp = siblings[prev_i] -%}
+      <a class="prev" href="{{ pp.url | relative_url }}"><small>← ก่อนหน้า</small>{{ pp.title }}</a>
+    {%- endif -%}
+    {%- if next_i < siblings.size -%}
+      {%- assign np = siblings[next_i] -%}
+      <a class="next" href="{{ np.url | relative_url }}"><small>ถัดไป →</small>{{ np.title }}</a>
+    {%- endif -%}
+  </nav>
+{%- endif -%}
+<p class="text-small text-grey-dk-000 mb-0">{{ site.footer_content }}</p>
