@@ -95,8 +95,8 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c9-capstone/' | relative_url }}">C9 · Capstone: ผลิตภัณฑ์ 1 ชิ้นตั้งแต่ต้นจนจบ</a></h3>
-<span class="tag tag-designer">Designer</span><span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
-🏠 <strong>เลือกเองจากบ้าน</strong> (เช่น เมาส์ แปรงสีฟัน) · brief → วัด → model → check → render → board
+<span class="tag tag-designer">Designer</span><span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 11 บท<br>
+🏠 <strong>เลือกเองจากบ้าน</strong> (ตัวอย่างหลัก: เมาส์คอมพิวเตอร์) · brief → Underlay 2 ระนาบ → Subdivision blockout + Object Symmetry → Squeeze/Stretch → Split + parting line → check-list → CMF hero render → บอร์ด + แบบ + STEP/STL
 </div>
 
 <div class="course-card">

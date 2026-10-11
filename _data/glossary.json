@@ -75,6 +75,11 @@
   "ch": "C1-2"
  },
  {
+  "term": "Blockout",
+  "th": "ปั้นก้อนหยาบให้สัดส่วนถูกก่อนใส่รายละเอียด",
+  "ch": "C9-4"
+ },
+ {
   "term": "Boolean",
   "th": "การรวม (Union) ลบ (Difference) หรือหาส่วนตัด (Intersection) ของ solid",
   "ch": "C1-5"
@@ -160,9 +165,19 @@
   "ch": "C4-7"
  },
  {
+  "term": "Deliverables",
+  "th": "ชุดไฟล์ที่ต้องส่งเมื่อจบงาน",
+  "ch": "C9-10"
+ },
+ {
   "term": "Density",
   "th": "ความหนาแน่น (g/cm³) ใช้คำนวณน้ำหนักจากปริมาตร",
   "ch": "C7-5"
+ },
+ {
+  "term": "Design brief",
+  "th": "เอกสารสั้น ๆ บอกผู้ใช้ ปัญหา ไอเดีย ข้อจำกัด และงานที่ต้องส่ง",
+  "ch": "C9-1"
  },
  {
   "term": "DfAM (Design for Additive Manufacturing)",
@@ -218,6 +233,11 @@
   "term": "Environment light",
   "th": "ไฟจากภาพรอบฉาก (image based illumination)",
   "ch": "C4-9"
+ },
+ {
+  "term": "Ergonomics",
+  "th": "การออกแบบให้เหมาะกับร่างกายผู้ใช้ (จับถนัดมือ)",
+  "ch": "C9-5"
  },
  {
   "term": "Exploded view",
@@ -310,6 +330,11 @@
   "ch": "C8-3"
  },
  {
+  "term": "Hero shot",
+  "th": "ภาพหลักที่ใช้ขายไอเดีย มักเป็นมุม 3/4",
+  "ch": "C9-9"
+ },
+ {
   "term": "Hidden Line",
   "th": "การแสดงผลแบบเส้นที่ซ่อนเส้นด้านหลัง",
   "ch": "C6-6"
@@ -338,6 +363,11 @@
   "term": "Insert (Cut / Fill)",
   "th": "วาดลงบนหน้าของวัตถุแล้วขุดหรือเติมเนื้อเข้าไปในวัตถุเดิม",
   "ch": "C2-5"
+ },
+ {
+  "term": "Insert Sequence",
+  "th": "คำสั่งคลิกขวาบน SubD เพื่อเพิ่มแถว edge รอบวัตถุ",
+  "ch": "C9-4"
  },
  {
   "term": "Inspector palette",
@@ -525,6 +555,11 @@
   "ch": "C1-4"
  },
  {
+  "term": "Parting line",
+  "th": "ร่องตรงที่ชิ้นส่วนต่อกัน",
+  "ch": "C9-6"
+ },
+ {
   "term": "Pipe",
   "th": "สร้างท่อแบบ parametric ตามเส้น แก้เส้นผ่านศูนย์กลางใน Inspector ได้",
   "ch": "C3-12"
@@ -705,6 +740,11 @@
   "ch": "C2-7"
  },
  {
+  "term": "Squeeze",
+  "th": "Subdivision edit tool ขยาย/หด edge หรือ sequence",
+  "ch": "C9-5"
+ },
+ {
   "term": "STEP (AP214/AP203)",
   "th": "ไฟล์มาตรฐาน ISO 10303 เก็บ solid แม่นยำ ส่งต่อ CAD อื่น",
   "ch": "C8-9"
@@ -723,6 +763,11 @@
   "term": "STL / STEP",
   "th": "ไฟล์สำหรับพิมพ์ 3D / ไฟล์ solid สำหรับส่งต่อให้โปรแกรม CAD",
   "ch": "C8"
+ },
+ {
+  "term": "Stretch",
+  "th": "Subdivision edit tool ดัน face ออกตั้งฉาก (ไม่เพิ่ม face)",
+  "ch": "C9-5"
  },
  {
   "term": "Subdivision (SubD)",
