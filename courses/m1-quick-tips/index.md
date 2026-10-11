@@ -1,0 +1,23 @@
+---
+title: "M1 · Mini: formZ Quick Tips"
+nav_order: 27.5
+has_children: true
+permalink: /courses/m1-quick-tips/
+---
+
+# M1 · Mini: formZ Quick Tips ทำงานไวขึ้น 2 เท่า
+{: .no_toc }
+
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **45 นาที** · 7 บทสั้น (บทละ 5–7 นาที)
+
+**Mini course** = บทสั้นมาก แต่ละบทให้ **ทริก 1 อย่างที่ใช้ได้ทันที** เรียนเมื่อไรก็ได้หลังจบ C1 (ไม่จำเป็นต้องเรียนตามลำดับ)
+
+| # | ทริก | เวลา |
+|---|---|---|
+| 1 | [ปุ่มลัดแบบ SketchUp ในคลิกเดียว]({{ '/courses/m1-quick-tips/01-shortcuts/' | relative_url }}) | 6 |
+| 2 | [Quick Keys + Nudge: ขยับทีละ 0.5 mm]({{ '/courses/m1-quick-tips/02-nudge/' | relative_url }}) | 6 |
+| 3 | [Taps: แตะปุ่มเดียวเปลี่ยนโหมด]({{ '/courses/m1-quick-tips/03-taps/' | relative_url }}) | 6 |
+| 4 | [Guides: เส้นช่วยด้วย Shift+Space]({{ '/courses/m1-quick-tips/04-guides/' | relative_url }}) | 7 |
+| 5 | [Tool palette ของเราเอง]({{ '/courses/m1-quick-tips/05-tool-manager/' | relative_url }}) | 7 |
+| 6 | [Place On: วางของซ้ำบนผิวทีเดียว]({{ '/courses/m1-quick-tips/06-place-on/' | relative_url }}) | 7 |
+| 7 | [สรุป: ชุดทริกของเรา]({{ '/courses/m1-quick-tips/07-recap/' | relative_url }}) | 5 |

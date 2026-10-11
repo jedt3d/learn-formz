@@ -320,6 +320,11 @@
   "ch": "C1-2"
  },
  {
+  "term": "Guides",
+  "th": "เส้นช่วยยาวไม่สิ้นสุด (ชั่วคราว Shift+Space / ถาวร Draw Guide)",
+  "ch": "M1-4"
+ },
+ {
   "term": "Hatch",
   "th": "ลายแรเงาบนวัตถุหรือหน้า เช่น หน้าตัด (โหลด .pat ได้)",
   "ch": "C7-8"
@@ -398,6 +403,11 @@
   "term": "Key / Fill / Rim light",
   "th": "แสงหลัก / แสงลดเงา / แสงขอบหลัง (การจัดแสง 3 จุด)",
   "ch": "C4-8"
+ },
+ {
+  "term": "Key Shortcuts Manager",
+  "th": "หน้าต่างตั้งปุ่มลัด (Edit › Key Shortcuts...) มี Preset แบบ Rhino/SketchUp",
+  "ch": "M1-1"
  },
  {
   "term": "Keyframe / Auto Keyframe",
@@ -505,6 +515,11 @@
   "ch": "C4-5"
  },
  {
+  "term": "Nudge",
+  "th": "ขยับชิ้นงานทีละระยะคงที่ด้วยปุ่ม",
+  "ch": "M1-2"
+ },
+ {
   "term": "NURBS",
   "th": "ผิวหรือเส้นโค้งทางคณิตศาสตร์ที่แม่นยำ",
   "ch": "C3"
@@ -580,6 +595,11 @@
   "ch": "C6-8"
  },
  {
+  "term": "Place On",
+  "th": "วางสำเนาของชิ้นบนหน้า ขอบ หรือจุดของอีกชิ้น",
+  "ch": "M1-6"
+ },
+ {
   "term": "Place Text",
   "th": "วางตัวหนังสือ (เลือกฟอนต์/ขนาดใน Text Editor)",
   "ch": "C6-7"
@@ -628,6 +648,11 @@
   "term": "Project Settings",
   "th": "การตั้งค่าของไฟล์นั้น ๆ (File menu) เช่น หน่วยและสี",
   "ch": "C1-2"
+ },
+ {
+  "term": "Quick Keys",
+  "th": "palette รวมปุ่มลัดซ่อน: Navigation, Nudge, Drawing",
+  "ch": "M1-2"
  },
  {
   "term": "Radial/Diameter Dimension · Angular Dimension",
@@ -810,6 +835,11 @@
   "ch": "C8-2"
  },
  {
+  "term": "Taps",
+  "th": "แตะ Shift/Ctrl/Alt ระหว่างใช้เครื่องมือเพื่อสลับโหมด",
+  "ch": "M1-3"
+ },
+ {
   "term": "Template Project",
   "th": "ไฟล์ต้นแบบที่ไฟล์ใหม่ทุกไฟล์จะคัดลอกค่าไปใช้",
   "ch": "C1-2"
@@ -833,6 +863,11 @@
   "term": "Tolerance",
   "th": "ช่วงที่ยอมให้ขนาดจริงคลาดได้ เช่น ±0.2 mm",
   "ch": "C7-1"
+ },
+ {
+  "term": "Tool Manager",
+  "th": "จัด tool palette เองและรวมเครื่องมือโปรด",
+  "ch": "M1-5"
  },
  {
   "term": "Tool Options palette",

@@ -48,5 +48,5 @@ Brief → วัด/ถ่ายรูป (Underlay)            ← C2
 **จาก "formZ คืออะไร?" สู่ portfolio ภายใน ~13 ชั่วโมง** ซึ่งทุกขั้นทำในโปรแกรมเดียว ทั้ง solid, NURBS, SubD, เรนเดอร์, animation, layout, แบบ และไฟล์ผลิต
 
 ## ➡️ ต่อไป
-- Mini · formZ Quick Tips (กำลังจะมา) เทคนิคสั้น ๆ ที่ทำให้ทำงานเร็วขึ้น
+- [M1 · Mini: formZ Quick Tips]({{ '/courses/m1-quick-tips/' | relative_url }}) เทคนิคสั้น ๆ ที่ทำให้ทำงานเร็วขึ้น
 - [C10 · V-Ray 6 for formZ 10]({{ '/courses/c10-vray/' | relative_url }}) (เร็ว ๆ นี้) เรนเดอร์ระดับ photoreal

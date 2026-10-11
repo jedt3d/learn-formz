@@ -100,6 +100,12 @@ permalink: /
 </div>
 
 <div class="course-card">
+<h3><a href="{{ '/courses/m1-quick-tips/' | relative_url }}">M1 · Mini: formZ Quick Tips</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~45 นาที · 7 บท<br>
+⚡ บทสั้นทริกละ 1 อย่าง เรียนได้ตั้งแต่จบ C1 · Key Shortcuts (Preset แบบ SketchUp), Quick Keys/Nudge, Taps, Guides (Shift+Space), Tool Manager, Place On
+</div>
+
+<div class="course-card">
 <h3><a href="{{ '/courses/c10-vray/' | relative_url }}">C10 · V-Ray 6 for formZ 10</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">Coming soon</span><br>
 เรนเดอร์ระดับ photoreal ด้วย V-Ray ต่อยอดจาก C4
@@ -107,11 +113,13 @@ permalink: /
 
 | Course | ประเภท | เวลา (นาที) |
 |---|---|---|
-| C1–C6 | Designer | ~505 |
+| C1–C6 + M1 | Designer | ~550 |
 | C7–C8 | Engineering | ~170 |
 | C9 | ผสม (60/40) | ~90 |
-| **รวม (ไม่นับ C10)** | **Designer ≈ 73% · Engineering ≈ 27%** | ~765 |
-| ถ้ารวม C10 (~90) | Designer ≈ 76% · Engineering ≈ 24% | ~855 |
+| **รวม (ไม่นับ C10)** | **Designer ≈ 74% · Engineering ≈ 26%** | ~810 |
+
+**รวมทั้งหมด 102 บท** ใน 10 course ที่พร้อมเรียน (C1–C9 + M1) · C10 V-Ray เร็ว ๆ นี้
+| ถ้ารวม C10 (~90) | Designer ≈ 76% · Engineering ≈ 24% | ~900 |
 
 {: .note }
 เนื้อหาทั้งหมดอ้างอิง **เอกสาร official ของ formZ 10** (ดู [แหล่งอ้างอิง]({{ '/references/' | relative_url }})) ถ้าเมนูบนเครื่องของเราไม่ตรงกับในบทเรียน ให้ดูกล่อง 🔍 ซึ่งบอกจุดที่ต้องยืนยันกับหน้าจอจริง
