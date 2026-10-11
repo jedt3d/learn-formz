@@ -1,30 +1,34 @@
 ---
 title: "C3 · ผิวโค้งแบบมือโปร"
 nav_order: 21
+has_children: true
 permalink: /courses/c3-curves-surfaces/
 ---
 
-# C3 · ผิวโค้งแบบมือโปร
+# C3 · ผิวโค้งแบบมือโปร: ดินสอ + กาต้มน้ำไฟฟ้า
 {: .no_toc }
 
-<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ เป้าหมายประมาณ 90 นาที
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **90 นาที** (อ่าน ~48 + ลงมือ ~42) · 12 บท
 
-{: .verify }
-course นี้ **อยู่ระหว่างวางแผน** โครงด้านล่างคือร่างบทเรียนที่จะเขียนต่อ
+**จบ course นี้แล้วเราจะได้:** ① **ดินสอไม้** ที่เหลาแล้ว (เห็นความต่างของ facetted กับ smooth ชัด ๆ) ② **กาต้มน้ำไฟฟ้า** แบบย่อ: ตัวกาจาก Revolve, พวยจาก NURBS by Lofting, หูจับจาก Subdivision และฝาปิดที่มีปุ่มจับ
 
-**ชิ้นงานหลัก:** warm-up: ดินสอหกเหลี่ยม · หลัก: กาต้มน้ำไฟฟ้า (แบบย่อ)
-**เทคนิค:** Facetted vs Smooth, NURBS, Revolve, Loft/Skin, Subdivision
+{: .shot }
+[SCREENSHOT: ภาพปก: ดินสอวางข้างกาต้มน้ำ เรนเดอร์บนพื้น Catcher]
 
 {: .note }
-ใช้กิจกรรม [อ้างอิงจากของในบ้าน]({{ '/home-reference/' | relative_url }}) วัดและถ่ายรูปของจริงก่อนเริ่ม
+ต้องมี: **ดินสอไม้ + กาต้มน้ำ (หรือภาพถ่ายกาต้มน้ำ)** · ความรู้จาก C1–C2 (Preset, Boolean, Thicken, Underlay)
 
-## ร่างบทเรียน
-1. ดินสอ: Facetted vs Smooth (Convert Object Type, Faceting Schemes) + Intersection เพื่อเหลาปลาย
-2. Curve Create / Curve Edit / Curve Blend
-3. ตัวกา: Revolve หรือ NURBS by Cross Sections
-4. พวย: Loft หรือ Skin + NURBS Surface Blend
-5. หูจับ: Subdivision / Create → Grow Face / Offset Face / Soften
-6. Union + ตรวจผิวด้วย Surface Analysis (Zebra)
-7. Workshop: Kettle (~60 นาที แบ่งทำ 2 ช่วงได้)
-
-<small>* = formZ Pro เท่านั้น · อ้างอิง R1: Convert Object Type, Faceting Schemes, Curves, Revolve, Loft, Skin, NURBS Surfaces, Subdivision Surfaces</small>
+| # | บท | อ่าน | ลงมือ | ได้อะไร |
+|---|---|---|---|---|
+| 1 | [Facetted vs Smooth ใน 5 นาที]({{ '/courses/c3-curves-surfaces/01-facet-smooth/' | relative_url }}) | 4 | 3 | ลูกบอล 2 แบบ |
+| 2 | [ดินสอหกเหลี่ยม]({{ '/courses/c3-curves-surfaces/02-pencil/' | relative_url }}) | 4 | 3 | ตัวดินสอ |
+| 3 | [เหลาดินสอด้วย Intersection]({{ '/courses/c3-curves-surfaces/03-sharpen/' | relative_url }}) | 4 | 4 | ปลายเหลาแบบของจริง |
+| 4 | [เส้นโค้งที่ควบคุมได้: Spline + Curve Edit]({{ '/courses/c3-curves-surfaces/04-curves/' | relative_url }}) | 4 | 4 | โปรไฟล์ตัวกา |
+| 5 | [Revolve: ตัวกาในคลิกเดียว]({{ '/courses/c3-curves-surfaces/05-revolve/' | relative_url }}) | 4 | 3 | ตัวกาผนังหนา 2 mm |
+| 6 | [พวยกา: NURBS by Lofting]({{ '/courses/c3-curves-surfaces/06-loft/' | relative_url }}) | 4 | 4 | พวยเรียว |
+| 7 | [Zebra: ตรวจความเนียนของผิว]({{ '/courses/c3-curves-surfaces/07-zebra/' | relative_url }}) | 4 | 3 | เห็นจุดที่ผิวหัก |
+| 8 | [Subdivision 101: ก้อนดินน้ำมันดิจิทัล]({{ '/courses/c3-curves-surfaces/08-subd-intro/' | relative_url }}) | 4 | 3 | cage → ผิวนุ่ม |
+| 9 | [หูจับ: Grow Face + Offset Face]({{ '/courses/c3-curves-surfaces/09-handle/' | relative_url }}) | 4 | 5 | หูจับรูป C |
+| 10 | [ฝา + ปุ่ม: Subdivision / Soften + Convert]({{ '/courses/c3-curves-surfaces/10-lid/' | relative_url }}) | 4 | 4 | ฝาปิด + ปุ่ม |
+| 11 | [ประกอบ + วัสดุ + เรนเดอร์]({{ '/courses/c3-curves-surfaces/11-assemble/' | relative_url }}) | 4 | 5 | ภาพกาต้มน้ำ |
+| 12 | [สรุป: ภาพรวม C3]({{ '/courses/c3-curves-surfaces/12-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

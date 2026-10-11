@@ -59,7 +59,7 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c3-curves-surfaces/' | relative_url }}">C3 · ผิวโค้งแบบมือโปร: Revolve, NURBS, SubD</a></h3>
-<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 12 บท<br>
 🏠 <strong>ดินสอ</strong> (Facetted vs Smooth) + <strong>กาต้มน้ำไฟฟ้า</strong> · Revolve, NURBS by Cross Sections, Loft/Skin, Subdivision
 </div>
 

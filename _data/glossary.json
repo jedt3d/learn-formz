@@ -373,5 +373,100 @@
   "term": "Group",
   "th": "รวมหลายวัตถุเป็นกลุ่มเดียว",
   "ch": "C2-10"
+ },
+ {
+  "term": "Facetted object",
+  "th": "วัตถุที่ผิวเป็นหน้าแบนหลายเหลี่ยมจริง (polygon)",
+  "ch": "C3-1"
+ },
+ {
+  "term": "Smooth object",
+  "th": "วัตถุที่ผิวเป็นคณิตศาสตร์โค้งจริง บนจอแสดงด้วย faceting",
+  "ch": "C3-1"
+ },
+ {
+  "term": "Display Resolution / Faceting Schemes",
+  "th": "ความละเอียดของการแสดงผลวัตถุ smooth / ชุดค่าสำเร็จรูปของความละเอียด",
+  "ch": "C3-1"
+ },
+ {
+  "term": "Convert Object Type",
+  "th": "แปลงชนิดวัตถุ เช่น smooth ↔ facetted",
+  "ch": "C3-1"
+ },
+ {
+  "term": "Intersection",
+  "th": "Boolean ที่เก็บเฉพาะส่วนที่ซ้อนทับกัน",
+  "ch": "C3-3"
+ },
+ {
+  "term": "Curve Create",
+  "th": "แปลง Vector Line เป็น NURBS Curve หรือ Spline Curve Through Points",
+  "ch": "C3-4"
+ },
+ {
+  "term": "Curve Edit",
+  "th": "แก้เส้นโค้งด้วย Control Points / Edit Points / Weights",
+  "ch": "C3-4"
+ },
+ {
+  "term": "Revolve",
+  "th": "หมุนโปรไฟล์รอบแกนให้เป็นทรงกลม (Angle, Continuous/Stepped, Cap)",
+  "ch": "C3-5"
+ },
+ {
+  "term": "Stitch",
+  "th": "เย็บผิวหลายชิ้นที่ขอบตรงกันให้เป็นชิ้นเดียว",
+  "ch": "C3-5"
+ },
+ {
+  "term": "NURBS by Lofting",
+  "th": "ขึงผิว NURBS ผ่านเส้นหน้าตัดตามลำดับ (Tight = ผ่านเส้น, Loose = ใช้ control points)",
+  "ch": "C3-6"
+ },
+ {
+  "term": "Loft / Skin",
+  "th": "สร้างผิวหรือ solid จากหน้าตัดหลายอัน / จากหน้าตัดร่วมกับ path",
+  "ch": "C3-6"
+ },
+ {
+  "term": "Surface Analysis / Zebra Stripes",
+  "th": "ตรวจความเนียนของผิวด้วยแถบสะท้อน (Pick > Attributes > Analysis)",
+  "ch": "C3-7"
+ },
+ {
+  "term": "Cage",
+  "th": "กรงเหลี่ยมที่ควบคุมผิว subdivision",
+  "ch": "C3-8"
+ },
+ {
+  "term": "Iterations / Sharpness",
+  "th": "จำนวนรอบการเกลี่ยผิว SubD / ความคมของจุด ขอบ หรือหน้า",
+  "ch": "C3-8"
+ },
+ {
+  "term": "Subdivision / Grow Face",
+  "th": "งอกหน้าใหม่จาก cage ตาม Distance และ Angle",
+  "ch": "C3-9"
+ },
+ {
+  "term": "Subdivision / Offset Face",
+  "th": "สร้างหน้าใหม่ขนานเดิมด้วย Distance และ Depth",
+  "ch": "C3-9"
+ },
+ {
+  "term": "Subdivision / Soften",
+  "th": "ลบมุมทุกขอบของวัตถุเหลี่ยมแล้วแปลงเป็น SubD",
+  "ch": "C3-10"
+ },
+ {
+  "term": "Subdivision / Convert",
+  "th": "แปลง SubD เป็น NURBS หรือ quad mesh (facetted)",
+  "ch": "C3-10"
+ },
+ {
+  "term": "Pipe",
+  "th": "สร้างท่อแบบ parametric ตามเส้น แก้เส้นผ่านศูนย์กลางใน Inspector ได้",
+  "ch": "C3-12"
  }
 ]
