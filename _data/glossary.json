@@ -278,5 +278,100 @@
   "term": "Colorway",
   "th": "ชุดสีหลายแบบของผลิตภัณฑ์รุ่นเดียวกัน",
   "ch": "C1-9"
+ },
+ {
+  "term": "Draw suite / Create suite",
+  "th": "กลุ่มเครื่องมือวาดรูป 2D แล้วเลือก object type / กลุ่มเครื่องมือสร้าง primitive",
+  "ch": "C2-2"
+ },
+ {
+  "term": "3D Extrusion",
+  "th": "object type ที่ดึงรูป 2D ขึ้นเป็น solid ตามความสูง",
+  "ch": "C2-2"
+ },
+ {
+  "term": "3D Delta / Plane / Plane Delta",
+  "th": "โหมดแสดงพิกัดใน Input palette: ระยะจากจุดก่อนหน้า หรือพิกัดตาม reference plane",
+  "ch": "C2-2"
+ },
+ {
+  "term": "Topological level",
+  "th": "ระดับที่จะเลือก: Point, Segment, Segment Sequence, Outline, Face, Hole, Object หรือ Auto Pick",
+  "ch": "C2-3"
+ },
+ {
+  "term": "Prepick / Postpick",
+  "th": "เลือกก่อนแล้วใช้เครื่องมือ / ใช้เครื่องมือคลิกเลือกเอง",
+  "ch": "C2-3"
+ },
+ {
+  "term": "Reshape",
+  "th": "ดึงหน้าเรียบของวัตถุเพื่อเปลี่ยนรูปทรง",
+  "ch": "C2-3"
+ },
+ {
+  "term": "Vector Line / Arc",
+  "th": "เครื่องมือวาดเส้นตรงหลายช่วง / เส้นโค้งวงกลม สลับกันได้ระหว่างวาด",
+  "ch": "C2-4"
+ },
+ {
+  "term": "Insert (Cut / Fill)",
+  "th": "วาดลงบนหน้าของวัตถุแล้วขุดหรือเติมเนื้อเข้าไปในวัตถุเดิม",
+  "ch": "C2-5"
+ },
+ {
+  "term": "Align / Distribute",
+  "th": "จัดวัตถุให้ตรงแนวหรือกระจายระยะเท่ากันตามแกน X/Y/Z",
+  "ch": "C2-6"
+ },
+ {
+  "term": "Transform (tool)",
+  "th": "เครื่องมือ controller เดียวที่ย้าย หมุน และ scale ได้",
+  "ch": "C2-6"
+ },
+ {
+  "term": "Split (Boolean Split)",
+  "th": "แบ่ง solid ด้วยอีกชิ้น ได้ทั้งส่วนใน/นอก (One Way / Two Way)",
+  "ch": "C2-7"
+ },
+ {
+  "term": "Slice",
+  "th": "ตัดวัตถุด้วยเส้นที่ดึงตั้งฉากกับ reference plane (Heal = ปิดรอยตัด)",
+  "ch": "C2-7"
+ },
+ {
+  "term": "Separate",
+  "th": "แยก object ที่มีหลาย volume เป็นหลายชิ้น",
+  "ch": "C2-7"
+ },
+ {
+  "term": "Round to Holdline",
+  "th": "ลบมุมที่รัศมีเปลี่ยนตามเส้น holdline บนหน้าข้างขอบ",
+  "ch": "C2-8"
+ },
+ {
+  "term": "Thicken",
+  "th": "เพิ่มความหนาให้ผิว หรือทำ solid ให้กลวงโดยมีผนังหนาตามที่ตั้ง (Justification)",
+  "ch": "C2-9"
+ },
+ {
+  "term": "Injection molding",
+  "th": "การฉีดพลาสติก ชิ้นงานควรหนาสม่ำเสมอ",
+  "ch": "C2-9"
+ },
+ {
+  "term": "Object Symmetry",
+  "th": "ใส่ระนาบสมมาตรแบบ live ให้วัตถุ แก้ข้างหนึ่งอีกข้างตาม",
+  "ch": "C2-10"
+ },
+ {
+  "term": "Layers palette",
+  "th": "จัดกลุ่มวัตถุ เปิดปิด ล็อก ห้าม snap · layer ที่ active (จุดแดง) รับวัตถุใหม่",
+  "ch": "C2-10"
+ },
+ {
+  "term": "Group",
+  "th": "รวมหลายวัตถุเป็นกลุ่มเดียว",
+  "ch": "C2-10"
  }
 ]

@@ -53,7 +53,7 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c2-solid-form/' | relative_url }}">C2 · ฟอร์มสวยด้วย Solid</a></h3>
-<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 11 บท<br>
 🏠 <strong>แม็กเย็บกระดาษ</strong> · Extrude, Boolean (Union/Difference/Split), Round to Holdline, Symmetry, Thicken
 </div>
 
