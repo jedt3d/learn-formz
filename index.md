@@ -47,8 +47,8 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c1-quick-win/' | relative_url }}">C1 · Quick Win: ปั้น → ใส่วัสดุ → เรนเดอร์</a></h3>
-<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 8 บท<br>
-ตั้งค่าแค่ที่จำเป็น ปั้น <em>ลำโพงจิ๋ว</em> ใส่วัสดุ 3 แบบ แล้วเรนเดอร์ภาพ hero shot ด้วย RenderZone<br><small>🔄 แผนต่อไป: เปลี่ยนชิ้นงานเป็น <strong>ปากกาเมจิก</strong> จากบ้าน (เทคนิค: Solid, Controlled Round, Boolean)</small>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 9 บท<br>
+🏠 <strong>ปากกาเมจิก</strong> · ตั้งค่าแค่ที่จำเป็น วัดของจริง ปั้นด้วย Solid, Controlled Round, Union/Difference ใส่วัสดุ 3 แบบ แล้วเรนเดอร์ด้วย RenderZone
 </div>
 
 <div class="course-card">

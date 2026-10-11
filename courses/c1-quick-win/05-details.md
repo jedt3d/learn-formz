@@ -1,5 +1,5 @@
 ---
-title: "5. ใส่รายละเอียด: ขอบมน + ปุ่ม"
+title: "5. ปลอกปากกา: ขอบมน + เจาะ + คลิป"
 parent: "C1 · Quick Win"
 nav_order: 5
 chapter: true
@@ -8,70 +8,64 @@ do_time: 8
 permalink: /courses/c1-quick-win/05-details/
 ---
 
-# 5. ใส่รายละเอียด: ขอบมน + ปุ่ม
+# 5. ปลอกปากกา: ขอบมน + เจาะ + คลิป
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
-- ทำขอบมนด้วย **Controlled Round** ซึ่งกลับมาแก้รัศมีได้ตลอด
-- เจาะร่องด้วย **Difference** (Boolean)
-- ใส่ปุ่มลงในร่องได้ตรงศูนย์กลาง
+- ทำขอบมนที่กลับมาแก้ได้ด้วย **Controlled Round**
+- รวมชิ้นด้วย **Union** และเจาะรูด้วย **Difference** (Boolean)
+- ได้ปลอกปากกาที่ **กลวงจริง** เสียบด้ามได้
 
 ## 💡 ไอเดียสั้น ๆ
-ของที่ดู "แพง" ส่วนใหญ่ **ไม่มีขอบคม** แค่ลบมุม 3–6 mm ลำโพงก็ดูเป็นสินค้าจริงทันที
-**Controlled Round** ต่างจาก Round ธรรมดาตรงที่วัตถุ **จำค่าการลบมุมไว้** จึงกลับมาแก้ได้ทุกเมื่อ (R1: Controlled Round, R17)
+ของที่ดู "เป็นสินค้าจริง" มี 2 อย่างที่ต้องมีคือ **ขอบมน** และ **ความหนาจริง** ปลอกปากกาเป็นตัวอย่างที่ดี มีทั้งขอบมน คลิป และรูด้านใน
 
-| รายละเอียด | ค่า |
+| ส่วน | ค่า (ตัวอย่าง) |
 |---|---|
-| ขอบบนของ Body | R6 |
-| ขอบล่างของ Body | R3 |
-| ร่องปุ่มบน Cap | Ø12 ลึก 1 mm |
-| ปุ่ม | Ø10 สูง 2 mm (โผล่พ้นผิว Cap 1 mm) |
+| Cap (ปลอก) | Ø18 × 55 mm วางที่ X = 40 (ข้าง ๆ ปากกา) |
+| ขอบบนของปลอก | R3 |
+| Clip | กล่อง 4 × 3 × 38 mm ติดข้างปลอก |
+| รูด้านใน | Ø16.4 ลึก 50 mm (เผื่อหลวม 0.2 mm ต่อด้าน) |
+
+**ลำดับที่ดี:** ทำขอบมนก่อน แล้วค่อย Union และ Difference
 
 ## 👣 ลงมือทำ (8 นาที)
 
-### A. ขอบมน (Controlled Round)
-1. เลือกเครื่องมือ **Controlled Round** (Assistant: พิมพ์ `round`)
-2. คลิกที่ **Body** 1 ครั้ง palette จะขยายตัวเลือกเพิ่มขึ้น
-3. คลิก **ขอบวงกลมด้านบน** แล้วตั้งรัศมี **6**
-4. กดปุ่ม **+** ที่รายการ set ด้านล่างของ palette เพื่อสร้าง set ใหม่ แล้วคลิก **ขอบวงกลมด้านล่าง** และตั้งรัศมี **3**
-5. หมุนมุมมองดูให้ทั่ว แล้วลองกลับไปแก้ set แรกเป็น 8 แล้วแก้กลับเป็น 6
+### A. ปลอก + ขอบมน
+1. **Cylinder > Preset** ตั้ง Radius X/Y = **9**, Height = **55** แล้วคลิกที่ (40, 0, 0) โดยดูค่าใน Input palette
+2. เลือก **Controlled Round** คลิกที่ปลอก แล้วคลิก **ขอบวงกลมด้านบน** ตั้งรัศมี **3**
+3. ลองแก้เป็น 5 แล้วแก้กลับเป็น 3 จะเห็นว่าแก้ได้ตลอด
 
 {: .shot }
-[SCREENSHOT: Controlled Rounding Tool Options ที่มี 2 sets (R6, R3) และเห็นขอบมนบนตัวลำโพง]
+[SCREENSHOT: Controlled Rounding Tool Options ที่ set แรกมีค่า R3 และขอบบนของปลอกมน]
 
-{: .note }
-ถ้า Cap ซ้อนอยู่บนขอบที่ลบมุมแล้วดูแปลก ให้เช็คว่า Cap กว้าง Ø54 ซึ่งเล็กกว่าหน้าแบนที่เหลือของ Body (70 − 2×6 = 58 mm)
+### B. คลิป (Union)
+4. เลือก **Cube** วิธี **Diagonal** แล้วพิมพ์มุมแรก (38, 8, 15) และมุมที่สอง (42, 11, 15) ใน **Input palette** จากนั้นตั้งความสูง **38** (คลิปจะซ้อนเข้าไปในผนังปลอก 1 mm)
+5. เลือก **Union** แล้วคลิกปลอกกับคลิป จะได้เป็น object เดียว
 
-### B. เจาะร่องปุ่ม (Difference)
-6. **Cylinder > Preset** ตั้ง Radius X/Y = **6**, Height = **2** แล้ววางบนหน้าบนของ **Cap** ที่ **Snap to Center**
-7. เลื่อนชิ้นนี้ (ตัวตัด) ลงไป **1 mm** ด้วย **Move** หรือ **Transform** โดยพิมพ์ค่า Z = −1 (R19)
-8. เลือก **Difference** แล้วคลิก **Cap ก่อน** จากนั้นคลิกตัวตัด เพราะลำดับสำคัญ ชิ้นที่สองจะถูกลบออกจากชิ้นแรก (R1: Difference)
+### C. รูด้านใน (Difference)
+6. **Cylinder > Preset** ตั้ง Radius X/Y = **8.2**, Height = **50** แล้วคลิกที่ (40, 0, 0) ซึ่งเป็นตัวตัดจากด้านล่าง
+7. เลือก **Difference** แล้วคลิก **ปลอกก่อน** จากนั้นคลิกตัวตัด ชิ้นที่สองจะถูกลบออกจากชิ้นแรก (R1: Difference)
+8. สลับไป **Wire Frame** เพื่อดูว่ารูอยู่ข้างในจริง ตั้งชื่อ `Cap` แล้ว **บันทึกไฟล์**
 
 {: .shot }
-[SCREENSHOT: ก่อนและหลัง Difference ให้เห็นร่อง Ø12 บน Cap]
-
-### C. ปุ่ม
-9. **Cylinder > Preset** ตั้ง Radius X/Y = **5**, Height = **2** แล้ววางที่ **ศูนย์กลางของพื้นร่อง**
-10. ตั้งชื่อใน Objects palette ว่า `Button` แล้ว **บันทึกไฟล์**
+[SCREENSHOT: ปลอกใน Wire Frame ให้เห็นรูด้านในและคลิป]
 
 {: .verify }
-ค่าเริ่มต้นของ **Edit menu > Ghost / Delete / Keep** (สิ่งที่จะเกิดกับตัวตัดหลังทำ Boolean) ยังไม่ได้ยืนยันใน v10 ถ้าตัวตัดยังเหลือเป็นเงาจาง ๆ (ghosted) ให้ใช้ **Edit > Clear Ghosted Operands** ส่วนวิธีพิมพ์ค่าเลื่อนใน Move หรือ Transform ให้ยืนยันกับหน้าจอจริงแล้วจับภาพมาใส่
+- ค่าเริ่มต้นของ **Edit menu > Ghost / Delete / Keep** (สิ่งที่จะเกิดกับตัวตัดหลังทำ Boolean) ยังไม่ได้ยืนยันใน v10 ถ้าตัวตัดเหลือเป็นเงาจาง ให้ใช้ **Edit > Clear Ghosted Operands**
+- การพิมพ์มุมของ Cube Diagonal ใน Input palette ต้องยืนยันว่าพิมพ์ x, y, z ได้ครบหรือต้องกด Tab สลับช่อง
 
 {: .easy }
 ลบมุมแค่คลิกขอบแล้วพิมพ์รัศมี ไม่ต้องลง extension เพิ่มเหมือน SketchUp
 
 {: .power }
-SketchUp ไม่มีการลบมุม (fillet) แบบ solid ในตัว และแก้ย้อนหลังไม่ได้ ส่วน **Controlled Round ของ formZ แก้ย้อนหลังได้** และ Difference ก็ให้ผลเป็น solid ที่ปิดสนิทพร้อมพิมพ์ 3D
+SketchUp ไม่มี fillet แบบ solid ในตัว และ Boolean ของ SketchUp ใช้ได้เฉพาะ solid group ที่ปิดสนิท (Solid Tools มีครบเฉพาะรุ่นเสียเงิน) ส่วน formZ ทำได้ทันที และผลลัพธ์เป็น solid ที่พร้อมพิมพ์ 3D
 
 {: .shapr }
-Shapr3D Fillet ≈ **Controlled Round** · Shapr3D Subtract ≈ **Difference** (formZ คลิกชิ้นหลักก่อน แล้วค่อยคลิกตัวตัด)
+Shapr3D Fillet ≈ **Controlled Round** · Union ≈ **Union** · Subtract ≈ **Difference** (formZ คลิกชิ้นหลักก่อน แล้วค่อยคลิกตัวตัด)
 
 ## ✅ เช็คตัวเอง
-<details><summary>1. ต่างกันอย่างไรระหว่าง Round กับ Controlled Round?</summary>Controlled Round เก็บค่าการลบมุมไว้ จึงแก้ภายหลังได้</details>
-<details><summary>2. ใน Difference ต้องคลิกชิ้นไหนก่อน?</summary>ชิ้นที่ต้องการเก็บไว้ (Cap) ก่อน แล้วค่อยคลิกตัวตัด</details>
-<details><summary>3. ทำไมปุ่มสูง 2 mm แต่ร่องลึก 1 mm?</summary>ให้ปุ่มโผล่พ้นผิว 1 mm กดได้จริงและเห็นเงาชัดตอนเรนเดอร์</details>
+<details><summary>1. ทำไมรูด้านในกว้าง 16.4 ไม่ใช่ 16?</summary>เผื่อให้หลวมด้านละ 0.2 mm ถ้าพิมพ์ 3D จริงจะได้สวมเข้าไปได้ (เรียนเรื่อง clearance ใน C8)</details>
+<details><summary>2. ใน Difference ต้องคลิกชิ้นไหนก่อน?</summary>ชิ้นที่ต้องการเก็บไว้ (ปลอก) ก่อน แล้วค่อยคลิกตัวตัด</details>
+<details><summary>3. ทำไมต้องทำขอบมนก่อน Boolean?</summary>เพราะขอบหลัง Boolean มักซับซ้อนกว่า ลบมุมยากกว่าและพังง่ายกว่า</details>
 
-{: .warning }
-ทำ Controlled Round **ก่อน** Boolean ทุกครั้งที่ทำได้ เพราะการทำ Boolean กับขอบที่ลบมุมแล้วบางครั้งจะได้ผลที่แก้ยากกว่า
-
-📚 อ้างอิง: R1 Controlled Round, Round, Difference · R17 [Controlled Rounding](https://support.formz.com/hc/en-us/articles/28220737857683) · R19 [Transform tool](https://support.formz.com/hc/en-us/articles/28223037374995) · [Video: Booleans Part 1](https://support.formz.com/hc/en-us/articles/28597341000851)
+📚 อ้างอิง: R1 Controlled Round, Cube, Union, Difference · R17 [Controlled Rounding](https://support.formz.com/hc/en-us/articles/28220737857683) · [Video: Booleans Part 1](https://support.formz.com/hc/en-us/articles/28597341000851)

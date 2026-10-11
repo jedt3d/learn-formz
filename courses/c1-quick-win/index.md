@@ -9,15 +9,12 @@ track: "🎨 Designer"
 # C1 · Quick Win: ปั้น → ใส่วัสดุ → เรนเดอร์
 {: .no_toc }
 
-<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **88 นาที** (อ่าน ~39 + ลงมือ ~49)
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **90 นาที** (อ่าน ~43 + ลงมือ ~53) · 9 บท
 
-**จบ course นี้แล้วเราจะได้ภาพเรนเดอร์แบบนี้หนึ่งภาพ:** ลำโพงบลูทูธจิ๋วทรงกระบอก ขอบโค้งมน มีวัสดุ 3 แบบ (ตัวเครื่องด้าน, ฝายาง, ปุ่มโลหะ) ตั้งอยู่บนพื้นสตูดิโอสีขาวที่มีเงานุ่ม ๆ
+**จบ course นี้แล้วเราจะได้ภาพเรนเดอร์แบบนี้หนึ่งภาพ:** **ปากกาเมจิก** ที่วัดจากของจริงในบ้านเรา มีปลอกกลวงพร้อมคลิป ขอบมน วัสดุ 3 แบบ (พลาสติกขาว, ปลอกสี, หัวสักหลาด) วางบนพื้นสตูดิโอสีขาวที่มีเงานุ่ม ๆ
 
 {: .shot }
-[SCREENSHOT: ภาพ hero shot ของ "Pebble Speaker" ที่เรนเดอร์ด้วย RenderZone เสร็จแล้ว ขนาด 1600×1000 px ใช้เป็นภาพปกของ course]
-
-{: .verify }
-**แผนปรับ:** จะเปลี่ยนชิ้นงานของ C1 เป็น **ปากกาเมจิก** ที่หยิบได้จากบ้าน (ใช้เครื่องมือชุดเดิม เขียนใหม่แค่บท 4–5) ส่วน Pebble Speaker จะเก็บไว้เป็นโจทย์เสริม ดู [อ้างอิงจากของในบ้าน]({{ '/home-reference/' | relative_url }})
+[SCREENSHOT: ภาพ hero shot ของปากกาเมจิก + ปลอก ที่เรนเดอร์ด้วย RenderZone เสร็จแล้ว ขนาด 1600×1000 px ใช้เป็นภาพปกของ course]
 
 ## เส้นทางของ course
 
@@ -26,16 +23,18 @@ track: "🎨 Designer"
 | 1 | [เริ่มต้น 5 นาที: หน้าจอ + Assistant]({{ '/courses/c1-quick-win/01-start/' | relative_url }}) | 5 | 5 | รู้ว่าอะไรอยู่ตรงไหน หาเครื่องมือด้วยการพิมพ์ |
 | 2 | [ตั้งค่าแค่พอดี: mm, Snap, Template]({{ '/courses/c1-quick-win/02-setup/' | relative_url }}) | 5 | 6 | ไฟล์ `PD_mm_template.fmz` |
 | 3 | [มองรอบชิ้นงานและโหมดการแสดงผล]({{ '/courses/c1-quick-win/03-view/' | relative_url }}) | 4 | 3 | หมุน ซูม และสลับ Shaded/Wire ได้คล่อง |
-| 4 | [ปั้นตัวลำโพงด้วยตัวเลข]({{ '/courses/c1-quick-win/04-body/' | relative_url }}) | 5 | 7 | ตัวเครื่อง + ฝา ขนาดตรงเป๊ะ |
-| 5 | [ใส่รายละเอียด: ขอบมน + ปุ่ม]({{ '/courses/c1-quick-win/05-details/' | relative_url }}) | 5 | 8 | ขอบ R6/R3 + ปุ่ม |
-| 6 | [ใส่วัสดุ 3 แบบ]({{ '/courses/c1-quick-win/06-materials/' | relative_url }}) | 5 | 6 | ลำโพงที่มีสีและผิวสัมผัส |
-| 7 | [แสงและฉากสตูดิโอ]({{ '/courses/c1-quick-win/07-light-scene/' | relative_url }}) | 5 | 6 | พื้นรับเงา + มุมกล้อง "Hero" |
+| 4 | [วัดปากกาจริง แล้วปั้นด้าม]({{ '/courses/c1-quick-win/04-body/' | relative_url }}) | 5 | 7 | ด้าม + คอ + หัว ขนาดตรงของจริง |
+| 5 | [ปลอกปากกา: ขอบมน + เจาะ + คลิป]({{ '/courses/c1-quick-win/05-details/' | relative_url }}) | 5 | 8 | ปลอกกลวงที่มีคลิป |
+| 6 | [ใส่วัสดุ 3 แบบ]({{ '/courses/c1-quick-win/06-materials/' | relative_url }}) | 5 | 6 | ปากกาที่มีสีและผิวสัมผัส |
+| 7 | [แสงและฉากสตูดิโอ]({{ '/courses/c1-quick-win/07-light-scene/' | relative_url }}) | 5 | 7 | วางปากกานอน + พื้นรับเงา + มุมกล้อง "Hero" |
 | 8 | [RenderZone ครั้งแรก + ส่งการบ้าน]({{ '/courses/c1-quick-win/08-render/' | relative_url }}) | 5 | 8 | ภาพเรนเดอร์ 1 ภาพลง portfolio |
+| 9 | [สรุป: ภาพรวม C1]({{ '/courses/c1-quick-win/09-recap/' | relative_url }}) | 4 | 3 | ภาพรวม + โจทย์เสริม (Pebble Speaker) |
 
 **Workshop:** บทที่ 4–8 เป็น **build-along** ทำต่อเนื่องเป็นชิ้นเดียวกัน ใช้เวลาลงมือรวมประมาณ 35 นาที
 
 ## ต้องเตรียมอะไร
 - formZ 10 **Pro** (หรือ Core) + **RenderZone** เวอร์ชัน 10.1.x
+- **ปากกาเมจิกทรงกลม 1 ด้าม + ไม้บรรทัด** (จากบ้านเรา)
 - เมาส์ 3 ปุ่ม (มี scroll wheel) จะสบายกว่า trackpad มาก
 - โฟลเดอร์ `Documents/formZ/` สำหรับเก็บ template และโฟลเดอร์ `portfolio/` สำหรับเก็บภาพการบ้าน
 

@@ -28,7 +28,7 @@ permalink: /home-reference/
 ## ของที่ใช้ในแต่ละ course
 | Course | ของในบ้าน | เทคนิคหลัก |
 |---|---|---|
-| C1 | ปากกาเมจิก *(แผน · ตอนนี้ใช้ Pebble Speaker)* | Solid, Controlled Round, Boolean |
+| C1 | ปากกาเมจิก | Solid, Controlled Round, Boolean |
 | C2 | แม็กเย็บกระดาษ | Extrude, Boolean, Round to Holdline, Symmetry |
 | C3 | ดินสอ + กาต้มน้ำไฟฟ้า | Facetted vs Smooth, NURBS, Revolve, Loft/Skin, Subdivision |
 | C4 | เครื่องปิ้งขนมปัง | Subdivision / Soften, Boolean, Material/Texture |

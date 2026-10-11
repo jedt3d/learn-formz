@@ -17,22 +17,22 @@ permalink: /courses/c1-quick-win/06-materials/
 - เข้าใจว่าทำไมภาพใน Shaded Work กับใน RenderZone ถึงไม่เหมือนกันเป๊ะ
 
 ## 💡 ไอเดียสั้น ๆ
-ลำโพงที่ใช้ material ครบ 3 แบบ คือ **ด้าน, ยาง, โลหะ** จะดูเป็นสินค้าจริงทันที เพราะสายตาคนแยกวัตถุจาก **ความเงา** ก่อนจะสังเกตสี
+ปากกาที่ใช้ material ครบ 3 แบบ คือ **พลาสติกขาวเงา, พลาสติกสี, หัวสักหลาด** จะดูเป็นสินค้าจริงทันที เพราะสายตาคนแยกวัตถุจาก **ความเงา** ก่อนจะสังเกตสี
 
 | ชิ้น | ชื่อ material | ไอเดีย |
 |---|---|---|
-| Body | `PS_Body_Matte` | พลาสติกหรือผ้าสีเข้ม (เช่น teal หรือ navy) เงาน้อย |
-| Cap | `PS_Cap_Rubber` | ยางเทาเข้ม ด้านมาก |
-| Button | `PS_Button_Metal` | อะลูมิเนียมหรือโลหะที่สะท้อนแสง |
+| Barrel + Neck | `MK_Barrel_White` | พลาสติกขาว กึ่งเงา |
+| Cap | `MK_Cap_Color` | พลาสติกสีสด (สีเดียวกับหมึก เช่น แดงหรือฟ้า) เงา |
+| Tip | `MK_Tip_Felt` | สักหลาดสีเดียวกับปลอก ด้านมาก ไม่สะท้อน |
 
 Material ทั้งหมดของโปรเจกต์อยู่ใน **Materials palette** ใน dock ด้านขวา material ที่ active (มีจุดแดงหรือกรอบแดง) จะถูกใส่ให้วัตถุที่สร้างใหม่โดยอัตโนมัติ (R1: Creating and Editing Materials)
 
 ## 👣 ลงมือทำ (6 นาที)
 1. ที่ **Materials** palette กดไอคอน **New Material** จะได้ material ใหม่ต่อท้ายรายการ
-2. ดับเบิลคลิก material ใหม่เพื่อเปิด **Material Parameters** palette แล้วตั้งชื่อเป็น `PS_Body_Matte`
-3. ขยาย Material Parameters palette (ปุ่มขยายที่มุมขวาล่าง) จะเจอ popup **Library** ให้เลือกหมวด material สำเร็จรูป แล้วเลือกตัวที่ใกล้เคียงพลาสติกด้าน จากนั้นปรับสีตามใจ
-4. ทำแบบเดียวกันอีก 2 รอบสำหรับ `PS_Cap_Rubber` และ `PS_Button_Metal` (หมวดโลหะ)
-5. **ลาก** material จาก palette ไป **วาง** บนแต่ละชิ้น
+2. ดับเบิลคลิก material ใหม่เพื่อเปิด **Material Parameters** palette แล้วตั้งชื่อเป็น `MK_Barrel_White`
+3. ขยาย Material Parameters palette (ปุ่มขยายที่มุมขวาล่าง) จะเจอ popup **Library** ให้เลือกหมวด material สำเร็จรูป แล้วเลือกตัวที่ใกล้เคียงพลาสติก จากนั้นปรับสีเป็นขาว
+4. ทำแบบเดียวกันอีก 2 รอบสำหรับ `MK_Cap_Color` และ `MK_Tip_Felt` (ด้านมาก แทบไม่สะท้อน)
+5. **ลาก** material จาก palette ไป **วาง** บนแต่ละชิ้น (Barrel และ Neck ใช้สีขาวเหมือนกัน)
 6. ถ้าต้องการให้ material ลงแค่ **หน้าเดียว** ให้ทำ material นั้นเป็น active แล้วใช้เครื่องมือ **Paint** คลิกที่หน้านั้น (R1: Paint)
 7. ดูผลใน **Shaded Work** แล้ว **บันทึกไฟล์**
 
@@ -40,10 +40,10 @@ Material ทั้งหมดของโปรเจกต์อยู่ใ�
 [SCREENSHOT: Materials palette ที่มี 3 materials ใหม่ (Large Icon view)]
 
 {: .shot }
-[SCREENSHOT: Material Parameters palette แบบขยาย ที่เปิด Library popup และเลือกหมวดโลหะ]
+[SCREENSHOT: Material Parameters palette แบบขยาย ที่เปิด Library popup และเลือกหมวดพลาสติก]
 
 {: .shot }
-[SCREENSHOT: ลำโพงใน Shaded Work หลังใส่ material ครบ 3 ชิ้น]
+[SCREENSHOT: ปากกาและปลอกใน Shaded Work หลังใส่ material ครบ]
 
 {: .note }
 **Keep Synchronized** (เพิ่มมาใน 10.0.1): formZ จะพยายามทำให้ material ดูเหมือนกันในทุก renderer (Shaded, RenderZone, V-Ray) ปล่อยเปิดไว้ก่อนใน course นี้ ถ้าวันหนึ่งอยากให้ RenderZone มีค่าเฉพาะของตัวเองค่อยปิด (R7)
@@ -55,7 +55,7 @@ Material ทั้งหมดของโปรเจกต์อยู่ใ�
 ลากไปวางเหมือน Paint Bucket ของ SketchUp และ formZ 10 ยังมี **Edit > Paste Attributes** ไว้คัดลอกวัสดุและคุณสมบัติจากชิ้นหนึ่งไปอีกชิ้นได้ด้วย (R8)
 
 {: .power }
-material ของ formZ ตั้งค่าแยกได้เป็น **color / reflection / transparency / bump** ตามแบบของ RenderZone (R3) ส่วน SketchUp มีแค่สีกับภาพ texture และต้องใช้ renderer ภายนอกถึงจะได้ผิวโลหะจริง
+material ของ formZ ตั้งค่าแยกได้เป็น **color / reflection / transparency / bump** ตามแบบของ RenderZone (R3) ส่วน SketchUp มีแค่สีกับภาพ texture และต้องใช้ renderer ภายนอกถึงจะได้ผิวเงาสะท้อนจริง
 
 {: .shapr }
 Shapr3D: แท็บ Appearance ใน Visualization · formZ: **Materials palette + Material Parameters** หลักการเหมือนกัน คือเลือกวัสดุแล้ววางบนชิ้นงาน
@@ -66,6 +66,6 @@ Shapr3D: แท็บ Appearance ใน Visualization · formZ: **Materials pale
 <details><summary>3. ภาพใน Shaded Work เหมือนภาพเรนเดอร์ 100% ไหม?</summary>ไม่ Shaded เป็นแค่การประมาณ ภาพจริงจะเห็นใน RenderZone</details>
 
 {: .warning }
-ตั้งชื่อ material ขึ้นต้นด้วยชื่อโปรเจกต์ (`PS_...`) เสมอ เพราะพอโปรเจกต์ใหญ่ขึ้น material จะเยอะมากจนหาไม่เจอ
+ตั้งชื่อ material ขึ้นต้นด้วยชื่อโปรเจกต์ (`MK_...`) เสมอ เพราะพอโปรเจกต์ใหญ่ขึ้น material จะเยอะมากจนหาไม่เจอ
 
 📚 อ้างอิง: R1 Creating and Editing Materials, Paint · R7 (10.0.1 Keep Synchronized, 10.1.3 แก้เรื่อง drag-drop บน macOS 15.3) · R8 Paste Attributes

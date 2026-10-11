@@ -4,7 +4,7 @@ parent: "C1 · Quick Win"
 nav_order: 7
 chapter: true
 read_time: 5
-do_time: 6
+do_time: 7
 permalink: /courses/c1-quick-win/07-light-scene/
 ---
 
@@ -14,6 +14,7 @@ permalink: /courses/c1-quick-win/07-light-scene/
 ## 🎯 จบบทนี้แล้วเราจะ...
 - ทำ **พื้นสตูดิโอ** ที่รับเงาแต่ไม่เห็นเป็นแผ่น ด้วย **Catcher** shader
 - ปรับ **แสงหลัก** และ **ambient light** ให้ภาพนุ่ม
+- **จัดวาง** ปากกานอนกับปลอกให้สวยด้วย **Rotate** และ **Move**
 - ตั้งมุมกล้อง **Hero** แล้วบันทึกไว้ใน Views palette
 
 ## 💡 ไอเดียสั้น ๆ
@@ -23,13 +24,13 @@ formZ เริ่มโปรเจกต์มาพร้อม **distant lig
 ## 👣 ลงมือทำ (6 นาที)
 
 ### A. พื้นรับเงา
-1. วาดสี่เหลี่ยมพื้น **600 × 600 mm** บนระนาบ XY ที่ Z = 0 โดยให้ลำโพงอยู่ตรงกลาง: ใช้เครื่องมือ **Rectangle** (กลุ่ม Draw) แล้วเลือก object type ที่เป็น **ผิว (surface)** ใน Tool Options จากนั้นพิมพ์มุมแรก (−300, −300, 0) และมุมที่สอง (300, 300, 0) ใน **Input palette**
+1. วาดสี่เหลี่ยมพื้น **400 × 400 mm** บนระนาบ XY ที่ Z = 0: ใช้เครื่องมือ **Rectangle** (กลุ่ม Draw) แล้วเลือก object type ที่เป็น **ผิว (surface)** ใน Tool Options จากนั้นพิมพ์มุมแรก (−200, −200, 0) และมุมที่สอง (200, 200, 0) ใน **Input palette**
 2. ตั้งชื่อ object ว่า `Floor`
-3. สร้าง material ใหม่ชื่อ `PS_Floor_Catcher` แล้วใน Material Parameters ตั้ง **Color = Background** และ **Reflection = Catcher** จากนั้นกด **Options** เพื่อปรับ **Shadow Intensity** และ **Reflectivity** (เริ่มที่สะท้อนน้อย ๆ ก่อน) (R22: Catcher Shader)
+3. สร้าง material ใหม่ชื่อ `MK_Floor_Catcher` แล้วใน Material Parameters ตั้ง **Color = Background** และ **Reflection = Catcher** จากนั้นกด **Options** เพื่อปรับ **Shadow Intensity** และ **Reflectivity** (เริ่มที่สะท้อนน้อย ๆ ก่อน) (R22: Catcher Shader)
 4. ลาก material นี้ไปวางบน `Floor`
 
 {: .shot }
-[SCREENSHOT: Material Parameters ของ PS_Floor_Catcher ที่ Color = Background และ Reflection = Catcher พร้อมหน้าต่าง Options]
+[SCREENSHOT: Material Parameters ของ MK_Floor_Catcher ที่ Color = Background และ Reflection = Catcher พร้อมหน้าต่าง Options]
 
 ### B. แสง
 5. เปิด **Lights** palette จะเห็นแสงที่มากับโปรเจกต์ ดับเบิลคลิกชื่อแสงเพื่อเปิด **Light Parameters**
@@ -41,14 +42,15 @@ formZ เริ่มโปรเจกต์มาพร้อม **distant lig
 [SCREENSHOT: Lights palette + Light Parameters ของ distant light]
 
 {: .shot }
-[SCREENSHOT: Shaded Full ที่เห็นเงาของลำโพงบนพื้น]
+[SCREENSHOT: Shaded Full ที่เห็นเงาของปากกาบนพื้น]
 
-### C. มุมกล้อง Hero
-9. หมุนมุมมองให้กล้องอยู่ต่ำ มองเฉียงลงเล็กน้อย ประมาณ 15–25° และให้ลำโพงกินพื้นที่ราว 60% ของจอ
-10. บันทึก view ใน **Views** palette ชื่อ `Hero` แล้ว **บันทึกไฟล์**
+### C. จัดวาง + มุมกล้อง Hero
+9. **วางปากกานอน:** เลือก Barrel, Neck, Tip (Shift-คลิก) แล้วเปลี่ยน reference plane เป็น **ZX** (Reference Plane tool palette) เพื่อให้หมุนในแนวตั้ง จากนั้นใช้ **Rotate** คลิกจุดหมุนที่ (0, 0, 0) แล้วหมุน **90°** ใช้ Grid Snap ทุก 15° ช่วย จากนั้นใช้ **Move** ยกขึ้นให้ผิวด้ามแตะพื้นพอดี (กด Cmd/Ctrl เพื่อเลื่อนตั้งฉากกับระนาบ ยกขึ้น 8 mm) ส่วนปลอกจะตั้งไว้หรือวางเฉียงข้าง ๆ ก็ได้
+10. หมุนมุมมองให้กล้องอยู่ต่ำ มองเฉียงลงเล็กน้อย ประมาณ 15–25° และให้ปากกากินพื้นที่ราว 60% ของจอ
+11. บันทึก view ใน **Views** palette ชื่อ `Hero` แล้ว **บันทึกไฟล์**
 
 {: .verify }
-ไอคอน object type แบบ "surface" ของเครื่องมือ Draw (คู่มือบอกว่ามี 6 ไอคอน), ตำแหน่งช่องปรับความสว่างของ ambient light ใน Lights palette และชื่อ tab ใน Light Parameters ยังไม่ได้ยืนยันกับหน้าจอ v10 จริง ถ้าวาดผิวไม่ได้ ใช้วิธีสำรองได้: **Cube > Preset** ขนาด 600 × 600 × 1 mm แล้วเลื่อนลง 1 mm
+การหมุนรอบแกนเมื่อสลับ reference plane เป็น ZX, ไอคอน object type แบบ "surface" ของเครื่องมือ Draw (คู่มือบอกว่ามี 6 ไอคอน), ตำแหน่งช่องปรับความสว่างของ ambient light ใน Lights palette และชื่อ tab ใน Light Parameters ยังไม่ได้ยืนยันกับหน้าจอ v10 จริง ถ้าวาดผิวไม่ได้ ใช้วิธีสำรองได้: **Cube > Preset** ขนาด 600 × 600 × 1 mm แล้วเลื่อนลง 1 mm
 
 {: .easy }
 ภาพพรีวิวที่มีเงาได้ทันทีด้วย Shaded Full เหมือนการเปิด Shadows ใน SketchUp
@@ -62,6 +64,6 @@ Shapr3D Visualization ตั้งพื้นและแสงแบบ preset
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมตั้ง Color ของพื้นเป็น Background?</summary>ให้พื้นกลืนไปกับฉากหลัง จะได้เห็นแค่เงา เป็นลุคสตูดิโอที่ไม่มีขอบพื้น</details>
 <details><summary>2. ใน formZ แสงเริ่มต้นมีอะไรบ้าง?</summary>distant light 1 ดวง (แทนดวงอาทิตย์) และ ambient light</details>
-<details><summary>3. บันทึกมุมกล้องไว้ทำไม?</summary>เพื่อให้กลับมาเรนเดอร์ที่มุมเดิมได้ทุกครั้ง</details>
+<details><summary>3. หมุนหลายชิ้นพร้อมกันอย่างไร?</summary>เลือกทุกชิ้นก่อน (prepick ด้วย Shift-คลิก) แล้วใช้ Rotate คลิกจุดหมุน จุดเริ่ม และจุดจบ</details>
 
-📚 อ้างอิง: R1 Lights and Shadows, Shaded Full, Drawing Objects · R22 [Catcher Shader](https://support.formz.com/hc/en-us/articles/28221227477395) · R3 Ambient Occlusion · R7 (10.1 Orbit Light)
+📚 อ้างอิง: R1 Transforming Objects (Move/Rotate), Lights and Shadows, Shaded Full, Drawing Objects · R22 [Catcher Shader](https://support.formz.com/hc/en-us/articles/28221227477395) · R3 Ambient Occlusion · R7 (10.1 Orbit Light)

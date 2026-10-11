@@ -24,7 +24,7 @@ RenderZone อยู่ใน **Display** menu ข้าง ๆ โหมดก�
 | ที่ไหน | ตั้งค่า | ทำไม |
 |---|---|---|
 | ด้านบนของหน้าต่าง | **Rendering Type = Raytrace** | ได้เงาและเงาสะท้อนที่สมจริงที่สุด และใช้ CPU หลาย core |
-| Shading tab | เปิด **Shadows** | ให้มีเงาใต้ลำโพง |
+| Shading tab | เปิด **Shadows** | ให้มีเงาใต้ปากกา |
 | Global Illumination tab | เปิด **Use Ambient Occlusion** | เงานุ่มตามซอกตามมุม ทำให้ชิ้นงานดูมีน้ำหนัก |
 | Scene tab | **Background** = สีเรียบ (ขาวหรือเทาอ่อน) | ฉากหลังสตูดิโอ (พื้น Catcher จะกลืนไปกับสีนี้) |
 
@@ -35,11 +35,11 @@ RenderZone อยู่ใน **Display** menu ข้าง ๆ โหมดก�
 1. เลือก view **Hero** ใน Views palette
 2. **Option/Alt + คลิก Display > RenderZone** เพื่อเปิด **RenderZone Options**
 3. ตั้ง 4 ค่าตามตารางด้านบน แล้วกด OK
-4. **ทดสอบก่อน:** ใช้ **Display > Render Area Rectangle** ลากกรอบเล็ก ๆ รอบปุ่มกับขอบ Cap จะได้ภาพทดสอบภายในไม่กี่วินาที
+4. **ทดสอบก่อน:** ใช้ **Display > Render Area Rectangle** ลากกรอบเล็ก ๆ รอบหัวปากกากับคลิป จะได้ภาพทดสอบภายในไม่กี่วินาที
 5. ถ้าเงาเข้มเกินไป ให้เพิ่ม ambient light (บทที่ 7) หรือลด Shadow Intensity ของพื้น Catcher
-6. ถ้าโลหะดูไม่เงา ให้กลับไปที่ material `PS_Button_Metal` แล้วเพิ่มค่าการสะท้อน (reflection)
+6. ถ้าพลาสติกดูไม่เงา ให้กลับไปที่ `MK_Cap_Color` แล้วเพิ่มค่าการสะท้อน (reflection) เล็กน้อย
 7. **เรนเดอร์จริง:** คลิก **Display > RenderZone** (ไม่ต้องกด Option/Alt)
-8. เก็บภาพไว้ในโฟลเดอร์ `portfolio/` ตั้งชื่อ `C1_PebbleSpeaker_Hero.png`
+8. เก็บภาพไว้ในโฟลเดอร์ `portfolio/` ตั้งชื่อ `C1_Marker_Hero.png`
 
 {: .shot }
 [SCREENSHOT: RenderZone Options > Shading tab ที่ Rendering Type = Raytrace และเปิด Shadows]
@@ -51,13 +51,13 @@ RenderZone อยู่ใน **Display** menu ข้าง ๆ โหมดก�
 [SCREENSHOT: Scene tab > Background popup ที่เลือกสีเรียบ]
 
 {: .shot }
-[SCREENSHOT: ภาพเรนเดอร์สุดท้ายของ Pebble Speaker (ใช้เป็นตัวอย่างการบ้าน)]
+[SCREENSHOT: ภาพเรนเดอร์สุดท้ายของปากกาเมจิก + ปลอก (ใช้เป็นตัวอย่างการบ้าน)]
 
 {: .verify }
 คู่มือ RenderZone ที่มีในโฟลเดอร์ v10 **เป็นเนื้อหาเดียวกับ v9 ทุกหัวข้อ** ให้ยืนยันชื่อแท็บและช่องต่าง ๆ บนหน้าจอจริง เช่น ช่องขนาดภาพ (image size) และวิธีบันทึกภาพ (คู่มือเขียนว่า RenderZone บันทึกภาพล่าสุดลงโฟลเดอร์ "RenderZone Images" ให้อัตโนมัติ และมีเอกสารเก่าที่อ้างถึง **File > Save Image**) ตรวจทั้งสองทางใน 10.1.x
 
 ## 🎁 เก็บฉากนี้ไว้ใช้ครั้งหน้า (ไม่บังคับ, 1 นาที)
-เปิด `PD_mm_template.fmz` แล้ว **คัดลอก** `Floor` และ material `PS_Floor_Catcher` ไปวางในไฟล์นั้น ตั้งค่าแสงให้เหมือนบทที่ 7 แล้วบันทึก ครั้งหน้าที่เปิด New Project จะได้ **ฉากสตูดิโอพร้อมใช้** ทันที
+เปิด `PD_mm_template.fmz` แล้ว **คัดลอก** `Floor` และ material `MK_Floor_Catcher` (เปลี่ยนชื่อเป็น `Studio_Floor_Catcher`) ไปวางในไฟล์นั้น ตั้งค่าแสงให้เหมือนบทที่ 7 แล้วบันทึก ครั้งหน้าที่เปิด New Project จะได้ **ฉากสตูดิโอพร้อมใช้** ทันที
 
 {: .easy }
 ไม่ต้องเปิดโปรแกรมอื่น ไม่ต้อง export ไฟล์ไปไหน เรนเดอร์ได้ในโปรแกรมเลย เหมือนกด Shaded แต่สวยกว่ามาก
@@ -74,14 +74,15 @@ Shapr3D Visualization เน้นความง่ายแบบ preset ส�
 <details><summary>3. แท็บไหนที่ไม่ควรใช้ใน course นี้?</summary>Postprocess</details>
 
 ## 🏁 ส่งการบ้าน C1
-{% include homework.html id="c1-workshop" title="C1 · Pebble Speaker Hero Shot" what="ภาพเรนเดอร์ RenderZone 1 ภาพ + ภาพหน้าจอ formZ 1 ภาพที่เห็น Materials palette และ Objects palette" %}
+{% include homework.html id="c1-workshop" title="C1 · Marker Hero Shot" what="ภาพถ่ายปากกาจริงของเรา 1 ภาพ + ภาพเรนเดอร์ RenderZone 1 ภาพ + ภาพหน้าจอ formZ ที่เห็น Materials palette และ Objects palette" %}
 
 **เกณฑ์ "เสร็จ" (เช็คเอง):**
-- [ ] ขนาดตรงตามแบบ (Ø70 × 80 mm, ขอบ R6/R3)
+- [ ] ขนาดตรงกับปากกาจริงที่วัดได้ (คลาดไม่เกิน 1 mm)
+- [ ] ปลอกกลวงจริง มีคลิป และขอบมน
 - [ ] มี material 3 แบบที่ดูต่างกันชัดเจน
-- [ ] มีเงานุ่มใต้ลำโพง และพื้นกลืนไปกับฉากหลัง
+- [ ] มีเงานุ่มใต้ปากกา และพื้นกลืนไปกับฉากหลัง
 - [ ] ไฟล์ตั้งชื่อเป็นระเบียบ (`C1_...`)
 
-🎉 **ยินดีด้วย!** ภาพนี้คือผลงานชิ้นแรกใน portfolio ของเรา Course ถัดไป **C2 · ฟอร์มสวยด้วย Solid** จะพาไปปั้นรูปทรงที่ซับซ้อนขึ้น
+🎉 **ยินดีด้วย!** ภาพนี้คือผลงานชิ้นแรกใน portfolio ของเรา ไปบทสรุปเพื่อดูภาพรวมทั้ง course กันเลย
 
 📚 อ้างอิง: R3 RenderZone: Producing a rendered image, Selecting rendering type, Shading tab, Ambient Occlusion, Background · R1 Display Menu (Render Area Rectangle) · R22 [RenderZone tips](https://support.formz.com/hc/en-us/sections/28221057173395) · forum [10.1.5 Postprocess crash](https://forums.formz.com/topic/10534-formz-pro-1015-mac-m1-pro-max-%E2%80%93-crashes-at-once-when-try-to-change-renderzone-postprocessed-rendering-effects/)

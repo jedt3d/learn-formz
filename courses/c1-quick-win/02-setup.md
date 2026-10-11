@@ -17,7 +17,7 @@ permalink: /courses/c1-quick-win/02-setup/
 - บันทึกทุกอย่างเป็น **Template** เพื่อให้ไฟล์ใหม่ทุกไฟล์พร้อมใช้ตั้งแต่เปิด
 
 ## 💡 ไอเดียสั้น ๆ
-งาน product design ส่วนใหญ่วัดเป็น **mm** เช่น ลำโพงกว้าง 70 mm หรือปุ่มกว้าง 10 mm ถ้าตั้งหน่วยถูกตั้งแต่แรก เราจะพิมพ์แค่ `70` ไม่ต้องคิดแปลงหน่วย
+งาน product design ส่วนใหญ่วัดเป็น **mm** เช่น ปากกาเมจิกมีเส้นผ่านศูนย์กลาง 16 mm และยาว 110 mm ถ้าตั้งหน่วยถูกตั้งแต่แรก เราจะพิมพ์แค่ `16` ไม่ต้องคิดแปลงหน่วย
 และเมื่อบันทึกเป็น template **ทำครั้งเดียวก็ใช้ได้ตลอด** นี่คือเหตุผลที่ formZ ที่ตั้งค่าถูกไม่ได้ยากกว่า SketchUp เลย
 
 ## 📍 อยู่ตรงไหน
@@ -46,11 +46,11 @@ permalink: /courses/c1-quick-win/02-setup/
 
 ### ขั้น B: กริดและ snap
 4. ที่ **Reference Plane tool palette** ด้านล่าง ตั้ง **Module = 10 mm** และ **Divisions = 10** จะได้เส้นหนาทุก 1 cm และเส้นบางทุก 1 mm
-5. เปิด **Grid Snap** แล้วตั้งระยะ **1 mm** และมุม **15°**
+5. เปิด **Grid Snap** แล้วตั้งระยะ **0.5 mm** (ของชิ้นเล็กอย่างปากกาต้องละเอียดหน่อย) และมุม **15°**
 6. เปิด **Object Snap** และเลือก snap ย่อย 4 ตัวนี้พอ: **Snap to Point**, **Snap to Segment**, **Snap to Center**, **Snap to Intersection**
 
 {: .shot }
-[SCREENSHOT: แถบด้านล่าง แสดง Reference Plane palette (Module/Divisions) + Grid Snap 1 mm / 15° + Object Snaps ที่เปิดอยู่ 4 ตัว]
+[SCREENSHOT: แถบด้านล่าง แสดง Reference Plane palette (Module/Divisions) + Grid Snap 0.5 mm / 15° + Object Snaps ที่เปิดอยู่ 4 ตัว]
 
 {: .note }
 ถ้าขยับเมาส์แล้ว snap "ติด" เส้นมากเกินไป ให้ลองเปิดหรือปิดตัวเลือก **Stick To Edges** ใน Snap Options ดู (R1: Snapping)
