@@ -1,30 +1,33 @@
 ---
-title: "C8 · เตรียมผลิต: 3D Print, STEP, Laser"
+title: "C8 · เตรียมผลิต: 3D Print, STEP"
 nav_order: 26
+has_children: true
 permalink: /courses/c8-make-it/
 ---
 
-# C8 · เตรียมผลิต: 3D Print, STEP, Laser
+# C8 · เตรียมผลิต: ขวดจิ๋ว + ฝาเกลียวที่ขันได้จริง
 {: .no_toc }
 
-<span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ เป้าหมายประมาณ 80 นาที
+<span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **88 นาที** (อ่าน ~46 + ลงมือ ~42 ไม่รวมเวลาพิมพ์) · 11 บท
 
-{: .verify }
-course นี้ **อยู่ระหว่างวางแผน** โครงด้านล่างคือร่างบทเรียนที่จะเขียนต่อ
+**จบ course นี้แล้วเราจะได้:** **ขวดจิ๋วสูง 82 mm + ฝาเกลียว** ที่ผ่านการตรวจ Print Preparation และ Object Doctor แล้ว export เป็น **STL** (พิมพ์ 3D) กับ **STEP** (ส่งต่อให้โปรแกรม CAD อื่น) ถ้ามีเครื่องพิมพ์ จะได้ฝาที่ **ขันเข้ากับขวดได้จริง**
 
-**ชิ้นงานหลัก:** ขวดน้ำ + ฝาเกลียว (พิมพ์ทดสอบได้จริง)
-**เทคนิค:** NURBS, Screw/Bolt, Facetted mesh, Export
+{: .shot }
+[SCREENSHOT: ภาพเรนเดอร์ขวด + ฝา และภาพถ่ายชิ้นพิมพ์จริง (ถ้ามี)]
 
 {: .note }
-ใช้กิจกรรม [อ้างอิงจากของในบ้าน]({{ '/home-reference/' | relative_url }}) วัดและถ่ายรูปของจริงก่อนเริ่ม
+ไม่มีเครื่องพิมพ์ 3D ก็เรียนได้ครบ (ส่ง STL ให้ร้านพิมพ์ หรือ FabLab ของโรงเรียน) ต้องมี: **ขวดน้ำพลาสติกพร้อมฝา** เป็นแบบอ้างอิง
 
-## ร่างบทเรียน
-1. ขวด: NURBS by Lofting + Thicken
-2. เกลียว: Screw/Bolt หรือ Helix + Difference, ระยะเผื่อ (clearance)
-3. Solid หรือไม่? (Inspector Info, Object Doctor)
-4. Print Preparation (Non Solids, Scale To Printer) + Mass Properties
-5. Polygon Mesh / Simplify Mesh* (Smooth → Facetted) แล้ว export STL และ import กลับมาตรวจ
-6. STEP / 3DM สำหรับ CAD อื่น · (เสริม) Waffle* สำหรับ laser
-7. Workshop: ไฟล์ STL ฝา + คอขวด (~50 นาที)
-
-<small>* = formZ Pro เท่านั้น · อ้างอิง R1 Screw/Bolt, Helix, NURBS by Lofting, Polygon Mesh, STL/STEP · R14, R15, R7 (Waffle)</small>
+| # | บท | อ่าน | ลงมือ | ได้อะไร |
+|---|---|---|---|---|
+| 1 | [ของที่พิมพ์ได้ต้องเป็นแบบไหน]({{ '/courses/c8-make-it/01-dfam/' | relative_url }}) | 5 | 3 | กฎ 5 ข้อ + วัดเกลียวจริง |
+| 2 | [ตัวขวด: Tangent Loft + Caps]({{ '/courses/c8-make-it/02-body/' | relative_url }}) | 4 | 5 | ขวดกลวงผนัง 1.6 |
+| 3 | [เกลียวนอกด้วย Helix]({{ '/courses/c8-make-it/03-thread/' | relative_url }}) | 4 | 5 | คอขวดมีเกลียว |
+| 4 | [ฝาเกลียว + clearance]({{ '/courses/c8-make-it/04-cap/' | relative_url }}) | 4 | 5 | ฝาที่มีเกลียวใน |
+| 5 | [ตรวจว่าชนกันไหม]({{ '/courses/c8-make-it/05-fit-check/' | relative_url }}) | 4 | 3 | ยืนยันระยะเผื่อ |
+| 6 | [Print Preparation]({{ '/courses/c8-make-it/06-print-prep/' | relative_url }}) | 4 | 3 | รายการปัญหาก่อนพิมพ์ |
+| 7 | [Object Doctor: ซ่อม solid]({{ '/courses/c8-make-it/07-doctor/' | relative_url }}) | 4 | 3 | solid ที่สะอาด |
+| 8 | [Facetted สำหรับพิมพ์ + STL]({{ '/courses/c8-make-it/08-stl/' | relative_url }}) | 5 | 4 | ไฟล์ STL 2 ชิ้น |
+| 9 | [STEP + Mass Properties]({{ '/courses/c8-make-it/09-step/' | relative_url }}) | 4 | 3 | STEP + น้ำหนักเส้นพลาสติก |
+| 10 | [Slicer และพิมพ์จริง]({{ '/courses/c8-make-it/10-print/' | relative_url }}) | 4 | 7 | ชิ้นงานจริง (ถ้ามีเครื่อง) |
+| 11 | [สรุป: ภาพรวม C8]({{ '/courses/c8-make-it/11-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

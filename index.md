@@ -88,9 +88,9 @@ permalink: /
 </div>
 
 <div class="course-card">
-<h3><a href="{{ '/courses/c8-make-it/' | relative_url }}">C8 · เตรียมผลิต: 3D Print, STEP, Laser</a></h3>
-<span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~80 นาที<br>
-🏠 <strong>ขวดน้ำ + ฝาเกลียว</strong> · NURBS by Lofting, Screw/Bolt, Print Preparation, Polygon Mesh (Facetted), STL/STEP, Waffle
+<h3><a href="{{ '/courses/c8-make-it/' | relative_url }}">C8 · เตรียมผลิต: 3D Print, STEP</a></h3>
+<span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~80 นาที · 11 บท<br>
+🏠 <strong>ขวดน้ำ + ฝาเกลียว</strong> · Tangent Loft (Caps), Helix เกลียวนอก/ใน + clearance, Intersection ตรวจชน, Print Preparation, Object Doctor, Simplify Mesh, STL/STEP, Mass Properties
 </div>
 
 <div class="course-card">

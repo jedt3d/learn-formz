@@ -1,8 +1,23 @@
 [
  {
+  "term": "3D Delta / Plane / Plane Delta",
+  "th": "โหมดแสดงพิกัดใน Input palette: ระยะจากจุดก่อนหน้า หรือพิกัดตาม reference plane",
+  "ch": "C2-2"
+ },
+ {
+  "term": "3D Extrusion",
+  "th": "object type ที่ดึงรูป 2D ขึ้นเป็น solid ตามความสูง",
+  "ch": "C2-2"
+ },
+ {
   "term": "Action palette",
   "th": "แถบซ้ายบน บอกว่าคลิกถัดไปจะเกิดอะไร",
   "ch": "C1-1"
+ },
+ {
+  "term": "Align / Distribute",
+  "th": "จัดวัตถุให้ตรงแนวหรือกระจายระยะเท่ากันตามแกน X/Y/Z",
+  "ch": "C2-6"
  },
  {
   "term": "Ambient light",
@@ -15,9 +30,44 @@
   "ch": "C1-8"
  },
  {
+  "term": "Ambient Occlusion",
+  "th": "เงามืดตามซอกมุมที่แสงเข้าถึงยาก",
+  "ch": "C4-10"
+ },
+ {
+  "term": "Animate Object Staging",
+  "th": "คำสั่ง 10.1 ทำ exploded/fly-in (Disperse/Collect, Offset, Direction)",
+  "ch": "C5-6"
+ },
+ {
+  "term": "Animated entity",
+  "th": "วัตถุ ไฟ หรือ view ที่เปลี่ยนแปลงตามเวลา (แสดงใน Animation Editor)",
+  "ch": "C5-1"
+ },
+ {
+  "term": "Animation Editor palette",
+  "th": "รายการ animated entities และกราฟ track ของแต่ละค่า",
+  "ch": "C5-5"
+ },
+ {
+  "term": "Animation Time Line palette",
+  "th": "แถบเวลาสำหรับเลื่อนเวลาปัจจุบัน ดู key และกดเล่น",
+  "ch": "C5-1"
+ },
+ {
+  "term": "Area light / Line light",
+  "th": "ไฟที่ปล่อยแสงจากผิวหรือเส้นของวัตถุ ให้เงานุ่ม",
+  "ch": "C4-8"
+ },
+ {
   "term": "Assistant",
   "th": "ช่องค้นหาเครื่องมือ คำสั่ง layer หรือ material ด้วยการพิมพ์ (spacebar / Option+spacebar)",
   "ch": "C1-1"
+ },
+ {
+  "term": "Associativity",
+  "th": "dimension ที่ผูกกับจุดของวัตถุ แก้วัตถุแล้วขนาดตาม",
+  "ch": "C7-7"
  },
  {
   "term": "Auto Save",
@@ -30,9 +80,49 @@
   "ch": "C1-5"
  },
  {
+  "term": "Cage",
+  "th": "กรงเหลี่ยมที่ควบคุมผิว subdivision",
+  "ch": "C3-8"
+ },
+ {
   "term": "Catcher (shader)",
   "th": "shader ของพื้นที่มองไม่เห็นแต่รับเงาและเงาสะท้อนได้",
   "ch": "C1-7"
+ },
+ {
+  "term": "Center of gravity",
+  "th": "จุดศูนย์ถ่วงของวัตถุ",
+  "ch": "C7-5"
+ },
+ {
+  "term": "Center of interest (COI)",
+  "th": "จุดที่กล้องมอง เป็นศูนย์กลางของ turntable/orbit",
+  "ch": "C5-2"
+ },
+ {
+  "term": "Clearance",
+  "th": "ระยะเผื่อให้ชิ้นส่วนสวมกันได้ เช่น 0.2 mm ต่อด้าน",
+  "ch": "C1-5"
+ },
+ {
+  "term": "Clipping Plane",
+  "th": "ระนาบผ่าเฉพาะการแสดงผล ไม่ตัดโมเดลจริง",
+  "ch": "C7-8"
+ },
+ {
+  "term": "CMF",
+  "th": "Color, Material, Finish: การออกแบบสี วัสดุ และผิวของผลิตภัณฑ์",
+  "ch": "C1-9"
+ },
+ {
+  "term": "Color Map",
+  "th": "ใช้ภาพเป็นสีของวัสดุ (Repetitions, Infinite)",
+  "ch": "C4-6"
+ },
+ {
+  "term": "Colorway",
+  "th": "ชุดสีหลายแบบของผลิตภัณฑ์รุ่นเดียวกัน",
+  "ch": "C1-9"
  },
  {
   "term": "Controlled Round",
@@ -40,9 +130,54 @@
   "ch": "C1-5"
  },
  {
+  "term": "Convert Object Type",
+  "th": "แปลงชนิดวัตถุ เช่น smooth ↔ facetted",
+  "ch": "C3-1"
+ },
+ {
+  "term": "Create Orbit View / Orbit Light",
+  "th": "คำสั่ง 10.1 ให้กล้อง (Azimuth/Altitude) หรือแสงโคจรรอบสินค้า",
+  "ch": "C5-7"
+ },
+ {
+  "term": "Create Turntable View",
+  "th": "คำสั่ง 10.1 ที่ทำให้กล้องหมุนรอบ COI",
+  "ch": "C5-2"
+ },
+ {
+  "term": "Curve Create",
+  "th": "แปลง Vector Line เป็น NURBS Curve หรือ Spline Curve Through Points",
+  "ch": "C3-4"
+ },
+ {
+  "term": "Curve Edit",
+  "th": "แก้เส้นโค้งด้วย Control Points / Edit Points / Weights",
+  "ch": "C3-4"
+ },
+ {
+  "term": "Decal",
+  "th": "สติกเกอร์ภาพแปะทับ material เดิม สูงสุด 32 ชิ้นต่อวัตถุ",
+  "ch": "C4-7"
+ },
+ {
+  "term": "Density",
+  "th": "ความหนาแน่น (g/cm³) ใช้คำนวณน้ำหนักจากปริมาตร",
+  "ch": "C7-5"
+ },
+ {
+  "term": "DfAM (Design for Additive Manufacturing)",
+  "th": "การออกแบบให้พิมพ์ 3D ได้ดี",
+  "ch": "C8-1"
+ },
+ {
   "term": "Difference",
   "th": "Boolean ที่ลบชิ้นที่สองออกจากชิ้นแรก",
   "ch": "C1-5"
+ },
+ {
+  "term": "Dimension Styles (Screen / World)",
+  "th": "รูปแบบตัวหนังสือและลูกศรของ dimension (ขนาดคงที่บนจอ / ขนาดจริงในโมเดล)",
+  "ch": "C7-6"
  },
  {
   "term": "Display Options",
@@ -50,9 +185,44 @@
   "ch": "C1-3"
  },
  {
+  "term": "Display Resolution / Faceting Schemes",
+  "th": "ความละเอียดของการแสดงผลวัตถุ smooth / ชุดค่าสำเร็จรูปของความละเอียด",
+  "ch": "C3-1"
+ },
+ {
   "term": "Distant light",
   "th": "แสงทิศทางเดียวแบบดวงอาทิตย์",
   "ch": "C1-7"
+ },
+ {
+  "term": "Draw suite / Create suite",
+  "th": "กลุ่มเครื่องมือวาดรูป 2D แล้วเลือก object type / กลุ่มเครื่องมือสร้าง primitive",
+  "ch": "C2-2"
+ },
+ {
+  "term": "Ease In/Out",
+  "th": "การค่อย ๆ เร่งและค่อย ๆ ผ่อนความเร็วของการเคลื่อนไหว",
+  "ch": "C5-2"
+ },
+ {
+  "term": "Edit Axes",
+  "th": "ย้าย/หมุนแกนของ object ซึ่งเป็นจุดหมุน (pivot) ใน animation",
+  "ch": "C5-3"
+ },
+ {
+  "term": "Environment (Scene tab)",
+  "th": "ภาพรอบฉากที่วัสดุสะท้อน ไม่แสดงเป็นฉากหลังโดยอัตโนมัติ",
+  "ch": "C4-9"
+ },
+ {
+  "term": "Environment light",
+  "th": "ไฟจากภาพรอบฉาก (image based illumination)",
+  "ch": "C4-9"
+ },
+ {
+  "term": "Exploded view",
+  "th": "ภาพหรือวิดีโอที่ชิ้นส่วนแยกออกตามแนวประกอบ",
+  "ch": "C5-6"
  },
  {
   "term": "Face reference plane",
@@ -60,9 +230,44 @@
   "ch": "C1-4"
  },
  {
+  "term": "Facetted object",
+  "th": "วัตถุที่ผิวเป็นหน้าแบนหลายเหลี่ยมจริง (polygon)",
+  "ch": "C3-1"
+ },
+ {
   "term": "Favorites palette",
   "th": "พาเลตเครื่องมือโปรด เรียกขึ้นมาด้วย spacebar",
   "ch": "C1-1"
+ },
+ {
+  "term": "Final Gather",
+  "th": "การคำนวณแสงสะท้อนต่อ (indirect light) ให้ภาพสมจริง",
+  "ch": "C4-10"
+ },
+ {
+  "term": "First-angle / Third-angle projection",
+  "th": "ระบบวางภาพฉาย (ISO/ไทยนิยม first-angle: Top อยู่ใต้ Front)",
+  "ch": "C7-1"
+ },
+ {
+  "term": "Frame / Place Frame",
+  "th": "กรอบบน layout ที่แสดงโมเดล 3D ตาม view/scale และลิงก์กับไฟล์โมเดล",
+  "ch": "C6-6"
+ },
+ {
+  "term": "Frames Per Second (fps)",
+  "th": "จำนวนภาพต่อวินาทีของวิดีโอ (ค่าเริ่มต้น 30)",
+  "ch": "C5-1"
+ },
+ {
+  "term": "Fresnel",
+  "th": "ปรากฏการณ์ที่ผิวสะท้อนมากขึ้นเมื่อมองในมุมเฉียง",
+  "ch": "C4-4"
+ },
+ {
+  "term": "Generate Animation...",
+  "th": "คำสั่งใน Display menu เรนเดอร์ทุกเฟรมเป็นไฟล์วิดีโอหรือภาพ",
+  "ch": "C5-8"
  },
  {
   "term": "Ghosted operand",
@@ -75,9 +280,19 @@
   "ch": "C1-8"
  },
  {
+  "term": "Glossy / Mirror",
+  "th": "shader พลาสติกเงา / กระจกเงา",
+  "ch": "C4-5"
+ },
+ {
   "term": "Grid Snap",
   "th": "ให้เคอร์เซอร์ดีดตามระยะและมุมที่กำหนด",
   "ch": "C1-2"
+ },
+ {
+  "term": "Group",
+  "th": "รวมหลายวัตถุเป็นกลุ่มเดียว",
+  "ch": "C2-10"
  },
  {
   "term": "Guide",
@@ -85,9 +300,44 @@
   "ch": "C1-2"
  },
  {
+  "term": "Hatch",
+  "th": "ลายแรเงาบนวัตถุหรือหน้า เช่น หน้าตัด (โหลด .pat ได้)",
+  "ch": "C7-8"
+ },
+ {
+  "term": "Helix",
+  "th": "หมุนรูปรอบแกนพร้อมเลื่อนขึ้น ได้เกลียว/สปริง",
+  "ch": "C8-3"
+ },
+ {
+  "term": "Hidden Line",
+  "th": "การแสดงผลแบบเส้นที่ซ่อนเส้นด้านหลัง",
+  "ch": "C6-6"
+ },
+ {
+  "term": "Hierarchy / Grid",
+  "th": "ลำดับความสำคัญของสิ่งบนหน้า / เส้นตารางช่วยจัดวาง",
+  "ch": "C6-3"
+ },
+ {
+  "term": "Infill",
+  "th": "เนื้อในโปร่งของชิ้นพิมพ์ (เช่น 20%)",
+  "ch": "C8-10"
+ },
+ {
+  "term": "Injection molding",
+  "th": "การฉีดพลาสติก ชิ้นงานควรหนาสม่ำเสมอ",
+  "ch": "C2-9"
+ },
+ {
   "term": "Input palette",
   "th": "แถบซ้ายบน ใช้ดูและพิมพ์ค่าพิกัด x, y, z หรือขนาดเป็นตัวเลข",
   "ch": "C1-1"
+ },
+ {
+  "term": "Insert (Cut / Fill)",
+  "th": "วาดลงบนหน้าของวัตถุแล้วขุดหรือเติมเนื้อเข้าไปในวัตถุเดิม",
+  "ch": "C2-5"
  },
  {
   "term": "Inspector palette",
@@ -95,9 +345,79 @@
   "ch": "C1-4"
  },
  {
+  "term": "Interference",
+  "th": "ชิ้นงานทับกัน ตรวจได้ด้วย Intersection ของสำเนา",
+  "ch": "C8-5"
+ },
+ {
+  "term": "Intersection",
+  "th": "Boolean ที่เก็บเฉพาะส่วนที่ซ้อนทับกัน",
+  "ch": "C3-3"
+ },
+ {
+  "term": "Iterations / Sharpness",
+  "th": "จำนวนรอบการเกลี่ยผิว SubD / ความคมของจุด ขอบ หรือหน้า",
+  "ch": "C3-8"
+ },
+ {
   "term": "Keep Synchronized",
   "th": "ตัวเลือกให้ material ดูเหมือนกันในทุก renderer (10.0.1)",
   "ch": "C1-6"
+ },
+ {
+  "term": "Key / Fill / Rim light",
+  "th": "แสงหลัก / แสงลดเงา / แสงขอบหลัง (การจัดแสง 3 จุด)",
+  "ch": "C4-8"
+ },
+ {
+  "term": "Keyframe / Auto Keyframe",
+  "th": "จุดเวลาที่กำหนดสถานะของ / โหมดสร้าง key อัตโนมัติเมื่อแก้ของ",
+  "ch": "C5-4"
+ },
+ {
+  "term": "Layers palette",
+  "th": "จัดกลุ่มวัตถุ เปิดปิด ล็อก ห้าม snap · layer ที่ active (จุดแดง) รับวัตถุใหม่",
+  "ch": "C2-10"
+ },
+ {
+  "term": "Layout (.fml)",
+  "th": "โหมดกระดาษ 2D ของ formZ สำหรับวางมุมมองโมเดลตามมาตราส่วน",
+  "ch": "C6-4"
+ },
+ {
+  "term": "Lead in / Lead out",
+  "th": "ด้ามจับซ้าย/ขวาของ key ที่คุมการเร่ง/ผ่อนความเร็ว (flat, Linear)",
+  "ch": "C5-5"
+ },
+ {
+  "term": "Leader Line / Text Note",
+  "th": "ลูกศรชี้พร้อมข้อความ / ข้อความหมายเหตุ",
+  "ch": "C7-7"
+ },
+ {
+  "term": "Linear / Multi Dimension (Chain, Stack, Ordinate)",
+  "th": "เส้นบอกขนาดเดี่ยว / หลายช่วงแบบต่อกัน ซ้อนชั้น หรือพิกัด",
+  "ch": "C7-6"
+ },
+ {
+  "term": "Loft / Skin",
+  "th": "สร้างผิวหรือ solid จากหน้าตัดหลายอัน / จากหน้าตัดร่วมกับ path",
+  "ch": "C3-6"
+ },
+ {
+  "term": "Lumens",
+  "th": "หน่วยความสว่างของแสงที่ปล่อยออกมา",
+  "ch": "C4-8"
+ },
+ {
+  "term": "Map Texture / Edit Texture",
+  "th": "กำหนดวิธีห่อภาพ (Mapping Type) / เลื่อน หมุน ย่อขยายลายบนหน้า",
+  "ch": "C4-6"
+ },
+ {
+  "term": "Mass Properties",
+  "th": "ดูปริมาตร น้ำหนัก (จาก density) และ moment of inertia",
+  "ch": "C8-9"
  },
  {
   "term": "Material",
@@ -110,9 +430,29 @@
   "ch": "C1-6"
  },
  {
+  "term": "Material Type (RenderZone)",
+  "th": "ตัวเลือกใน Material Parameters ที่สลับไปตั้งค่าวัสดุสำหรับ RenderZone",
+  "ch": "C4-3"
+ },
+ {
   "term": "Materials palette",
   "th": "รายการ material ของโปรเจกต์ ลากไปวางบนวัตถุได้",
   "ch": "C1-6"
+ },
+ {
+  "term": "Measure Distance / Measure Between",
+  "th": "วัดระยะจุดถึงจุด (Update เพื่อ scale ได้) / วัดระหว่างจุด เส้น หน้าที่ขนานกัน",
+  "ch": "C7-4"
+ },
+ {
+  "term": "Measure Quantities",
+  "th": "แสดงข้อมูลวัตถุ เช่น ปริมาตร พื้นที่ และจุดศูนย์ถ่วง",
+  "ch": "C7-5"
+ },
+ {
+  "term": "Metal, Accurate / Glass, Accurate",
+  "th": "shader สะท้อนแบบ Fresnel สำหรับโลหะ / แก้ว",
+  "ch": "C4-4"
  },
  {
   "term": "Modeling tool palette",
@@ -125,9 +465,29 @@
   "ch": "C1-2"
  },
  {
+  "term": "Move / Rotate",
+  "th": "เครื่องมือย้าย / หมุนใน Transform suite (กด Cmd/Ctrl เพื่อเลื่อนตั้งฉากกับระนาบ)",
+  "ch": "C1-7"
+ },
+ {
+  "term": "Multilayer Paint",
+  "th": "shader สีรถยนต์ (ชั้นสี + ชั้นเคลือบใส)",
+  "ch": "C4-5"
+ },
+ {
   "term": "NURBS",
   "th": "ผิวหรือเส้นโค้งทางคณิตศาสตร์ที่แม่นยำ",
   "ch": "C3"
+ },
+ {
+  "term": "NURBS by Lofting",
+  "th": "ขึงผิว NURBS ผ่านเส้นหน้าตัดตามลำดับ (Tight = ผ่านเส้น, Loose = ใช้ control points)",
+  "ch": "C3-6"
+ },
+ {
+  "term": "Object Doctor",
+  "th": "เครื่องมือตรวจ/ซ่อมโครงสร้างของ object",
+  "ch": "C8-7"
  },
  {
   "term": "Object Snap",
@@ -135,9 +495,24 @@
   "ch": "C1-2"
  },
  {
+  "term": "Object Symmetry",
+  "th": "ใส่ระนาบสมมาตรแบบ live ให้วัตถุ แก้ข้างหนึ่งอีกข้างตาม",
+  "ch": "C2-10"
+ },
+ {
   "term": "Objects palette",
   "th": "รายชื่อ object ทั้งหมดในโปรเจกต์ ใช้ตั้งชื่อและจัดลำดับ",
   "ch": "C1-4"
+ },
+ {
+  "term": "Orthographic projection",
+  "th": "ภาพฉาย มองตรงทีละด้านโดยไม่มี perspective",
+  "ch": "C7-1"
+ },
+ {
+  "term": "Overhang",
+  "th": "ส่วนยื่นที่ไม่มีอะไรรองรับตอนพิมพ์ (เกิน ~45° ต้องมี support)",
+  "ch": "C8-1"
  },
  {
   "term": "Paint",
@@ -150,6 +525,31 @@
   "ch": "C1-4"
  },
  {
+  "term": "Pipe",
+  "th": "สร้างท่อแบบ parametric ตามเส้น แก้เส้นผ่านศูนย์กลางใน Inspector ได้",
+  "ch": "C3-12"
+ },
+ {
+  "term": "Pitch",
+  "th": "ระยะจากยอดเกลียวหนึ่งถึงยอดถัดไป",
+  "ch": "C8-1"
+ },
+ {
+  "term": "Place Image / Place Image Fit",
+  "th": "วางภาพจากไฟล์บน layout (ลิงก์ไฟล์ crop ได้)",
+  "ch": "C6-5"
+ },
+ {
+  "term": "Place Multi-Frame",
+  "th": "วางหลาย frame เป็นตาราง (เช่น 2×2) พร้อมกัน",
+  "ch": "C6-8"
+ },
+ {
+  "term": "Place Text",
+  "th": "วางตัวหนังสือ (เลือกฟอนต์/ขนาดใน Text Editor)",
+  "ch": "C6-7"
+ },
+ {
   "term": "Postprocess",
   "th": "การปรับภาพหลังเรนเดอร์ (เลี่ยงไว้ก่อนใน 10.1.5 บน Mac)",
   "ch": "C1-8"
@@ -158,6 +558,16 @@
   "term": "Preferences",
   "th": "การตั้งค่าของโปรแกรม มีผลทุกไฟล์ (Edit menu)",
   "ch": "C1-2"
+ },
+ {
+  "term": "Prepick / Postpick",
+  "th": "เลือกก่อนแล้วใช้เครื่องมือ / ใช้เครื่องมือคลิกเลือกเอง",
+  "ch": "C2-3"
+ },
+ {
+  "term": "Presentation board",
+  "th": "แผ่นนำเสนองานออกแบบ (ภาพ hero ข้อความ สี วัสดุ)",
+  "ch": "C6-3"
  },
  {
   "term": "Preset (วิธีสร้าง)",
@@ -170,9 +580,24 @@
   "ch": "C1-4"
  },
  {
+  "term": "Print Preparation",
+  "th": "เครื่องมือตรวจปัญหาก่อนพิมพ์ 3D ทั้งโปรเจกต์ (ไม่ซ่อม)",
+  "ch": "C8-6"
+ },
+ {
+  "term": "Product family / Design language",
+  "th": "กลุ่มสินค้าที่ใช้รูปทรง รายละเอียด และ CMF ร่วมกันจนดูเป็นชุดเดียว",
+  "ch": "C6-2"
+ },
+ {
   "term": "Project Settings",
   "th": "การตั้งค่าของไฟล์นั้น ๆ (File menu) เช่น หน่วยและสี",
   "ch": "C1-2"
+ },
+ {
+  "term": "Radial/Diameter Dimension · Angular Dimension",
+  "th": "บอกรัศมี (R) หรือเส้นผ่านศูนย์กลาง (Ø) · บอกมุมจาก 3 จุด",
+  "ch": "C7-7"
  },
  {
   "term": "Raytrace",
@@ -195,14 +620,104 @@
   "ch": "C1-8"
  },
  {
+  "term": "Reshape",
+  "th": "ดึงหน้าเรียบของวัตถุเพื่อเปลี่ยนรูปทรง",
+  "ch": "C2-3"
+ },
+ {
   "term": "Result (สีส้ม)",
   "th": "ผลลัพธ์ที่เพิ่งสร้างและยังแก้ตัวเลือกได้ทันที",
   "ch": "C1-1"
  },
  {
+  "term": "Revision (Rev)",
+  "th": "รุ่นการแก้ไขของแบบ เช่น Rev A, Rev B",
+  "ch": "C7-10"
+ },
+ {
+  "term": "Revolve",
+  "th": "หมุนโปรไฟล์รอบแกนให้เป็นทรงกลม (Angle, Continuous/Stepped, Cap)",
+  "ch": "C3-5"
+ },
+ {
+  "term": "Round to Holdline",
+  "th": "ลบมุมที่รัศมีเปลี่ยนตามเส้น holdline บนหน้าข้างขอบ",
+  "ch": "C2-8"
+ },
+ {
+  "term": "Scale (1:2)",
+  "th": "มาตราส่วน: บนกระดาษ 1 หน่วย = ของจริง 2 หน่วย",
+  "ch": "C6-8"
+ },
+ {
+  "term": "Screw/Bolt",
+  "th": "เครื่องมือสร้างสกรู/โบลต์มีเกลียวจากค่าพารามิเตอร์ (Specialties)",
+  "ch": "C7-3"
+ },
+ {
+  "term": "Section (tool)",
+  "th": "ตัดวัตถุจริงเป็น 2D หรือ 3D (Both / Front / Back)",
+  "ch": "C7-8"
+ },
+ {
+  "term": "Separate",
+  "th": "แยก object ที่มีหลาย volume เป็นหลายชิ้น",
+  "ch": "C2-7"
+ },
+ {
+  "term": "Shader (Color / Reflection / Transparency / Bump)",
+  "th": "4 ชั้นของวัสดุ RenderZone: สี · การสะท้อน · ความโปร่งใส · ผิวนูน",
+  "ch": "C4-3"
+ },
+ {
+  "term": "Sheets palette",
+  "th": "จัดการแผ่นกระดาษใน layout (แผ่น active = จุดแดง)",
+  "ch": "C6-4"
+ },
+ {
+  "term": "Simplify Mesh",
+  "th": "ลดจำนวนสามเหลี่ยมแต่คงรูปทรงหลัก",
+  "ch": "C8-8"
+ },
+ {
+  "term": "Slice",
+  "th": "ตัดวัตถุด้วยเส้นที่ดึงตั้งฉากกับ reference plane (Heal = ปิดรอยตัด)",
+  "ch": "C2-7"
+ },
+ {
+  "term": "Slicer",
+  "th": "โปรแกรมหั่นโมเดลเป็นชั้นและสร้างเส้นทางหัวพิมพ์",
+  "ch": "C8-10"
+ },
+ {
+  "term": "Smooth object",
+  "th": "วัตถุที่ผิวเป็นคณิตศาสตร์โค้งจริง บนจอแสดงด้วย faceting",
+  "ch": "C3-1"
+ },
+ {
   "term": "Solid",
   "th": "วัตถุปิดสนิทที่มีปริมาตร ใช้กับ Boolean และพิมพ์ 3D ได้",
   "ch": "C1-5"
+ },
+ {
+  "term": "Split (Boolean Split)",
+  "th": "แบ่ง solid ด้วยอีกชิ้น ได้ทั้งส่วนใน/นอก (One Way / Two Way)",
+  "ch": "C2-7"
+ },
+ {
+  "term": "STEP (AP214/AP203)",
+  "th": "ไฟล์มาตรฐาน ISO 10303 เก็บ solid แม่นยำ ส่งต่อ CAD อื่น",
+  "ch": "C8-9"
+ },
+ {
+  "term": "Stitch",
+  "th": "เย็บผิวหลายชิ้นที่ขอบตรงกันให้เป็นชิ้นเดียว",
+  "ch": "C3-5"
+ },
+ {
+  "term": "STL",
+  "th": "ไฟล์สามเหลี่ยมล้วนสำหรับ slicer/เครื่องพิมพ์ 3D",
+  "ch": "C8-8"
  },
  {
   "term": "STL / STEP",
@@ -215,234 +730,9 @@
   "ch": "C3"
  },
  {
-  "term": "Template Project",
-  "th": "ไฟล์ต้นแบบที่ไฟล์ใหม่ทุกไฟล์จะคัดลอกค่าไปใช้",
-  "ch": "C1-2"
- },
- {
-  "term": "Tool Options palette",
-  "th": "แผงด้านขวาที่แสดงตัวเลือกของเครื่องมือที่กำลังใช้",
-  "ch": "C1-1"
- },
- {
-  "term": "Views palette",
-  "th": "ที่บันทึกมุมกล้องไว้ใช้ซ้ำ",
-  "ch": "C1-3"
- },
- {
-  "term": "Wire Frame / Shaded Work / Shaded Full",
-  "th": "โหมดการแสดงผลแบบ real-time: เส้น / ผิวทึบสำหรับทำงาน / ผิวพร้อมแสงและเงา",
-  "ch": "C1-3"
- },
- {
-  "term": "Working Units",
-  "th": "หน่วยวัดและความละเอียดของตัวเลขในโปรเจกต์ เช่น mm และ 0.1",
-  "ch": "C1-2"
- },
- {
-  "term": "Workspace",
-  "th": "ชุดการจัดหน้าจอ เช่น Modeling, Drafting, Rendering/Animation",
-  "ch": "C1-1"
- },
- {
-  "term": "Truncated Cone",
-  "th": "กรวยปลายตัด ตั้งขนาดหน้าบนเป็น % ของฐานในช่อง Top Is",
-  "ch": "C1-4"
- },
- {
-  "term": "Union",
-  "th": "Boolean ที่รวม solid หลายชิ้นเป็นชิ้นเดียว",
-  "ch": "C1-5"
- },
- {
-  "term": "Move / Rotate",
-  "th": "เครื่องมือย้าย / หมุนใน Transform suite (กด Cmd/Ctrl เพื่อเลื่อนตั้งฉากกับระนาบ)",
-  "ch": "C1-7"
- },
- {
-  "term": "Underlay",
-  "th": "ภาพที่วางบน reference plane ไว้ใช้อ้างอิงหรือวาดตาม",
-  "ch": "🏠"
- },
- {
-  "term": "Clearance",
-  "th": "ระยะเผื่อให้ชิ้นส่วนสวมกันได้ เช่น 0.2 mm ต่อด้าน",
-  "ch": "C1-5"
- },
- {
-  "term": "CMF",
-  "th": "Color, Material, Finish: การออกแบบสี วัสดุ และผิวของผลิตภัณฑ์",
-  "ch": "C1-9"
- },
- {
-  "term": "Colorway",
-  "th": "ชุดสีหลายแบบของผลิตภัณฑ์รุ่นเดียวกัน",
-  "ch": "C1-9"
- },
- {
-  "term": "Draw suite / Create suite",
-  "th": "กลุ่มเครื่องมือวาดรูป 2D แล้วเลือก object type / กลุ่มเครื่องมือสร้าง primitive",
-  "ch": "C2-2"
- },
- {
-  "term": "3D Extrusion",
-  "th": "object type ที่ดึงรูป 2D ขึ้นเป็น solid ตามความสูง",
-  "ch": "C2-2"
- },
- {
-  "term": "3D Delta / Plane / Plane Delta",
-  "th": "โหมดแสดงพิกัดใน Input palette: ระยะจากจุดก่อนหน้า หรือพิกัดตาม reference plane",
-  "ch": "C2-2"
- },
- {
-  "term": "Topological level",
-  "th": "ระดับที่จะเลือก: Point, Segment, Segment Sequence, Outline, Face, Hole, Object หรือ Auto Pick",
-  "ch": "C2-3"
- },
- {
-  "term": "Prepick / Postpick",
-  "th": "เลือกก่อนแล้วใช้เครื่องมือ / ใช้เครื่องมือคลิกเลือกเอง",
-  "ch": "C2-3"
- },
- {
-  "term": "Reshape",
-  "th": "ดึงหน้าเรียบของวัตถุเพื่อเปลี่ยนรูปทรง",
-  "ch": "C2-3"
- },
- {
-  "term": "Vector Line / Arc",
-  "th": "เครื่องมือวาดเส้นตรงหลายช่วง / เส้นโค้งวงกลม สลับกันได้ระหว่างวาด",
-  "ch": "C2-4"
- },
- {
-  "term": "Insert (Cut / Fill)",
-  "th": "วาดลงบนหน้าของวัตถุแล้วขุดหรือเติมเนื้อเข้าไปในวัตถุเดิม",
-  "ch": "C2-5"
- },
- {
-  "term": "Align / Distribute",
-  "th": "จัดวัตถุให้ตรงแนวหรือกระจายระยะเท่ากันตามแกน X/Y/Z",
-  "ch": "C2-6"
- },
- {
-  "term": "Transform (tool)",
-  "th": "เครื่องมือ controller เดียวที่ย้าย หมุน และ scale ได้",
-  "ch": "C2-6"
- },
- {
-  "term": "Split (Boolean Split)",
-  "th": "แบ่ง solid ด้วยอีกชิ้น ได้ทั้งส่วนใน/นอก (One Way / Two Way)",
-  "ch": "C2-7"
- },
- {
-  "term": "Slice",
-  "th": "ตัดวัตถุด้วยเส้นที่ดึงตั้งฉากกับ reference plane (Heal = ปิดรอยตัด)",
-  "ch": "C2-7"
- },
- {
-  "term": "Separate",
-  "th": "แยก object ที่มีหลาย volume เป็นหลายชิ้น",
-  "ch": "C2-7"
- },
- {
-  "term": "Round to Holdline",
-  "th": "ลบมุมที่รัศมีเปลี่ยนตามเส้น holdline บนหน้าข้างขอบ",
-  "ch": "C2-8"
- },
- {
-  "term": "Thicken",
-  "th": "เพิ่มความหนาให้ผิว หรือทำ solid ให้กลวงโดยมีผนังหนาตามที่ตั้ง (Justification)",
-  "ch": "C2-9"
- },
- {
-  "term": "Injection molding",
-  "th": "การฉีดพลาสติก ชิ้นงานควรหนาสม่ำเสมอ",
-  "ch": "C2-9"
- },
- {
-  "term": "Object Symmetry",
-  "th": "ใส่ระนาบสมมาตรแบบ live ให้วัตถุ แก้ข้างหนึ่งอีกข้างตาม",
-  "ch": "C2-10"
- },
- {
-  "term": "Layers palette",
-  "th": "จัดกลุ่มวัตถุ เปิดปิด ล็อก ห้าม snap · layer ที่ active (จุดแดง) รับวัตถุใหม่",
-  "ch": "C2-10"
- },
- {
-  "term": "Group",
-  "th": "รวมหลายวัตถุเป็นกลุ่มเดียว",
-  "ch": "C2-10"
- },
- {
-  "term": "Facetted object",
-  "th": "วัตถุที่ผิวเป็นหน้าแบนหลายเหลี่ยมจริง (polygon)",
-  "ch": "C3-1"
- },
- {
-  "term": "Smooth object",
-  "th": "วัตถุที่ผิวเป็นคณิตศาสตร์โค้งจริง บนจอแสดงด้วย faceting",
-  "ch": "C3-1"
- },
- {
-  "term": "Display Resolution / Faceting Schemes",
-  "th": "ความละเอียดของการแสดงผลวัตถุ smooth / ชุดค่าสำเร็จรูปของความละเอียด",
-  "ch": "C3-1"
- },
- {
-  "term": "Convert Object Type",
-  "th": "แปลงชนิดวัตถุ เช่น smooth ↔ facetted",
-  "ch": "C3-1"
- },
- {
-  "term": "Intersection",
-  "th": "Boolean ที่เก็บเฉพาะส่วนที่ซ้อนทับกัน",
-  "ch": "C3-3"
- },
- {
-  "term": "Curve Create",
-  "th": "แปลง Vector Line เป็น NURBS Curve หรือ Spline Curve Through Points",
-  "ch": "C3-4"
- },
- {
-  "term": "Curve Edit",
-  "th": "แก้เส้นโค้งด้วย Control Points / Edit Points / Weights",
-  "ch": "C3-4"
- },
- {
-  "term": "Revolve",
-  "th": "หมุนโปรไฟล์รอบแกนให้เป็นทรงกลม (Angle, Continuous/Stepped, Cap)",
-  "ch": "C3-5"
- },
- {
-  "term": "Stitch",
-  "th": "เย็บผิวหลายชิ้นที่ขอบตรงกันให้เป็นชิ้นเดียว",
-  "ch": "C3-5"
- },
- {
-  "term": "NURBS by Lofting",
-  "th": "ขึงผิว NURBS ผ่านเส้นหน้าตัดตามลำดับ (Tight = ผ่านเส้น, Loose = ใช้ control points)",
-  "ch": "C3-6"
- },
- {
-  "term": "Loft / Skin",
-  "th": "สร้างผิวหรือ solid จากหน้าตัดหลายอัน / จากหน้าตัดร่วมกับ path",
-  "ch": "C3-6"
- },
- {
-  "term": "Surface Analysis / Zebra Stripes",
-  "th": "ตรวจความเนียนของผิวด้วยแถบสะท้อน (Pick > Attributes > Analysis)",
-  "ch": "C3-7"
- },
- {
-  "term": "Cage",
-  "th": "กรงเหลี่ยมที่ควบคุมผิว subdivision",
-  "ch": "C3-8"
- },
- {
-  "term": "Iterations / Sharpness",
-  "th": "จำนวนรอบการเกลี่ยผิว SubD / ความคมของจุด ขอบ หรือหน้า",
-  "ch": "C3-8"
+  "term": "Subdivision / Convert",
+  "th": "แปลง SubD เป็น NURBS หรือ quad mesh (facetted)",
+  "ch": "C3-10"
  },
  {
   "term": "Subdivision / Grow Face",
@@ -460,224 +750,9 @@
   "ch": "C3-10"
  },
  {
-  "term": "Subdivision / Convert",
-  "th": "แปลง SubD เป็น NURBS หรือ quad mesh (facetted)",
-  "ch": "C3-10"
- },
- {
-  "term": "Pipe",
-  "th": "สร้างท่อแบบ parametric ตามเส้น แก้เส้นผ่านศูนย์กลางใน Inspector ได้",
-  "ch": "C3-12"
- },
- {
-  "term": "Material Type (RenderZone)",
-  "th": "ตัวเลือกใน Material Parameters ที่สลับไปตั้งค่าวัสดุสำหรับ RenderZone",
-  "ch": "C4-3"
- },
- {
-  "term": "Shader (Color / Reflection / Transparency / Bump)",
-  "th": "4 ชั้นของวัสดุ RenderZone: สี · การสะท้อน · ความโปร่งใส · ผิวนูน",
-  "ch": "C4-3"
- },
- {
-  "term": "Metal, Accurate / Glass, Accurate",
-  "th": "shader สะท้อนแบบ Fresnel สำหรับโลหะ / แก้ว",
-  "ch": "C4-4"
- },
- {
-  "term": "Fresnel",
-  "th": "ปรากฏการณ์ที่ผิวสะท้อนมากขึ้นเมื่อมองในมุมเฉียง",
-  "ch": "C4-4"
- },
- {
-  "term": "Multilayer Paint",
-  "th": "shader สีรถยนต์ (ชั้นสี + ชั้นเคลือบใส)",
-  "ch": "C4-5"
- },
- {
-  "term": "Glossy / Mirror",
-  "th": "shader พลาสติกเงา / กระจกเงา",
-  "ch": "C4-5"
- },
- {
-  "term": "Color Map",
-  "th": "ใช้ภาพเป็นสีของวัสดุ (Repetitions, Infinite)",
-  "ch": "C4-6"
- },
- {
-  "term": "Map Texture / Edit Texture",
-  "th": "กำหนดวิธีห่อภาพ (Mapping Type) / เลื่อน หมุน ย่อขยายลายบนหน้า",
-  "ch": "C4-6"
- },
- {
-  "term": "Decal",
-  "th": "สติกเกอร์ภาพแปะทับ material เดิม สูงสุด 32 ชิ้นต่อวัตถุ",
-  "ch": "C4-7"
- },
- {
-  "term": "Area light / Line light",
-  "th": "ไฟที่ปล่อยแสงจากผิวหรือเส้นของวัตถุ ให้เงานุ่ม",
-  "ch": "C4-8"
- },
- {
-  "term": "Key / Fill / Rim light",
-  "th": "แสงหลัก / แสงลดเงา / แสงขอบหลัง (การจัดแสง 3 จุด)",
-  "ch": "C4-8"
- },
- {
-  "term": "Lumens",
-  "th": "หน่วยความสว่างของแสงที่ปล่อยออกมา",
-  "ch": "C4-8"
- },
- {
-  "term": "Environment light",
-  "th": "ไฟจากภาพรอบฉาก (image based illumination)",
-  "ch": "C4-9"
- },
- {
-  "term": "Environment (Scene tab)",
-  "th": "ภาพรอบฉากที่วัสดุสะท้อน ไม่แสดงเป็นฉากหลังโดยอัตโนมัติ",
-  "ch": "C4-9"
- },
- {
-  "term": "Ambient Occlusion",
-  "th": "เงามืดตามซอกมุมที่แสงเข้าถึงยาก",
-  "ch": "C4-10"
- },
- {
-  "term": "Final Gather",
-  "th": "การคำนวณแสงสะท้อนต่อ (indirect light) ให้ภาพสมจริง",
-  "ch": "C4-10"
- },
- {
-  "term": "Frames Per Second (fps)",
-  "th": "จำนวนภาพต่อวินาทีของวิดีโอ (ค่าเริ่มต้น 30)",
-  "ch": "C5-1"
- },
- {
-  "term": "Animation Time Line palette",
-  "th": "แถบเวลาสำหรับเลื่อนเวลาปัจจุบัน ดู key และกดเล่น",
-  "ch": "C5-1"
- },
- {
-  "term": "Animated entity",
-  "th": "วัตถุ ไฟ หรือ view ที่เปลี่ยนแปลงตามเวลา (แสดงใน Animation Editor)",
-  "ch": "C5-1"
- },
- {
-  "term": "Create Turntable View",
-  "th": "คำสั่ง 10.1 ที่ทำให้กล้องหมุนรอบ COI",
-  "ch": "C5-2"
- },
- {
-  "term": "Center of interest (COI)",
-  "th": "จุดที่กล้องมอง เป็นศูนย์กลางของ turntable/orbit",
-  "ch": "C5-2"
- },
- {
-  "term": "Ease In/Out",
-  "th": "การค่อย ๆ เร่งและค่อย ๆ ผ่อนความเร็วของการเคลื่อนไหว",
-  "ch": "C5-2"
- },
- {
-  "term": "Edit Axes",
-  "th": "ย้าย/หมุนแกนของ object ซึ่งเป็นจุดหมุน (pivot) ใน animation",
-  "ch": "C5-3"
- },
- {
-  "term": "Keyframe / Auto Keyframe",
-  "th": "จุดเวลาที่กำหนดสถานะของ / โหมดสร้าง key อัตโนมัติเมื่อแก้ของ",
-  "ch": "C5-4"
- },
- {
-  "term": "Animation Editor palette",
-  "th": "รายการ animated entities และกราฟ track ของแต่ละค่า",
-  "ch": "C5-5"
- },
- {
-  "term": "Lead in / Lead out",
-  "th": "ด้ามจับซ้าย/ขวาของ key ที่คุมการเร่ง/ผ่อนความเร็ว (flat, Linear)",
-  "ch": "C5-5"
- },
- {
-  "term": "Exploded view",
-  "th": "ภาพหรือวิดีโอที่ชิ้นส่วนแยกออกตามแนวประกอบ",
-  "ch": "C5-6"
- },
- {
-  "term": "Animate Object Staging",
-  "th": "คำสั่ง 10.1 ทำ exploded/fly-in (Disperse/Collect, Offset, Direction)",
-  "ch": "C5-6"
- },
- {
-  "term": "Create Orbit View / Orbit Light",
-  "th": "คำสั่ง 10.1 ให้กล้อง (Azimuth/Altitude) หรือแสงโคจรรอบสินค้า",
-  "ch": "C5-7"
- },
- {
-  "term": "Generate Animation...",
-  "th": "คำสั่งใน Display menu เรนเดอร์ทุกเฟรมเป็นไฟล์วิดีโอหรือภาพ",
-  "ch": "C5-8"
- },
- {
-  "term": "Product family / Design language",
-  "th": "กลุ่มสินค้าที่ใช้รูปทรง รายละเอียด และ CMF ร่วมกันจนดูเป็นชุดเดียว",
-  "ch": "C6-2"
- },
- {
-  "term": "Presentation board",
-  "th": "แผ่นนำเสนองานออกแบบ (ภาพ hero ข้อความ สี วัสดุ)",
-  "ch": "C6-3"
- },
- {
-  "term": "Hierarchy / Grid",
-  "th": "ลำดับความสำคัญของสิ่งบนหน้า / เส้นตารางช่วยจัดวาง",
-  "ch": "C6-3"
- },
- {
-  "term": "Thumbnail sketch",
-  "th": "ภาพร่างเล็ก ๆ ของ layout ก่อนลงมือจริง",
-  "ch": "C6-3"
- },
- {
-  "term": "Layout (.fml)",
-  "th": "โหมดกระดาษ 2D ของ formZ สำหรับวางมุมมองโมเดลตามมาตราส่วน",
-  "ch": "C6-4"
- },
- {
-  "term": "Sheets palette",
-  "th": "จัดการแผ่นกระดาษใน layout (แผ่น active = จุดแดง)",
-  "ch": "C6-4"
- },
- {
-  "term": "Place Image / Place Image Fit",
-  "th": "วางภาพจากไฟล์บน layout (ลิงก์ไฟล์ crop ได้)",
-  "ch": "C6-5"
- },
- {
-  "term": "Frame / Place Frame",
-  "th": "กรอบบน layout ที่แสดงโมเดล 3D ตาม view/scale และลิงก์กับไฟล์โมเดล",
-  "ch": "C6-6"
- },
- {
-  "term": "Hidden Line",
-  "th": "การแสดงผลแบบเส้นที่ซ่อนเส้นด้านหลัง",
-  "ch": "C6-6"
- },
- {
-  "term": "Place Multi-Frame",
-  "th": "วางหลาย frame เป็นตาราง (เช่น 2×2) พร้อมกัน",
-  "ch": "C6-8"
- },
- {
-  "term": "Scale (1:2)",
-  "th": "มาตราส่วน: บนกระดาษ 1 หน่วย = ของจริง 2 หน่วย",
-  "ch": "C6-8"
- },
- {
-  "term": "Place Text",
-  "th": "วางตัวหนังสือ (เลือกฟอนต์/ขนาดใน Text Editor)",
-  "ch": "C6-7"
+  "term": "Surface Analysis / Zebra Stripes",
+  "th": "ตรวจความเนียนของผิวด้วยแถบสะท้อน (Pick > Attributes > Analysis)",
+  "ch": "C3-7"
  },
  {
   "term": "Swatch",
@@ -685,13 +760,28 @@
   "ch": "C6-7"
  },
  {
-  "term": "Orthographic projection",
-  "th": "ภาพฉาย มองตรงทีละด้านโดยไม่มี perspective",
-  "ch": "C7-1"
+  "term": "Tangent Loft",
+  "th": "สร้างวัตถุโค้งต่อเนื่องจากหลายหน้าตัด (Caps on = solid)",
+  "ch": "C8-2"
  },
  {
-  "term": "First-angle / Third-angle projection",
-  "th": "ระบบวางภาพฉาย (ISO/ไทยนิยม first-angle: Top อยู่ใต้ Front)",
+  "term": "Template Project",
+  "th": "ไฟล์ต้นแบบที่ไฟล์ใหม่ทุกไฟล์จะคัดลอกค่าไปใช้",
+  "ch": "C1-2"
+ },
+ {
+  "term": "Thicken",
+  "th": "เพิ่มความหนาให้ผิว หรือทำ solid ให้กลวงโดยมีผนังหนาตามที่ตั้ง (Justification)",
+  "ch": "C2-9"
+ },
+ {
+  "term": "Thumbnail sketch",
+  "th": "ภาพร่างเล็ก ๆ ของ layout ก่อนลงมือจริง",
+  "ch": "C6-3"
+ },
+ {
+  "term": "Title block",
+  "th": "ตารางข้อมูลแบบ (ชื่องาน วัสดุ มาตราส่วน ผู้เขียน วันที่)",
   "ch": "C7-1"
  },
  {
@@ -700,78 +790,63 @@
   "ch": "C7-1"
  },
  {
-  "term": "Title block",
-  "th": "ตารางข้อมูลแบบ (ชื่องาน วัสดุ มาตราส่วน ผู้เขียน วันที่)",
-  "ch": "C7-1"
+  "term": "Tool Options palette",
+  "th": "แผงด้านขวาที่แสดงตัวเลือกของเครื่องมือที่กำลังใช้",
+  "ch": "C1-1"
  },
  {
-  "term": "Screw/Bolt",
-  "th": "เครื่องมือสร้างสกรู/โบลต์มีเกลียวจากค่าพารามิเตอร์ (Specialties)",
-  "ch": "C7-3"
+  "term": "Topological level",
+  "th": "ระดับที่จะเลือก: Point, Segment, Segment Sequence, Outline, Face, Hole, Object หรือ Auto Pick",
+  "ch": "C2-3"
  },
  {
-  "term": "Measure Distance / Measure Between",
-  "th": "วัดระยะจุดถึงจุด (Update เพื่อ scale ได้) / วัดระหว่างจุด เส้น หน้าที่ขนานกัน",
-  "ch": "C7-4"
+  "term": "Transform (tool)",
+  "th": "เครื่องมือ controller เดียวที่ย้าย หมุน และ scale ได้",
+  "ch": "C2-6"
  },
  {
-  "term": "Measure Quantities",
-  "th": "แสดงข้อมูลวัตถุ เช่น ปริมาตร พื้นที่ และจุดศูนย์ถ่วง",
-  "ch": "C7-5"
+  "term": "Truncated Cone",
+  "th": "กรวยปลายตัด ตั้งขนาดหน้าบนเป็น % ของฐานในช่อง Top Is",
+  "ch": "C1-4"
  },
  {
-  "term": "Center of gravity",
-  "th": "จุดศูนย์ถ่วงของวัตถุ",
-  "ch": "C7-5"
+  "term": "Underlay",
+  "th": "ภาพที่วางบน reference plane ไว้ใช้อ้างอิงหรือวาดตาม",
+  "ch": "🏠"
  },
  {
-  "term": "Density",
-  "th": "ความหนาแน่น (g/cm³) ใช้คำนวณน้ำหนักจากปริมาตร",
-  "ch": "C7-5"
+  "term": "Union",
+  "th": "Boolean ที่รวม solid หลายชิ้นเป็นชิ้นเดียว",
+  "ch": "C1-5"
  },
  {
-  "term": "Linear / Multi Dimension (Chain, Stack, Ordinate)",
-  "th": "เส้นบอกขนาดเดี่ยว / หลายช่วงแบบต่อกัน ซ้อนชั้น หรือพิกัด",
-  "ch": "C7-6"
+  "term": "Vector Line / Arc",
+  "th": "เครื่องมือวาดเส้นตรงหลายช่วง / เส้นโค้งวงกลม สลับกันได้ระหว่างวาด",
+  "ch": "C2-4"
  },
  {
-  "term": "Dimension Styles (Screen / World)",
-  "th": "รูปแบบตัวหนังสือและลูกศรของ dimension (ขนาดคงที่บนจอ / ขนาดจริงในโมเดล)",
-  "ch": "C7-6"
+  "term": "Views palette",
+  "th": "ที่บันทึกมุมกล้องไว้ใช้ซ้ำ",
+  "ch": "C1-3"
  },
  {
-  "term": "Radial/Diameter Dimension · Angular Dimension",
-  "th": "บอกรัศมี (R) หรือเส้นผ่านศูนย์กลาง (Ø) · บอกมุมจาก 3 จุด",
-  "ch": "C7-7"
+  "term": "Watertight",
+  "th": "solid ปิดสนิท ไม่มีรูรั่ว ไม่มีผิวซ้อน",
+  "ch": "C8-1"
  },
  {
-  "term": "Leader Line / Text Note",
-  "th": "ลูกศรชี้พร้อมข้อความ / ข้อความหมายเหตุ",
-  "ch": "C7-7"
+  "term": "Wire Frame / Shaded Work / Shaded Full",
+  "th": "โหมดการแสดงผลแบบ real-time: เส้น / ผิวทึบสำหรับทำงาน / ผิวพร้อมแสงและเงา",
+  "ch": "C1-3"
  },
  {
-  "term": "Associativity",
-  "th": "dimension ที่ผูกกับจุดของวัตถุ แก้วัตถุแล้วขนาดตาม",
-  "ch": "C7-7"
+  "term": "Working Units",
+  "th": "หน่วยวัดและความละเอียดของตัวเลขในโปรเจกต์ เช่น mm และ 0.1",
+  "ch": "C1-2"
  },
  {
-  "term": "Clipping Plane",
-  "th": "ระนาบผ่าเฉพาะการแสดงผล ไม่ตัดโมเดลจริง",
-  "ch": "C7-8"
- },
- {
-  "term": "Section (tool)",
-  "th": "ตัดวัตถุจริงเป็น 2D หรือ 3D (Both / Front / Back)",
-  "ch": "C7-8"
- },
- {
-  "term": "Hatch",
-  "th": "ลายแรเงาบนวัตถุหรือหน้า เช่น หน้าตัด (โหลด .pat ได้)",
-  "ch": "C7-8"
- },
- {
-  "term": "Revision (Rev)",
-  "th": "รุ่นการแก้ไขของแบบ เช่น Rev A, Rev B",
-  "ch": "C7-10"
+  "term": "Workspace",
+  "th": "ชุดการจัดหน้าจอ เช่น Modeling, Drafting, Rendering/Animation",
+  "ch": "C1-1"
  }
 ]

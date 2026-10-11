@@ -48,6 +48,9 @@ permalink: /courses/c7-measure-drafting/05-quantities/
 {: .power }
 SketchUp แสดง volume ได้เฉพาะ solid group ที่ปิดสนิท และไม่มีจุดศูนย์ถ่วง ส่วน formZ ให้ข้อมูลครบทันทีเพราะทำงานเป็น solid ตั้งแต่แรก
 
+{: .note }
+formZ ยังมีเครื่องมือ **Mass Properties** (กลุ่ม Measuring) ที่แสดง **Weight And Volume** จาก density และ **Moments Of Inertia** ด้วย ซึ่งเราจะใช้ใน [C8 บท 9]({{ '/courses/c8-make-it/09-step/' | relative_url }})
+
 ## ✅ เช็คตัวเอง
 <details><summary>1. น้ำหนักคำนวณอย่างไร?</summary>ปริมาตร × ความหนาแน่น</details>
 <details><summary>2. 6,500 mm³ เท่ากับกี่ cm³?</summary>6.5 cm³</details>
