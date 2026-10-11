@@ -9,17 +9,22 @@ permalink: /courses/c7-measure-drafting/
 
 <span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ เป้าหมายประมาณ 90 นาที
 
-{: .note }
+{: .verify }
 course นี้ **อยู่ระหว่างวางแผน** โครงด้านล่างคือร่างบทเรียนที่จะเขียนต่อ
 
-**ชิ้นงาน:** drawing 3 views ของลำโพงพร้อม dimension และ section
+**ชิ้นงานหลัก:** กบเหลาดินสอแบบกล่อง
+**เทคนิค:** Solid, Boolean, Measure, Dimensions, Section
+
+{: .note }
+ใช้กิจกรรม [อ้างอิงจากของในบ้าน]({{ '/home-reference/' | relative_url }}) วัดและถ่ายรูปของจริงก่อนเริ่ม
 
 ## ร่างบทเรียน
-1. หน่วย ความละเอียด tolerance เบื้องต้น (คิดแบบวิศวกรสำหรับมือใหม่)
-2. Measure Distance / Angle / Between
-3. Linear / Multi / Angular / Radial-Diameter Dimension
-4. Dimension Styles + Associativity
+1. วัดของจริงให้แม่น: ไม้บรรทัด / เวอร์เนียร์, tolerance เบื้องต้น
+2. ปั้นเร็ว: Cube + Difference (รูกรวย) + Controlled Round + Thicken (ใบมีด)
+3. Measure Distance / Angle
+4. Linear / Multi / Angular / Radial-Diameter Dimension + Dimension Styles
 5. Section / Contours และ Hidden Line แบบเส้นประ
-6. Drawing ใน Layout: frame ตาม scale + title block
+6. Drawing 3 views ใน Layout + title block
+7. Workshop: drawing 1 แผ่น (~45 นาที)
 
-<small>* = formZ Pro เท่านั้น · อ้างอิง R1 Dimensions, Measuring, Section, Layout · KB Measure, Layout</small>
+<small>* = formZ Pro เท่านั้น · อ้างอิง R1 Measuring, Dimensions, Section, Layout</small>

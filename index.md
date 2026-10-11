@@ -28,6 +28,11 @@ permalink: /
 - 1 บทอ่านได้ใน 3–4 หน้าจอ และลงมือ 3–8 นาที
 - workshop สั้น (≤ 1 ชม.) ทำเสร็จแล้วส่งภาพหน้าจอเป็นการบ้าน **ไม่มีเกรด** เป็นการเก็บประวัติผลงานของตัวเอง
 
+## 🏠 ชิ้นงานจากของในบ้าน
+
+ทุก course ใช้ **ของใช้ที่มีอยู่ในบ้าน** (เครื่องเขียน ของใช้ในครัว) เป็นแบบ ให้วัดเป็น mm ถ่ายรูป แล้วปั้นตาม ดูวิธีได้ที่ [อ้างอิงจากของในบ้าน]({{ '/home-reference/' | relative_url }})
+ตลอดทั้งแคตตาล็อกจะได้ฝึกครบ: **Solid · Boolean · NURBS · Facetted vs Smooth · Subdivision · Surface creation (Revolve / Loft / Skin / Sweep / Pipe)**
+
 ## สัดส่วนเนื้อหา: Designer 75% · Engineering 25%
 
 <div class="balance" role="img" aria-label="สัดส่วน designer 75 เปอร์เซ็นต์ engineering 25 เปอร์เซ็นต์">
@@ -43,55 +48,55 @@ permalink: /
 <div class="course-card">
 <h3><a href="{{ '/courses/c1-quick-win/' | relative_url }}">C1 · Quick Win: ปั้น → ใส่วัสดุ → เรนเดอร์</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 8 บท<br>
-ตั้งค่าแค่ที่จำเป็น ปั้น <em>ลำโพงจิ๋ว</em> ใส่วัสดุ 3 แบบ แล้วเรนเดอร์ภาพ hero shot ด้วย RenderZone
+ตั้งค่าแค่ที่จำเป็น ปั้น <em>ลำโพงจิ๋ว</em> ใส่วัสดุ 3 แบบ แล้วเรนเดอร์ภาพ hero shot ด้วย RenderZone<br><small>🔄 แผนต่อไป: เปลี่ยนชิ้นงานเป็น <strong>ปากกาเมจิก</strong> จากบ้าน (เทคนิค: Solid, Controlled Round, Boolean)</small>
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c2-solid-form/' | relative_url }}">C2 · ฟอร์มสวยด้วย Solid</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
-Draw และ Object Type, Pick/Transform, Boolean, Controlled Round, Thicken, Symmetry · ชิ้นงาน: phone stand
+🏠 <strong>แม็กเย็บกระดาษ</strong> · Extrude, Boolean (Union/Difference/Split), Round to Holdline, Symmetry, Thicken
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c3-curves-surfaces/' | relative_url }}">C3 · ผิวโค้งแบบมือโปร: Revolve, NURBS, SubD</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
-ชิ้นงาน: ขวดน้ำ (NURBS) และเคสหูฟัง (SubD) · ตรวจผิวด้วย Zebra
+🏠 <strong>ดินสอ</strong> (Facetted vs Smooth) + <strong>กาต้มน้ำไฟฟ้า</strong> · Revolve, NURBS by Cross Sections, Loft/Skin, Subdivision
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}">C4 · RenderZone ระดับสตูดิโอ</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~85 นาที<br>
-Material library, Map Texture, Decal, แสงสตูดิโอ (Area/Environment), GI, คุณภาพเทียบกับเวลาเรนเดอร์
+🏠 <strong>เครื่องปิ้งขนมปัง</strong> · Subdivision / Soften, Difference, Material library, Map Texture, Decal, แสงสตูดิโอ, GI
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c5-animation/' | relative_url }}">C5 · Animation จากโมเดล</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~75 นาที<br>
-Create Turntable View, Create Orbit View, Animate Object Staging (exploded view), Orbit Light, export วิดีโอ (formZ Pro 10.1+)
+🏠 <strong>แม็กเย็บ</strong> (จาก C2) · Create Turntable View, Create Orbit View, Animate Object Staging (exploded view), Orbit Light, export วิดีโอ (formZ Pro 10.1+)
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c6-layout-boards/' | relative_url }}">C6 · Brand & Presentation Boards ด้วย formZ Layout</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~75 นาที<br>
-New Layout Project, sheet, Place Frame ที่ลิงก์กับโมเดล, ภาพ, ข้อความ, title block → board A3 ของแบรนด์
+🏠 <strong>ชุดครัว กาต้มน้ำ + แก้วมัค</strong> · Revolve + Pipe/Sweep, New Layout Project, Place Frame, title block → board A3
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}">C7 · วัดขนาดและเขียนแบบสำหรับ Product Design Engineering</a></h3>
 <span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
-Measure, Dimensions และ Dimension Styles, Section/Contours, hidden line แบบเส้นประ, drawing ใน Layout
+🏠 <strong>กบเหลาดินสอ</strong> · Measure, Dimensions, Section, hidden line แบบเส้นประ, drawing 3 views ใน Layout
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c8-make-it/' | relative_url }}">C8 · เตรียมผลิต: 3D Print, STEP, Laser</a></h3>
 <span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~80 นาที<br>
-เช็ค solid, Object Doctor, Print Preparation, Mass Properties, Polygon Mesh, STL/STEP/3DM, Waffle
+🏠 <strong>ขวดน้ำ + ฝาเกลียว</strong> · NURBS by Lofting, Screw/Bolt, Print Preparation, Polygon Mesh (Facetted), STL/STEP, Waffle
 </div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c9-capstone/' | relative_url }}">C9 · Capstone: ผลิตภัณฑ์ 1 ชิ้นตั้งแต่ต้นจนจบ</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-eng">Engineering</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~90 นาที<br>
-Brief → sketch → model → check → render → board ลง portfolio
+🏠 <strong>เลือกเองจากบ้าน</strong> (เช่น เมาส์ แปรงสีฟัน) · brief → วัด → model → check → render → board
 </div>
 
 <div class="course-card">

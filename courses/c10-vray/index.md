@@ -9,10 +9,11 @@ permalink: /courses/c10-vray/
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-soon">Coming soon</span> ⏱ เป้าหมายประมาณ 90 นาที
 
-{: .note }
+{: .verify }
 course นี้ **อยู่ระหว่างวางแผน** โครงด้านล่างคือร่างบทเรียนที่จะเขียนต่อ
 
-**ชิ้นงาน:** ภาพ photoreal ด้วย V-Ray
+**ชิ้นงานหลัก:** ใช้ชิ้นงานจาก C4/C6
+**เทคนิค:** Photoreal rendering
 
 ## ร่างบทเรียน
 1. (วางแผนภายหลัง)
