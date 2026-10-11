@@ -618,5 +618,70 @@
   "term": "Generate Animation...",
   "th": "คำสั่งใน Display menu เรนเดอร์ทุกเฟรมเป็นไฟล์วิดีโอหรือภาพ",
   "ch": "C5-8"
+ },
+ {
+  "term": "Product family / Design language",
+  "th": "กลุ่มสินค้าที่ใช้รูปทรง รายละเอียด และ CMF ร่วมกันจนดูเป็นชุดเดียว",
+  "ch": "C6-2"
+ },
+ {
+  "term": "Presentation board",
+  "th": "แผ่นนำเสนองานออกแบบ (ภาพ hero ข้อความ สี วัสดุ)",
+  "ch": "C6-3"
+ },
+ {
+  "term": "Hierarchy / Grid",
+  "th": "ลำดับความสำคัญของสิ่งบนหน้า / เส้นตารางช่วยจัดวาง",
+  "ch": "C6-3"
+ },
+ {
+  "term": "Thumbnail sketch",
+  "th": "ภาพร่างเล็ก ๆ ของ layout ก่อนลงมือจริง",
+  "ch": "C6-3"
+ },
+ {
+  "term": "Layout (.fml)",
+  "th": "โหมดกระดาษ 2D ของ formZ สำหรับวางมุมมองโมเดลตามมาตราส่วน",
+  "ch": "C6-4"
+ },
+ {
+  "term": "Sheets palette",
+  "th": "จัดการแผ่นกระดาษใน layout (แผ่น active = จุดแดง)",
+  "ch": "C6-4"
+ },
+ {
+  "term": "Place Image / Place Image Fit",
+  "th": "วางภาพจากไฟล์บน layout (ลิงก์ไฟล์ crop ได้)",
+  "ch": "C6-5"
+ },
+ {
+  "term": "Frame / Place Frame",
+  "th": "กรอบบน layout ที่แสดงโมเดล 3D ตาม view/scale และลิงก์กับไฟล์โมเดล",
+  "ch": "C6-6"
+ },
+ {
+  "term": "Hidden Line",
+  "th": "การแสดงผลแบบเส้นที่ซ่อนเส้นด้านหลัง",
+  "ch": "C6-6"
+ },
+ {
+  "term": "Place Multi-Frame",
+  "th": "วางหลาย frame เป็นตาราง (เช่น 2×2) พร้อมกัน",
+  "ch": "C6-8"
+ },
+ {
+  "term": "Scale (1:2)",
+  "th": "มาตราส่วน: บนกระดาษ 1 หน่วย = ของจริง 2 หน่วย",
+  "ch": "C6-8"
+ },
+ {
+  "term": "Place Text",
+  "th": "วางตัวหนังสือ (เลือกฟอนต์/ขนาดใน Text Editor)",
+  "ch": "C6-7"
+ },
+ {
+  "term": "Swatch",
+  "th": "ตัวอย่างสีหรือวัสดุบน board",
+  "ch": "C6-7"
  }
 ]

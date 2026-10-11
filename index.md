@@ -77,8 +77,8 @@ permalink: /
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c6-layout-boards/' | relative_url }}">C6 · Brand & Presentation Boards ด้วย formZ Layout</a></h3>
-<span class="tag tag-designer">Designer</span><span class="tag tag-soon">เร็ว ๆ นี้</span> ⏱ ~75 นาที<br>
-🏠 <strong>ชุดครัว กาต้มน้ำ + แก้วมัค</strong> · Revolve + Pipe/Sweep, New Layout Project, Place Frame, title block → board A3
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~80 นาที · 10 บท<br>
+🏠 <strong>ชุดครัว กาต้มน้ำ + แก้วมัค</strong> · Revolve + Pipe, CMF family, New Layout Project, Place Image, Place Frame, Place Multi-Frame, Place Text → board A3 + PDF
 </div>
 
 <div class="course-card">
