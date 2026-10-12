@@ -75,6 +75,11 @@
   "ch": "C1-2"
  },
  {
+  "term": "Axial Sweep",
+  "th": "ลาก source ไปตาม path เพื่อสร้างผิว/solid",
+  "ch": "M2-8"
+ },
+ {
   "term": "Blockout",
   "th": "ปั้นก้อนหยาบให้สัดส่วนถูกก่อนใส่รายละเอียด",
   "ch": "C9-4"
@@ -163,6 +168,11 @@
   "term": "Decal",
   "th": "สติกเกอร์ภาพแปะทับ material เดิม สูงสุด 32 ชิ้นต่อวัตถุ",
   "ch": "C4-7"
+ },
+ {
+  "term": "Deform",
+  "th": "กลุ่มเครื่องมือดัด บิด เรียว (เช่น Radial Bend, Twist, Taper)",
+  "ch": "M2-11"
  },
  {
   "term": "Deliverables",
@@ -260,6 +270,11 @@
   "ch": "C1-1"
  },
  {
+  "term": "Fillet",
+  "th": "ผิวมนเชื่อมระหว่าง 2 หน้าหรือที่มุม",
+  "ch": "M2-4"
+ },
+ {
   "term": "Final Gather",
   "th": "การคำนวณแสงสะท้อนต่อ (indirect light) ให้ภาพสมจริง",
   "ch": "C4-10"
@@ -268,6 +283,11 @@
   "term": "First-angle / Third-angle projection",
   "th": "ระบบวางภาพฉาย (ISO/ไทยนิยม first-angle: Top อยู่ใต้ Front)",
   "ch": "C7-1"
+ },
+ {
+  "term": "Fit Fillet / Bevel",
+  "th": "ทำมุมมนหรือลบมุมให้ shape 2D",
+  "ch": "M2-6"
  },
  {
   "term": "formZ Free / Core / Pro",
@@ -353,6 +373,11 @@
   "term": "Hierarchy / Grid",
   "th": "ลำดับความสำคัญของสิ่งบนหน้า / เส้นตารางช่วยจัดวาง",
   "ch": "C6-3"
+ },
+ {
+  "term": "Holdline",
+  "th": "เส้นที่วาดเพื่อกำหนดขอบเขตของการมน",
+  "ch": "M2-5"
  },
  {
   "term": "Infill",
@@ -660,6 +685,11 @@
   "ch": "M1-2"
  },
  {
+  "term": "Radial Bend",
+  "th": "ดัดวัตถุโค้งรอบแกน",
+  "ch": "M2-11"
+ },
+ {
   "term": "Radial/Diameter Dimension · Angular Dimension",
   "th": "บอกรัศมี (R) หรือเส้นผ่านศูนย์กลาง (Ø) · บอกมุมจาก 3 จุด",
   "ch": "C7-7"
@@ -703,6 +733,16 @@
   "term": "Revolve",
   "th": "หมุนโปรไฟล์รอบแกนให้เป็นทรงกลม (Angle, Continuous/Stepped, Cap)",
   "ch": "C3-5"
+ },
+ {
+  "term": "Round",
+  "th": "มนหรือลบมุมทั้งชิ้นในครั้งเดียว แก้ค่าทีหลังไม่ได้",
+  "ch": "M2-3"
+ },
+ {
+  "term": "Round Between Faces",
+  "th": "สร้าง fillet ระหว่าง 2 หน้า ตั้งค่าที่ Fillet Radius",
+  "ch": "M2-4"
  },
  {
   "term": "Round to Holdline",
@@ -753,6 +793,11 @@
   "term": "Simplify Mesh",
   "th": "ลดจำนวนสามเหลี่ยมแต่คงรูปทรงหลัก",
   "ch": "C8-8"
+ },
+ {
+  "term": "Skin",
+  "th": "สร้างผิวจากหน้าตัด (sources) และเส้นนำ (paths)",
+  "ch": "M2-9"
  },
  {
   "term": "Slice",
@@ -850,6 +895,11 @@
   "ch": "C8-2"
  },
  {
+  "term": "Taper",
+  "th": "ทำให้ปลายหนึ่งของวัตถุเล็กลง (เรียว)",
+  "ch": "M2-11"
+ },
+ {
   "term": "Taps",
   "th": "แตะ Shift/Ctrl/Alt ระหว่างใช้เครื่องมือเพื่อสลับโหมด",
   "ch": "M1-3"
@@ -908,6 +958,16 @@
   "term": "Turntable",
   "th": "วิดีโอหมุนรอบสินค้า 360°",
   "ch": "C5-2"
+ },
+ {
+  "term": "Twist",
+  "th": "บิดวัตถุรอบแกนตาม Twist Angle",
+  "ch": "M2-11"
+ },
+ {
+  "term": "Two Source Sweep",
+  "th": "sweep ที่หน้าตัดต้นทางกับปลายทางต่างกัน",
+  "ch": "M2-8"
  },
  {
   "term": "Underlay",

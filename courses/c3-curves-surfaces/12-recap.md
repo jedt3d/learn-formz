@@ -42,4 +42,4 @@ C3 ทั้ง course แทบไม่มีอะไรที่ SketchUp �
 **[C4 · RenderZone ระดับสตูดิโอ]({{ '/courses/c4-renderzone-studio/' | relative_url }})** ปั้น **เครื่องปิ้งขนมปัง** แบบเร็ว แล้วใช้เวลาส่วนใหญ่ไปกับ **วัสดุ แสง และภาพ** ระดับโฆษณา
 
 ## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
-<div class="next-steps"><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C4 ถ่ายสินค้าแบบสตูดิโอ</a><a href="{{ '/courses/c6-layout-boards/' | relative_url }}"><strong>🖼️ ทำบอร์ด</strong><br>C6 บอร์ดกาต้มน้ำ + แก้ว</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 ข้ามไปลองเอง</strong><br>C9 Portfolio ชิ้นแรก</a></div>
+<div class="next-steps"><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C4 ถ่ายสินค้าแบบสตูดิโอ</a><a href="{{ '/courses/c6-layout-boards/' | relative_url }}"><strong>🖼️ ทำบอร์ด</strong><br>C6 บอร์ดกาต้มน้ำ + แก้ว</a><a href="{{ '/courses/m2-curves-rounds/' | relative_url }}"><strong>🌀 ฝึกโค้งเพิ่ม</strong><br>M2 10 วิธีโค้งและมน</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 ข้ามไปลองเอง</strong><br>C9 Portfolio ชิ้นแรก</a></div>

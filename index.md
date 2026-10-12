@@ -74,6 +74,12 @@ permalink: /
 </div>
 
 <div class="course-card">
+<h3><a href="{{ '/courses/m2-curves-rounds/' | relative_url }}">M2 · 10 วิธีโค้งและมน ไม่ต้องลง plugin</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~60 นาที · 12 บทสั้น<br>
+🏠 <strong>รีโมท ยางลบ ขวดซอส ช้อน สบู่ หลอด…</strong> · Controlled Round, Round, Round Between Faces, Round to Holdline, Fit Fillet / Bevel, Revolve, Sweep, Pipe, Skin, Loft, Subdivision, Radial Bend / Twist / Taper
+</div>
+
+<div class="course-card">
 <h3><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}">C4 · RenderZone ระดับสตูดิโอ</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~88 นาที · 11 บท<br>
 🏠 <strong>เครื่องปิ้งขนมปัง</strong> · Subdivision / Soften, Insert, shader 4 ชั้น, Multilayer Paint, Map Texture, Decal, Area light, Environment, AO + Final Gather
@@ -129,7 +135,7 @@ permalink: /
 | **รวม (ไม่นับ C10)** | **Designer ≈ 74% · Engineering ≈ 26%** | ~810 |
 | ถ้ารวม C10 (~90) | Designer ≈ 76% · Engineering ≈ 24% | ~900 |
 
-**รวมทั้งหมด 102 บท** ใน 10 course ที่พร้อมเรียน (C1–C9 + M1) · C10 V-Ray เร็ว ๆ นี้
+**รวมทั้งหมด 117 บท** ใน 12 course ที่พร้อมเรียน (C0–C9 + M1–M2) · C10 V-Ray เร็ว ๆ นี้
 
 {: .note }
 เนื้อหาทั้งหมดอ้างอิง **เอกสาร official ของ formZ 10** (ดู [แหล่งอ้างอิง]({{ '/references/' | relative_url }})) ถ้าเมนูบนเครื่องของเราไม่ตรงกับในบทเรียน ให้ดูกล่อง 🔍 ซึ่งบอกจุดที่ต้องยืนยันกับหน้าจอจริง
