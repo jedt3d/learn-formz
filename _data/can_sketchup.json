@@ -1,0 +1,12 @@
+[
+{"id":1,"title":"ขอบมนที่แก้ค่าได้ทีหลังใน 5 วินาที","fz":"Controlled Round","su":"ไม่มีเครื่องมือมนขอบในตัว ต้องใช้ Follow Me หลายขั้นหรือลง extension (เช่น RoundCorner)","verdict":"formZ","ch":"/courses/c1-quick-win/05-details/","obj":"ปลอกปากกา"},
+{"id":2,"title":"ผนังพลาสติกหนา 2 mm ในคลิกเดียว","fz":"Thicken","su":"ผิวเรียบใช้ Offset + Push/Pull ได้ ส่วนผิวโค้งต้องใช้ extension","verdict":"formZ","ch":"/courses/c2-solid-form/09-thicken/","obj":"ฝาแม็กเย็บ"},
+{"id":3,"title":"ผ่าชิ้นงานเป็น 2 ชิ้นที่ยังเป็น solid","fz":"Split","su":"Solid Tools › Split มีเฉพาะ SketchUp Pro","verdict":"เสมอ (ถ้ามี SketchUp Pro)","ch":"/courses/c2-solid-form/07-split/","obj":"แม็กเย็บ"},
+{"id":4,"title":"ลายม้าลายบอกว่าผิวเนียนจริงไหม","fz":"Surface Analysis › Zebra","su":"ไม่มีเครื่องมือวิเคราะห์ผิวในตัว","verdict":"formZ","ch":"/courses/c3-curves-surfaces/07-zebra/","obj":"กาต้มน้ำ"},
+{"id":5,"title":"ปั้นแบบดินน้ำมันโดยไม่ต้องลง plugin","fz":"Subdivision / Create","su":"ต้องลง extension SubD","verdict":"formZ","ch":"/courses/c3-curves-surfaces/08-subd-intro/","obj":"สบู่ก้อน"},
+{"id":6,"title":"วิดีโอหมุนรอบสินค้าในคลิกเดียว","fz":"Create Turntable View","su":"ทำภาพเคลื่อนไหวจาก Scenes ได้ (กล้องเคลื่อน) แต่ไม่มี keyframe ของชิ้นงาน","verdict":"formZ (Pro)","ch":"/courses/c5-animation/02-turntable/","obj":"แม็กเย็บ"},
+{"id":7,"title":"แก้โมเดลแล้วบอร์ดเปลี่ยนตาม","fz":"Layout › Place Frame","su":"LayOut ก็ลิงก์กับโมเดลได้เหมือนกัน","verdict":"เสมอ","ch":"/courses/c6-layout-boards/06-frame/","obj":"กาต้มน้ำ + แก้ว"},
+{"id":8,"title":"ชั่งน้ำหนักชิ้นงานก่อนผลิต","fz":"Mass Properties / Measure Quantities","su":"Entity Info บอกปริมาตรของ solid ได้ แต่ถ้าจะคิดน้ำหนักจาก density ต้องใช้ extension","verdict":"formZ","ch":"/courses/c8-make-it/09-step/","obj":"ฝาขวด"},
+{"id":9,"title":"เกลียวฝาขวดที่ขันได้จริง","fz":"Helix","su":"ทำในตัวได้ยากมาก ต้องใช้ extension","verdict":"formZ","ch":"/courses/c8-make-it/03-thread/","obj":"ขวดน้ำ"},
+{"id":10,"title":"ตรวจก่อนพิมพ์ 3D ในตัว","fz":"Print Preparation + Object Doctor","su":"Entity Info บอกว่าเป็น solid หรือไม่ แต่การหาและซ่อมจุดเสียต้องใช้ extension (เช่น Solid Inspector)","verdict":"formZ","ch":"/courses/c8-make-it/06-print-prep/","obj":"ขวด + ฝา"}
+]

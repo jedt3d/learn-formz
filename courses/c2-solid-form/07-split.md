@@ -51,6 +51,8 @@ SketchUp ต้องใช้ **Solid Tools > Split** ซึ่งทำงา�
 {: .shapr }
 Shapr3D: **Split body** ด้วย plane หรือ body · formZ: **Split** (ใช้ body) หรือ **Slice** (ใช้เส้น)
 
+{% include can-sketchup.html id=3 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** Split ฐานออกเป็น 2 สีแล้วใส่วัสดุคนละสี
 </div>

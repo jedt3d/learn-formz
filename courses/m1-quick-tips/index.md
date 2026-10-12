@@ -21,9 +21,9 @@ outcome: "ชุดปุ่มลัดและ palette ของตัวเ�
 | # | ทริก | เวลา |
 |---|---|---|
 | 1 | [ปุ่มลัดแบบ SketchUp ในคลิกเดียว]({{ '/courses/m1-quick-tips/01-shortcuts/' | relative_url }}) | 6 |
-| 2 | [Quick Keys + Nudge: ขยับทีละ 0.5 mm]({{ '/courses/m1-quick-tips/02-nudge/' | relative_url }}) | 6 |
+| 2 | [ขยับทีละ 0.5 mm: Nudge]({{ '/courses/m1-quick-tips/02-nudge/' | relative_url }}) | 6 |
 | 3 | [Taps: แตะปุ่มเดียวเปลี่ยนโหมด]({{ '/courses/m1-quick-tips/03-taps/' | relative_url }}) | 6 |
 | 4 | [Guides: เส้นช่วยด้วย Shift+Space]({{ '/courses/m1-quick-tips/04-guides/' | relative_url }}) | 7 |
-| 5 | [Tool palette ของเราเอง]({{ '/courses/m1-quick-tips/05-tool-manager/' | relative_url }}) | 7 |
-| 6 | [Place On: วางของซ้ำบนผิวทีเดียว]({{ '/courses/m1-quick-tips/06-place-on/' | relative_url }}) | 7 |
-| 7 | [สรุป: ชุดทริกของเรา]({{ '/courses/m1-quick-tips/07-recap/' | relative_url }}) | 5 |
+| 5 | [palette 12 เครื่องมือของเราเอง]({{ '/courses/m1-quick-tips/05-tool-manager/' | relative_url }}) | 7 |
+| 6 | [วาง 36 ชิ้นในคลิกเดียว: Place On]({{ '/courses/m1-quick-tips/06-place-on/' | relative_url }}) | 7 |
+| 7 | [สรุป M1: 8 ทริกของเรา]({{ '/courses/m1-quick-tips/07-recap/' | relative_url }}) | 5 |

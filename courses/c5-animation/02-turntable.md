@@ -43,6 +43,8 @@ hook: "ใช้ Create Turntable View ให้กล้องหมุนร�
 {: .warning }
 ถ้า COI ไม่อยู่กลางสินค้า กล้องจะหมุน **เหวี่ยง** ออกนอกจอ ให้ตั้ง COI ใหม่ก่อน
 
+{% include can-sketchup.html id=6 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** ทำ turntable ให้หมุน 2 รอบใน 10 วินาที
 </div>

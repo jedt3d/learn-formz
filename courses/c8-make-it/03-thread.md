@@ -51,6 +51,8 @@ hook: "วาด โปรไฟล์ฟันเกลียว รูปส�
 {: .power }
 SketchUp ทำเกลียวที่ใช้งานได้จริงแทบไม่ได้ ส่วน formZ มีทั้ง **Helix**, **Wire Helix** และ **Screw/Bolt**
 
+{% include can-sketchup.html id=9 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** ทำเกลียว 4 รอบแทน 3 รอบ
 </div>

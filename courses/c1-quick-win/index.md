@@ -27,14 +27,14 @@ outcome: "ภาพ render ปากกาเมจิก 3 สีที่ป�
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
 | 1 | [เริ่มต้น 5 นาที: หน้าจอ + Assistant]({{ '/courses/c1-quick-win/01-start/' | relative_url }}) | 5 | 5 | รู้ว่าอะไรอยู่ตรงไหน หาเครื่องมือด้วยการพิมพ์ |
-| 2 | [ตั้งค่าแค่พอดี: mm, Snap, Template]({{ '/courses/c1-quick-win/02-setup/' | relative_url }}) | 5 | 6 | ไฟล์ `PD_mm_template.fmz` |
-| 3 | [มองรอบชิ้นงานและโหมดการแสดงผล]({{ '/courses/c1-quick-win/03-view/' | relative_url }}) | 4 | 3 | หมุน ซูม และสลับ Shaded/Wire ได้คล่อง |
-| 4 | [วัดปากกาจริง แล้วปั้นด้าม]({{ '/courses/c1-quick-win/04-body/' | relative_url }}) | 5 | 7 | ด้าม + คอ + หัว ขนาดตรงของจริง |
-| 5 | [ปลอกปากกา: ขอบมน + เจาะ + คลิป]({{ '/courses/c1-quick-win/05-details/' | relative_url }}) | 5 | 8 | ปลอกกลวงที่มีคลิป |
+| 2 | [ตั้งค่า 3 อย่างครั้งเดียวจบ: mm · Snap · Template]({{ '/courses/c1-quick-win/02-setup/' | relative_url }}) | 5 | 6 | ไฟล์ `PD_mm_template.fmz` |
+| 3 | [หมุนดูรอบทิศ + มุมกล้อง hero 3 แบบ]({{ '/courses/c1-quick-win/03-view/' | relative_url }}) | 4 | 3 | หมุน ซูม และสลับ Shaded/Wire ได้คล่อง |
+| 4 | [วัดปากกาจริง → ด้ามเสร็จใน 5 นาที]({{ '/courses/c1-quick-win/04-body/' | relative_url }}) | 5 | 7 | ด้าม + คอ + หัว ขนาดตรงของจริง |
+| 5 | [ปลอกปากกา 3 ขั้น: มน · เจาะ · คลิป]({{ '/courses/c1-quick-win/05-details/' | relative_url }}) | 5 | 8 | ปลอกกลวงที่มีคลิป |
 | 6 | [ใส่วัสดุ 3 แบบ]({{ '/courses/c1-quick-win/06-materials/' | relative_url }}) | 5 | 6 | ปากกาที่มีสีและผิวสัมผัส |
-| 7 | [แสงและฉากสตูดิโอ]({{ '/courses/c1-quick-win/07-light-scene/' | relative_url }}) | 5 | 7 | วางปากกานอน + พื้นรับเงา + มุมกล้อง "Hero" |
-| 8 | [RenderZone ครั้งแรก + ส่งการบ้าน]({{ '/courses/c1-quick-win/08-render/' | relative_url }}) | 5 | 8 | ภาพเรนเดอร์ 1 ภาพลง portfolio |
-| 9 | [สรุป: ภาพรวม C1]({{ '/courses/c1-quick-win/09-recap/' | relative_url }}) | 4 | 3 | ภาพรวม + โจทย์เสริม (Pebble Speaker) |
+| 7 | [ฉากสตูดิโอใน 5 นาที: พื้น + แสง]({{ '/courses/c1-quick-win/07-light-scene/' | relative_url }}) | 5 | 7 | วางปากกานอน + พื้นรับเงา + มุมกล้อง "Hero" |
+| 8 | [กด Render! ภาพแรกของเรา]({{ '/courses/c1-quick-win/08-render/' | relative_url }}) | 5 | 8 | ภาพเรนเดอร์ 1 ภาพลง portfolio |
+| 9 | [สรุป C1: จากปากกาจริงสู่ภาพ render]({{ '/courses/c1-quick-win/09-recap/' | relative_url }}) | 4 | 3 | ภาพรวม + โจทย์เสริม (Pebble Speaker) |
 
 **Workshop:** บทที่ 4–8 เป็น **build-along** ทำต่อเนื่องเป็นชิ้นเดียวกัน ใช้เวลาลงมือรวมประมาณ 35 นาที
 

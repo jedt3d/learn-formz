@@ -26,12 +26,12 @@ outcome: "วิดีโอสินค้า ~15 วินาที: หมุ
 
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
-| 1 | [Animation 101: เวลาและเฟรม]({{ '/courses/c5-animation/01-basics/' | relative_url }}) | 4 | 3 | ตั้งความยาว 10 วิ / 30 fps |
+| 1 | [24 เฟรม = 1 วินาที: Animation 101]({{ '/courses/c5-animation/01-basics/' | relative_url }}) | 4 | 3 | ตั้งความยาว 10 วิ / 30 fps |
 | 2 | [Turntable ในคลิกเดียว]({{ '/courses/c5-animation/02-turntable/' | relative_url }}) | 4 | 3 | กล้องหมุนรอบสินค้า |
-| 3 | [Edit Axes: ย้ายจุดหมุนไปที่ hinge]({{ '/courses/c5-animation/03-axes/' | relative_url }}) | 4 | 4 | ฝาหมุนรอบแกนจริง |
-| 4 | [Keyframe: เปิด-ปิดฝา]({{ '/courses/c5-animation/04-keyframe/' | relative_url }}) | 5 | 5 | ฝาเปิด 30° แล้วปิด |
-| 5 | [Animation Editor: ทำให้นุ่ม]({{ '/courses/c5-animation/05-editor/' | relative_url }}) | 4 | 5 | ease in / out |
-| 6 | [Exploded view: Animate Object Staging]({{ '/courses/c5-animation/06-staging/' | relative_url }}) | 4 | 4 | ชิ้นส่วนแยกแล้วประกอบกลับ |
-| 7 | [Orbit View + Orbit Light]({{ '/courses/c5-animation/07-orbit/' | relative_url }}) | 4 | 4 | กล้องและแสงเคลื่อนที่ |
-| 8 | [Generate Animation: ออกเป็นวิดีโอ]({{ '/courses/c5-animation/08-generate/' | relative_url }}) | 5 | 8 | ไฟล์วิดีโอ |
-| 9 | [สรุป: ภาพรวม C5]({{ '/courses/c5-animation/09-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |
+| 3 | [ย้ายจุดหมุนไปบานพับใน 1 นาที: Edit Axes]({{ '/courses/c5-animation/03-axes/' | relative_url }}) | 4 | 4 | ฝาหมุนรอบแกนจริง |
+| 4 | [เปิด-ปิดฝาด้วย 3 keyframe]({{ '/courses/c5-animation/04-keyframe/' | relative_url }}) | 5 | 5 | ฝาเปิด 30° แล้วปิด |
+| 5 | [ขยับนุ่มแบบของแพง: Animation Editor]({{ '/courses/c5-animation/05-editor/' | relative_url }}) | 4 | 5 | ease in / out |
+| 6 | [ชิ้นส่วนกระจายออกเอง: Object Staging]({{ '/courses/c5-animation/06-staging/' | relative_url }}) | 4 | 4 | ชิ้นส่วนแยกแล้วประกอบกลับ |
+| 7 | [กล้องบินรอบ + ไฟหมุนตาม]({{ '/courses/c5-animation/07-orbit/' | relative_url }}) | 4 | 4 | กล้องและแสงเคลื่อนที่ |
+| 8 | [กด Generate ได้ MP4 15 วินาที]({{ '/courses/c5-animation/08-generate/' | relative_url }}) | 5 | 8 | ไฟล์วิดีโอ |
+| 9 | [สรุป C5: วิดีโอสินค้าชิ้นแรก]({{ '/courses/c5-animation/09-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

@@ -1,0 +1,6 @@
+{%- assign c = site.data.can_sketchup | where: "id", include.id | first -%}
+<div class="can-su">
+<p class="q mb-1">🤔 SketchUp ทำได้ไหม? #{{ c.id }}: {{ c.title }}</p>
+<p class="mb-1">🟣 <strong>formZ:</strong> {{ c.fz }} · ⚪ <strong>SketchUp:</strong> {{ c.su }}</p>
+<p class="mb-0 text-small">ผล: <strong>{{ c.verdict }}</strong> · <a href="{{ '/can-sketchup/' | relative_url }}">ดูครบ 10 ข้อ</a></p>
+</div>

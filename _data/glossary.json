@@ -270,6 +270,11 @@
   "ch": "C7-1"
  },
  {
+  "term": "formZ Free / Core / Pro",
+  "th": "รุ่นของ formZ: Free (ฟรี, mesh), Core (+ smooth/NURBS/SubD), Pro (+ Animation, Layout)",
+  "ch": "editions"
+ },
+ {
   "term": "Frame / Place Frame",
   "th": "กรอบบน layout ที่แสดงโมเดล 3D ตาม view/scale และลิงก์กับไฟล์โมเดล",
   "ch": "C6-6"
@@ -705,6 +710,16 @@
   "ch": "C2-8"
  },
  {
+  "term": "Save A Copy As",
+  "th": "บันทึกสำเนาโดยไฟล์ที่เปิดอยู่ไม่เปลี่ยน",
+  "ch": "C1-2"
+ },
+ {
+  "term": "Save Incremental",
+  "th": "คำสั่ง File › Save Incremental บันทึกเป็นเวอร์ชันถัดไปอัตโนมัติ ใช้แทน history tree",
+  "ch": "C1-2"
+ },
+ {
   "term": "Scale (1:2)",
   "th": "มาตราส่วน: บนกระดาษ 1 หน่วย = ของจริง 2 หน่วย",
   "ch": "C6-8"
@@ -888,6 +903,11 @@
   "term": "Truncated Cone",
   "th": "กรวยปลายตัด ตั้งขนาดหน้าบนเป็น % ของฐานในช่อง Top Is",
   "ch": "C1-4"
+ },
+ {
+  "term": "Turntable",
+  "th": "วิดีโอหมุนรอบสินค้า 360°",
+  "ch": "C5-2"
  },
  {
   "term": "Underlay",

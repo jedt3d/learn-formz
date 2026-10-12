@@ -26,13 +26,13 @@ outcome: "บอร์ด A3 เป็น PDF พร้อมใส่ portfolio
 
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
-| 1 | [แก้วมัค: Revolve + Pipe]({{ '/courses/c6-layout-boards/01-mug/' | relative_url }}) | 4 | 5 | แก้วมัคคู่กับกาต้มน้ำ |
-| 2 | [Product family: CMF เดียวกัน]({{ '/courses/c6-layout-boards/02-family/' | relative_url }}) | 4 | 5 | ภาพเรนเดอร์ชุด 2 ภาพ |
-| 3 | [Board ที่ดีเป็นอย่างไร]({{ '/courses/c6-layout-boards/03-board-design/' | relative_url }}) | 5 | 3 | ร่าง thumbnail บนกระดาษ |
+| 1 | [แก้วมัคใน 5 นาที: Revolve + Pipe]({{ '/courses/c6-layout-boards/01-mug/' | relative_url }}) | 4 | 5 | แก้วมัคคู่กับกาต้มน้ำ |
+| 2 | [2 ชิ้น 1 ครอบครัว: CMF เดียวกัน]({{ '/courses/c6-layout-boards/02-family/' | relative_url }}) | 4 | 5 | ภาพเรนเดอร์ชุด 2 ภาพ |
+| 3 | [บอร์ดดีมี 3 ระดับ: hierarchy · grid · ช่องว่าง]({{ '/courses/c6-layout-boards/03-board-design/' | relative_url }}) | 5 | 3 | ร่าง thumbnail บนกระดาษ |
 | 4 | [New Layout Project: A3]({{ '/courses/c6-layout-boards/04-new-layout/' | relative_url }}) | 4 | 3 | แผ่น A3 พร้อมขอบ |
-| 5 | [Place Image: ภาพ hero]({{ '/courses/c6-layout-boards/05-images/' | relative_url }}) | 4 | 4 | ภาพใหญ่บน board |
-| 6 | [Place Frame: มุมมองที่ลิงก์กับโมเดล]({{ '/courses/c6-layout-boards/06-frame/' | relative_url }}) | 4 | 4 | ภาพด้านหน้าแบบเส้น |
+| 5 | [ภาพ hero ใหญ่ 50%: Place Image]({{ '/courses/c6-layout-boards/05-images/' | relative_url }}) | 4 | 4 | ภาพใหญ่บน board |
+| 6 | [แก้โมเดลแล้วบอร์ดเปลี่ยนตาม: Place Frame]({{ '/courses/c6-layout-boards/06-frame/' | relative_url }}) | 4 | 4 | ภาพด้านหน้าแบบเส้น |
 | 7 | [ตัวหนังสือ โลโก้ สี]({{ '/courses/c6-layout-boards/07-brand/' | relative_url }}) | 4 | 5 | hero board เสร็จ |
-| 8 | [Multi-Frame: views board]({{ '/courses/c6-layout-boards/08-multiframe/' | relative_url }}) | 4 | 4 | แผ่นที่ 2: 4 มุม |
+| 8 | [4 มุมมองในคลิกเดียว: Multi-Frame]({{ '/courses/c6-layout-boards/08-multiframe/' | relative_url }}) | 4 | 4 | แผ่นที่ 2: 4 มุม |
 | 9 | [ส่งออก PDF + อัปเดตโมเดล]({{ '/courses/c6-layout-boards/09-export/' | relative_url }}) | 4 | 5 | PDF 2 หน้า |
-| 10 | [สรุป: ภาพรวม C6]({{ '/courses/c6-layout-boards/10-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |
+| 10 | [สรุป C6: บอร์ดที่ขายไอเดียได้]({{ '/courses/c6-layout-boards/10-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

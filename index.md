@@ -12,7 +12,8 @@ permalink: /
 แบ่งเป็นบทสั้น ๆ ลงมือทำได้จริง และได้ผลงานไว้ใส่ portfolio ตั้งแต่ course แรก
 {: .fs-5 .fw-300 }
 
-[เริ่ม Course 1 เลย →]({{ '/courses/c1-quick-win/' | relative_url }}){: .btn .btn-primary .fs-5 .mr-2 }
+[▶ เริ่มตรงนี้! formZ ใน 10 นาที]({{ '/courses/c0-start-here/' | relative_url }}){: .btn .btn-primary .fs-5 .mr-2 }
+[🤔 SketchUp ทำได้ไหม?]({{ '/can-sketchup/' | relative_url }}){: .btn .fs-5 .mr-2 }
 [อภิธานศัพท์ (Glossary)]({{ '/glossary/' | relative_url }}){: .btn .fs-5 }
 
 {: .note }
@@ -47,6 +48,12 @@ permalink: /
 <span class="tag tag-eng">Engineering</span> ขนาด แบบ drawing และการเตรียมผลิต (CAD/CAM) สำหรับคนที่ยังไม่มีพื้นฐาน
 
 ## แคตตาล็อก
+
+<div class="course-card">
+<h3><a href="{{ '/courses/c0-start-here/' | relative_url }}">C0 · เริ่มตรงนี้! formZ ใน 10 นาที</a></h3>
+<span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~25 นาที · 3 บท<br>
+⚡ ปากกาเมจิก 0 → render ใน 10 นาที · Render สวยครั้งแรกใน 3 ขั้น · กล่องมุมมนใน 60 วินาที
+</div>
 
 <div class="course-card">
 <h3><a href="{{ '/courses/c1-quick-win/' | relative_url }}">C1 · Quick Win: ปั้น → ใส่วัสดุ → เรนเดอร์</a></h3>

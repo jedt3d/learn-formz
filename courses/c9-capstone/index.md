@@ -28,14 +28,14 @@ outcome: "portfolio ชิ้นแรก: hero render + บอร์ด + ไ�
 
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
-| 1 | [Design brief: เลือกของ 1 ชิ้น]({{ '/courses/c9-capstone/01-brief/' | relative_url }}) | 4 | 4 | brief 1 หน้า |
+| 1 | [brief 1 หน้าใน 5 หัวข้อ]({{ '/courses/c9-capstone/01-brief/' | relative_url }}) | 4 | 4 | brief 1 หน้า |
 | 2 | [วัด + ถ่ายรูป + Underlay]({{ '/courses/c9-capstone/02-reference/' | relative_url }}) | 3 | 5 | ภาพอ้างอิงที่ scale ถูก |
-| 3 | [เลือกเทคนิคให้ถูกงาน]({{ '/courses/c9-capstone/03-strategy/' | relative_url }}) | 4 | 3 | แผนโมเดล |
-| 4 | [Blockout: cage ด้วย Subdivision]({{ '/courses/c9-capstone/04-blockout/' | relative_url }}) | 4 | 6 | ก้อนเมาส์คร่าว ๆ |
-| 5 | [ปั้นฟอร์ม: Symmetry + Edit tools]({{ '/courses/c9-capstone/05-shape/' | relative_url }}) | 4 | 6 | ฟอร์มที่จับถนัดมือ |
-| 6 | [แยกชิ้น: ปุ่ม + Split]({{ '/courses/c9-capstone/06-split/' | relative_url }}) | 3 | 5 | ปุ่มซ้าย ขวา และฝา |
+| 3 | [4 แบบโมเดล เลือกให้ถูกงาน]({{ '/courses/c9-capstone/03-strategy/' | relative_url }}) | 4 | 3 | แผนโมเดล |
+| 4 | [ก้อนแรกใน 6 นาที: Blockout]({{ '/courses/c9-capstone/04-blockout/' | relative_url }}) | 4 | 6 | ก้อนเมาส์คร่าว ๆ |
+| 5 | [ปั้นให้จับถนัดมือ: Symmetry + Squeeze/Stretch]({{ '/courses/c9-capstone/05-shape/' | relative_url }}) | 4 | 6 | ฟอร์มที่จับถนัดมือ |
+| 6 | [4 ชิ้นพร้อมร่อง: Split]({{ '/courses/c9-capstone/06-split/' | relative_url }}) | 3 | 5 | ปุ่มซ้าย ขวา และฝา |
 | 7 | [รายละเอียด: ล้อ + ร่อง + โลโก้]({{ '/courses/c9-capstone/07-details/' | relative_url }}) | 3 | 5 | รายละเอียดครบ |
-| 8 | [ตรวจงาน: Zebra + Doctor + ขนาด]({{ '/courses/c9-capstone/08-check/' | relative_url }}) | 3 | 4 | check-list ผ่าน |
-| 9 | [CMF + Hero render]({{ '/courses/c9-capstone/09-render/' | relative_url }}) | 4 | 5 | ภาพ hero 2 สี |
-| 10 | [บอร์ด + แบบ + ไฟล์ส่ง]({{ '/courses/c9-capstone/10-deliver/' | relative_url }}) | 4 | 6 | PDF + STEP/STL |
+| 8 | [check-list 6 ข้อก่อนส่ง]({{ '/courses/c9-capstone/08-check/' | relative_url }}) | 3 | 4 | check-list ผ่าน |
+| 9 | [2 สี 1 ภาพ hero]({{ '/courses/c9-capstone/09-render/' | relative_url }}) | 4 | 5 | ภาพ hero 2 สี |
+| 10 | [ส่งงานครบชุด 4 ไฟล์]({{ '/courses/c9-capstone/10-deliver/' | relative_url }}) | 4 | 6 | PDF + STEP/STL |
 | 11 | [สรุป: portfolio ชิ้นแรก]({{ '/courses/c9-capstone/11-recap/' | relative_url }}) | 4 | 1 | ภาพรวมทั้งแคตตาล็อก |

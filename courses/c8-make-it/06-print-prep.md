@@ -52,6 +52,8 @@ Print Preparation **ตรวจและไฮไลต์** ปัญหาเ
 {: .power }
 SketchUp ต้องลง extension (เช่น Solid Inspector) ส่วน formZ มีเครื่องมือนี้ **ในตัว**
 
+{% include can-sketchup.html id=10 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** ทำผนังบาง 0.5 mm 1 จุด แล้วดูว่า Print Preparation จับได้ไหม
 </div>

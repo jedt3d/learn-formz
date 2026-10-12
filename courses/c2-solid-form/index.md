@@ -26,14 +26,14 @@ outcome: "แม็กเย็บ solid ครบชิ้น ฝาเปิ�
 
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
-| 1 | [วัดแม็กเย็บ + Underlay]({{ '/courses/c2-solid-form/01-measure/' | relative_url }}) | 4 | 4 | ภาพด้านข้างอยู่บนระนาบในโปรแกรม |
-| 2 | [Draw + 3D Extrusion: ฐาน]({{ '/courses/c2-solid-form/02-base/' | relative_url }}) | 4 | 4 | ฐาน 130 × 35 × 10 |
-| 3 | [เลือกให้เป็น: Pick + Reshape]({{ '/courses/c2-solid-form/03-pick-reshape/' | relative_url }}) | 5 | 3 | แก้ฐานด้วยการดึงหน้า |
-| 4 | [โปรไฟล์โค้ง: Vector Line + Arc]({{ '/courses/c2-solid-form/04-profile/' | relative_url }}) | 5 | 5 | ตัวบนจากโปรไฟล์ด้านข้าง |
-| 5 | [Insert: ร่องรองลวด]({{ '/courses/c2-solid-form/05-insert/' | relative_url }}) | 4 | 3 | ร่องบนฐานแบบ push/pull |
-| 6 | [วางให้ตรง: Move, Align / Distribute]({{ '/courses/c2-solid-form/06-align/' | relative_url }}) | 4 | 3 | ตัวบนอยู่กึ่งกลางฐาน |
-| 7 | [Boolean Split: แยกฝากับราง]({{ '/courses/c2-solid-form/07-split/' | relative_url }}) | 4 | 4 | 1 ชิ้นแยกเป็น 2 |
-| 8 | [ขอบมนหลายชุด + Round to Holdline]({{ '/courses/c2-solid-form/08-rounds/' | relative_url }}) | 4 | 5 | ขอบมนทุกชิ้น |
-| 9 | [Thicken: ฝาบนแบบพลาสติกฉีด]({{ '/courses/c2-solid-form/09-thicken/' | relative_url }}) | 4 | 4 | เปลือกหนา 1.5 mm |
-| 10 | [Symmetry + จัดระเบียบ + แกนหมุน]({{ '/courses/c2-solid-form/10-organize/' | relative_url }}) | 4 | 6 | Layers, Group, hinge pin + ภาพเรนเดอร์ |
-| 11 | [สรุป: ภาพรวม C2]({{ '/courses/c2-solid-form/11-recap/' | relative_url }}) | 4 | 3 | ภาพรวม + โจทย์เสริม |
+| 1 | [วัด 5 ค่า + วางรูปเป็นแบบ (Underlay)]({{ '/courses/c2-solid-form/01-measure/' | relative_url }}) | 4 | 4 | ภาพด้านข้างอยู่บนระนาบในโปรแกรม |
+| 2 | [ฐานแม็กใน 3 คลิก: Rectangle + 3D Extrusion]({{ '/courses/c2-solid-form/02-base/' | relative_url }}) | 4 | 4 | ฐาน 130 × 35 × 10 |
+| 3 | [ดึงหน้าเหมือน Push/Pull: Pick + Reshape]({{ '/courses/c2-solid-form/03-pick-reshape/' | relative_url }}) | 5 | 3 | แก้ฐานด้วยการดึงหน้า |
+| 4 | [ฝาโค้งจากเส้นเดียว: Vector Line + Arc]({{ '/courses/c2-solid-form/04-profile/' | relative_url }}) | 5 | 5 | ตัวบนจากโปรไฟล์ด้านข้าง |
+| 5 | [เจาะร่องลวดในคลิกเดียว: Insert]({{ '/courses/c2-solid-form/05-insert/' | relative_url }}) | 4 | 3 | ร่องบนฐานแบบ push/pull |
+| 6 | [วางตรงเป๊ะ 0.1 mm: Move + Align / Distribute]({{ '/courses/c2-solid-form/06-align/' | relative_url }}) | 4 | 3 | ตัวบนอยู่กึ่งกลางฐาน |
+| 7 | [ผ่าครึ่งได้ 2 ชิ้น: Split]({{ '/courses/c2-solid-form/07-split/' | relative_url }}) | 4 | 4 | 1 ชิ้นแยกเป็น 2 |
+| 8 | [ขอบมน 4 ชุดในครั้งเดียว + Round to Holdline]({{ '/courses/c2-solid-form/08-rounds/' | relative_url }}) | 4 | 5 | ขอบมนทุกชิ้น |
+| 9 | [ผนังพลาสติก 2 mm ในคลิกเดียว: Thicken]({{ '/courses/c2-solid-form/09-thicken/' | relative_url }}) | 4 | 4 | เปลือกหนา 1.5 mm |
+| 10 | [แก้ข้างเดียวได้ 2 ข้าง: Symmetry + จัดระเบียบ]({{ '/courses/c2-solid-form/10-organize/' | relative_url }}) | 4 | 6 | Layers, Group, hinge pin + ภาพเรนเดอร์ |
+| 11 | [สรุป C2: 10 ท่า Solid ในแม็กเย็บตัวเดียว]({{ '/courses/c2-solid-form/11-recap/' | relative_url }}) | 4 | 3 | ภาพรวม + โจทย์เสริม |

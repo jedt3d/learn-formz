@@ -48,6 +48,8 @@ STEP export จากไฟล์ smooth ส่ง NURBS แบบแม่น�
 {: .power }
 SketchUp export STEP ไม่ได้ (ต้องใช้ extension) ส่วน formZ export STEP **ในตัว** จึงคุยกับโปรแกรม engineering ได้
 
+{% include can-sketchup.html id=8 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** คำนวณว่าเส้น PLA 1 kg พิมพ์ขวดได้กี่ใบ
 </div>

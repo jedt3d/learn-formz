@@ -27,14 +27,14 @@ outcome: "ดินสอเหลาแล้ว + กาต้มน้ำผ�
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
 | 1 | [Facetted vs Smooth ใน 5 นาที]({{ '/courses/c3-curves-surfaces/01-facet-smooth/' | relative_url }}) | 4 | 3 | ลูกบอล 2 แบบ |
-| 2 | [ดินสอหกเหลี่ยม]({{ '/courses/c3-curves-surfaces/02-pencil/' | relative_url }}) | 4 | 3 | ตัวดินสอ |
-| 3 | [เหลาดินสอด้วย Intersection]({{ '/courses/c3-curves-surfaces/03-sharpen/' | relative_url }}) | 4 | 4 | ปลายเหลาแบบของจริง |
-| 4 | [เส้นโค้งที่ควบคุมได้: Spline + Curve Edit]({{ '/courses/c3-curves-surfaces/04-curves/' | relative_url }}) | 4 | 4 | โปรไฟล์ตัวกา |
+| 2 | [ดินสอหกเหลี่ยมใน 3 นาที]({{ '/courses/c3-curves-surfaces/02-pencil/' | relative_url }}) | 4 | 3 | ตัวดินสอ |
+| 3 | [เหลาดินสอใน 1 คลิก: Intersection]({{ '/courses/c3-curves-surfaces/03-sharpen/' | relative_url }}) | 4 | 4 | ปลายเหลาแบบของจริง |
+| 4 | [วาดโค้งสวยด้วย 5 จุด: Spline + Curve Edit]({{ '/courses/c3-curves-surfaces/04-curves/' | relative_url }}) | 4 | 4 | โปรไฟล์ตัวกา |
 | 5 | [Revolve: ตัวกาในคลิกเดียว]({{ '/courses/c3-curves-surfaces/05-revolve/' | relative_url }}) | 4 | 3 | ตัวกาผนังหนา 2 mm |
-| 6 | [พวยกา: NURBS by Lofting]({{ '/courses/c3-curves-surfaces/06-loft/' | relative_url }}) | 4 | 4 | พวยเรียว |
-| 7 | [Zebra: ตรวจความเนียนของผิว]({{ '/courses/c3-curves-surfaces/07-zebra/' | relative_url }}) | 4 | 3 | เห็นจุดที่ผิวหัก |
+| 6 | [พวยกาจาก 3 หน้าตัด: NURBS by Lofting]({{ '/courses/c3-curves-surfaces/06-loft/' | relative_url }}) | 4 | 4 | พวยเรียว |
+| 7 | [ลายม้าลายบอกความเนียน: Zebra]({{ '/courses/c3-curves-surfaces/07-zebra/' | relative_url }}) | 4 | 3 | เห็นจุดที่ผิวหัก |
 | 8 | [Subdivision 101: ก้อนดินน้ำมันดิจิทัล]({{ '/courses/c3-curves-surfaces/08-subd-intro/' | relative_url }}) | 4 | 3 | cage → ผิวนุ่ม |
-| 9 | [หูจับ: Grow Face + Offset Face]({{ '/courses/c3-curves-surfaces/09-handle/' | relative_url }}) | 4 | 5 | หูจับรูป C |
-| 10 | [ฝา + ปุ่ม: Subdivision / Soften + Convert]({{ '/courses/c3-curves-surfaces/10-lid/' | relative_url }}) | 4 | 4 | ฝาปิด + ปุ่ม |
-| 11 | [ประกอบ + วัสดุ + เรนเดอร์]({{ '/courses/c3-curves-surfaces/11-assemble/' | relative_url }}) | 4 | 5 | ภาพกาต้มน้ำ |
-| 12 | [สรุป: ภาพรวม C3]({{ '/courses/c3-curves-surfaces/12-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |
+| 9 | [หูกาใน 4 ขั้น: Grow Face + Offset Face]({{ '/courses/c3-curves-surfaces/09-handle/' | relative_url }}) | 4 | 5 | หูจับรูป C |
+| 10 | [ฝา + ปุ่ม แล้วแปลงเป็น NURBS: Soften + Convert]({{ '/courses/c3-curves-surfaces/10-lid/' | relative_url }}) | 4 | 4 | ฝาปิด + ปุ่ม |
+| 11 | [ประกอบร่าง + render กาต้มน้ำ]({{ '/courses/c3-curves-surfaces/11-assemble/' | relative_url }}) | 4 | 5 | ภาพกาต้มน้ำ |
+| 12 | [สรุป C3: 4 วิธีสร้างโค้งที่ได้ใช้]({{ '/courses/c3-curves-surfaces/12-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

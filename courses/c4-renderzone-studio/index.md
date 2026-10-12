@@ -27,13 +27,13 @@ outcome: "ภาพสินค้าแบบสตูดิโอ 3 มุม�
 | # | บท | อ่าน | ลงมือ | ได้อะไร |
 |---|---|---|---|---|
 | 1 | [ปั้นตัวเครื่องใน 10 นาที]({{ '/courses/c4-renderzone-studio/01-body/' | relative_url }}) | 4 | 5 | ตัวเครื่อง + ช่องขนมปัง |
-| 2 | [คันโยก ลูกบิด ขา]({{ '/courses/c4-renderzone-studio/02-parts/' | relative_url }}) | 3 | 4 | ชิ้นส่วนเล็กครบ |
-| 3 | [Material 4 ชั้นของ RenderZone]({{ '/courses/c4-renderzone-studio/03-shaders/' | relative_url }}) | 5 | 3 | เข้าใจ Color / Reflection / Transparency / Bump |
-| 4 | [โลหะ: โครเมียมกับสแตนเลส]({{ '/courses/c4-renderzone-studio/04-metal/' | relative_url }}) | 4 | 4 | ปุ่มและแผ่นข้างเป็นโลหะ |
-| 5 | [สีรถยนต์ + พลาสติก + ยาง]({{ '/courses/c4-renderzone-studio/05-paint/' | relative_url }}) | 4 | 4 | ตัวเครื่องสีเงาลึก |
-| 6 | [Texture: ขนมปังกับเขียงไม้]({{ '/courses/c4-renderzone-studio/06-texture/' | relative_url }}) | 4 | 4 | Map Texture + Edit Texture |
+| 2 | [3 ชิ้นเล็กใน 10 นาที: คันโยก · ลูกบิด · ขา]({{ '/courses/c4-renderzone-studio/02-parts/' | relative_url }}) | 3 | 4 | ชิ้นส่วนเล็กครบ |
+| 3 | [วัสดุมี 4 ชั้น: สี · เงา · ใส · นูน]({{ '/courses/c4-renderzone-studio/03-shaders/' | relative_url }}) | 5 | 3 | เข้าใจ Color / Reflection / Transparency / Bump |
+| 4 | [โลหะ 2 แบบ: โครเมียมเงา vs สแตนเลสขัดลาย]({{ '/courses/c4-renderzone-studio/04-metal/' | relative_url }}) | 4 | 4 | ปุ่มและแผ่นข้างเป็นโลหะ |
+| 5 | [3 ผิวที่ใช้บ่อยที่สุด: สีรถ · พลาสติก · ยาง]({{ '/courses/c4-renderzone-studio/05-paint/' | relative_url }}) | 4 | 4 | ตัวเครื่องสีเงาลึก |
+| 6 | [ภาพก่อน/หลัง: ขนมปังกับเขียงไม้ที่ดูจริง]({{ '/courses/c4-renderzone-studio/06-texture/' | relative_url }}) | 4 | 4 | Map Texture + Edit Texture |
 | 7 | [Decal: โลโก้แบรนด์ของเรา]({{ '/courses/c4-renderzone-studio/07-decal/' | relative_url }}) | 4 | 4 | โลโก้บนตัวเครื่อง |
-| 8 | [แสงสตูดิโอด้วย Area light]({{ '/courses/c4-renderzone-studio/08-area-light/' | relative_url }}) | 4 | 5 | key / fill / rim |
+| 8 | [ไฟสตูดิโอ 3 ดวง: Key · Fill · Rim]({{ '/courses/c4-renderzone-studio/08-area-light/' | relative_url }}) | 4 | 5 | key / fill / rim |
 | 9 | [Environment light + ฉากหลัง]({{ '/courses/c4-renderzone-studio/09-environment/' | relative_url }}) | 4 | 3 | เงาสะท้อนสวยบนโลหะ |
-| 10 | [GI + ภาพชุด 3 มุม]({{ '/courses/c4-renderzone-studio/10-gi-shots/' | relative_url }}) | 5 | 6 | ภาพ 3 มุมลง portfolio |
-| 11 | [สรุป: ภาพรวม C4]({{ '/courses/c4-renderzone-studio/11-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |
+| 10 | [เงานุ่มแบบสตูดิโอ + ภาพชุด 3 มุม]({{ '/courses/c4-renderzone-studio/10-gi-shots/' | relative_url }}) | 5 | 6 | ภาพ 3 มุมลง portfolio |
+| 11 | [สรุป C4: สูตรถ่ายสินค้าของเรา]({{ '/courses/c4-renderzone-studio/11-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

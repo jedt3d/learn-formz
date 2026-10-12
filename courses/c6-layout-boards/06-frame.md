@@ -43,6 +43,8 @@ hook: "วาง frame ที่แสดงโมเดล 3D แบบเส�
 {: .power }
 ใน SketchUp + LayOut ก็มี viewport ที่ลิงก์โมเดล แต่ต้องใช้ 2 โปรแกรม ส่วน formZ แปลงเป็น **เส้น vector แท้** (spline/arc) ซึ่งวัดขนาดต่อได้
 
+{% include can-sketchup.html id=7 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** แก้สีโมเดลแล้วกด regenerate ดูว่าบอร์ดเปลี่ยนตาม
 </div>

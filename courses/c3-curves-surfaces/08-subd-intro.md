@@ -46,6 +46,8 @@ SketchUp ไม่มี SubD ในตัว (ต้องลง extension เ�
 {: .shapr }
 Shapr3D (ตั้งแต่ 2023) มี **SubD** แบบ cage เหมือนกัน · ถ้าเคยใช้ Blender ก็คือ **Subdivision Surface modifier** นั่นเอง
 
+{% include can-sketchup.html id=5 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** ปั้นก้อนสบู่จาก Cube ด้วย Iterations 2 กับ 4 แล้วเทียบกัน
 </div>

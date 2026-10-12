@@ -40,6 +40,8 @@ SketchUp **ไม่มีเครื่องมือวิเคราะห
 {: .shapr }
 Shapr3D: Visualization > **Zebra** · formZ: Pick > Attributes > **Analysis > Zebra Stripes**
 
+{% include can-sketchup.html id=4 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** หาจุดที่ลาย Zebra หักบนกาของเรา แล้วแก้ให้ลายต่อกัน
 </div>

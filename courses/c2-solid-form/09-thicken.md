@@ -43,6 +43,8 @@ SketchUp ทำ shell ของ solid ไม่ได้ในตัว (ต้�
 {: .shapr }
 Shapr3D: **Shell** · formZ: **Thicken** (ใช้กับ solid) หรือ **Offset Surface** (ใช้กับผิว)
 
+{% include can-sketchup.html id=2 %}
+
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** ลองความหนา 1.2 mm กับ 3 mm แล้วดูว่าแบบไหนดูเป็นของถูกหรือของแพง
 </div>
