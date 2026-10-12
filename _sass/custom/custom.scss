@@ -37,3 +37,13 @@ details summary { cursor:pointer; font-weight:600; }
 .next-steps a { display:block; border:1px solid #e6e1e8; border-radius:8px; padding:.75rem; text-decoration:none; }
 .can-su { border:2px solid #7253ed; border-radius:8px; padding:.75rem 1rem; margin:1rem 0; }
 .can-su .q { font-weight:700; }
+
+.cheat table { font-size: .85rem; }
+@media print {
+  @page { size: A4 portrait; margin: 10mm; }
+  .side-bar, .main-header, .site-footer, .btn, .search, nav, footer, .verify { display: none !important; }
+  .main { max-width: none !important; margin: 0 !important; }
+  .main-content { padding: 0 !important; font-size: 9.5pt; }
+  .cheat h2 { margin-top: .6em; font-size: 12pt; }
+  .page-break { page-break-after: always; break-after: page; }
+}

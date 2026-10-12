@@ -76,7 +76,7 @@ template ของ formZ เก็บได้มากกว่าหน่ว�
 Shapr3D ตั้งหน่วยครั้งเดียวที่ Settings ของแอป แต่ formZ เก็บหน่วยไว้ **ในแต่ละไฟล์** (Project Settings) template จึงเป็นตัวที่ทำให้ไม่ต้องตั้งซ้ำ
 
 {: .note }
-**ติดนิสัยตั้งแต่วันแรก: Save Incremental** formZ 10 มีคำสั่ง **File › Save Incremental** ที่บันทึกไฟล์เป็นเวอร์ชันถัดไปให้อัตโนมัติ (เช่น `pen_01` → `pen_02`) และ **File › Save A Copy As** ที่เก็บสำเนาโดยไฟล์ที่เปิดอยู่ไม่เปลี่ยน formZ ไม่มี history tree แบบ Shapr3D ไฟล์เวอร์ชันจึงเป็น "จุดย้อนกลับ" ของเรา กด Save Incremental ทุกครั้งที่จบขั้นใหญ่
+**ติดนิสัยตั้งแต่วันแรก: Save Incremental** formZ 10 มีคำสั่ง **File › Save Incremental** ที่บันทึกไฟล์เป็นเวอร์ชันถัดไปให้อัตโนมัติ (เช่น `pen_01` → `pen_02`) และ **File › Save A Copy As** ที่เก็บสำเนาโดยไฟล์ที่เปิดอยู่ไม่เปลี่ยน formZ ไม่มี history tree แบบ Shapr3D ไฟล์เวอร์ชันจึงเป็น "จุดย้อนกลับ" ของเรา กด Save Incremental ทุกครั้งที่จบขั้นใหญ่ (ดูละเอียดใน [M3 ขั้น 4]({{ '/courses/m3-move-in/04-save-incremental/' | relative_url }}))
 
 {: .verify }
 รูปแบบชื่อไฟล์ที่ Save Incremental สร้างให้จริง (เช่น `_01`, `-2`) ต้องยืนยันใน 10.1.x

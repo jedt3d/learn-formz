@@ -355,6 +355,11 @@
   "ch": "C7-8"
  },
  {
+  "term": "Heal Corrupt Geometry",
+  "th": "ตัวเลือกตอน import ให้ซ่อม geometry ที่เสีย",
+  "ch": "M3-1"
+ },
+ {
   "term": "Helix",
   "th": "หมุนรูปรอบแกนพร้อมเลื่อนขึ้น ได้เกลียว/สปริง",
   "ch": "C8-3"
@@ -445,6 +450,11 @@
   "ch": "C5-4"
  },
  {
+  "term": "Keyword Assist",
+  "th": "พิมพ์ชื่อเพื่อค้นหาเครื่องมือ",
+  "ch": "Cheat"
+ },
+ {
   "term": "Layers palette",
   "th": "จัดกลุ่มวัตถุ เปิดปิด ล็อก ห้าม snap · layer ที่ active (จุดแดง) รับวัตถุใหม่",
   "ch": "C2-10"
@@ -508,6 +518,11 @@
   "term": "Materials palette",
   "th": "รายการ material ของโปรเจกต์ ลากไปวางบนวัตถุได้",
   "ch": "C1-6"
+ },
+ {
+  "term": "Measure Distance",
+  "th": "วัดระยะระหว่าง 2 จุด",
+  "ch": "M3-3"
  },
  {
   "term": "Measure Distance / Measure Between",
@@ -653,6 +668,11 @@
   "term": "Presentation board",
   "th": "แผ่นนำเสนองานออกแบบ (ภาพ hero ข้อความ สี วัสดุ)",
   "ch": "C6-3"
+ },
+ {
+  "term": "Preserve Assembly Hierarchy",
+  "th": "ตัวเลือกตอน import ให้คงโครงสร้างกลุ่มชิ้นส่วน",
+  "ch": "M3-1"
  },
  {
   "term": "Preset (วิธีสร้าง)",
@@ -830,6 +850,11 @@
   "ch": "C9-5"
  },
  {
+  "term": "STEP",
+  "th": "ไฟล์กลางสำหรับ solid (B-rep) ใช้ย้ายงานจาก Shapr3D/CAD",
+  "ch": "M3-1"
+ },
+ {
   "term": "STEP (AP214/AP203)",
   "th": "ไฟล์มาตรฐาน ISO 10303 เก็บ solid แม่นยำ ส่งต่อ CAD อื่น",
   "ch": "C8-9"
@@ -908,6 +933,11 @@
   "term": "Template Project",
   "th": "ไฟล์ต้นแบบที่ไฟล์ใหม่ทุกไฟล์จะคัดลอกค่าไปใช้",
   "ch": "C1-2"
+ },
+ {
+  "term": "Text",
+  "th": "เครื่องมือสร้างตัวอักษร",
+  "ch": "SP1"
  },
  {
   "term": "Thicken",

@@ -62,9 +62,21 @@ permalink: /
 </div>
 
 <div class="course-card">
+<h3><a href="{{ '/courses/m3-move-in/' | relative_url }}">M3 · ย้ายบ้านมา formZ ใน 4 ขั้น</a></h3>
+<span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~30 นาที · 5 บท<br>
+📦 งานเก่าจาก <strong>Shapr3D / SketchUp</strong> · STEP Import, SKP, Object Doctor, Convert Object Type, Measure Distance, Save Incremental
+</div>
+
+<div class="course-card">
 <h3><a href="{{ '/courses/c2-solid-form/' | relative_url }}">C2 · ฟอร์มสวยด้วย Solid</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 11 บท<br>
 🏠 <strong>แม็กเย็บกระดาษ</strong> · Extrude, Boolean (Union/Difference/Split), Round to Holdline, Symmetry, Thicken
+</div>
+
+<div class="course-card">
+<h3><a href="{{ '/projects/sp1-keychain/' | relative_url }}">⭐ SP1 · พวงกุญแจชื่อเรา → พิมพ์ 3D ใน 10 นาที</a></h3>
+<span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~10 นาที · 1 บท<br>
+🔑 <strong>พวงกุญแจ</strong> · Text, 3D Extrusion, Controlled Round, Union / Difference, Print Preparation, Export STL
 </div>
 
 <div class="course-card">
@@ -135,7 +147,7 @@ permalink: /
 | **รวม (ไม่นับ C10)** | **Designer ≈ 74% · Engineering ≈ 26%** | ~810 |
 | ถ้ารวม C10 (~90) | Designer ≈ 76% · Engineering ≈ 24% | ~900 |
 
-**รวมทั้งหมด 117 บท** ใน 12 course ที่พร้อมเรียน (C0–C9 + M1–M2) · C10 V-Ray เร็ว ๆ นี้
+**รวมทั้งหมด 123 บท** ใน 13 course ที่พร้อมเรียน (C0–C9 + M1–M3) + Special Project SP1 · [📄 Cheat sheet A4]({{ '/cheatsheet/' | relative_url }}) · C10 V-Ray เร็ว ๆ นี้
 
 {: .note }
 เนื้อหาทั้งหมดอ้างอิง **เอกสาร official ของ formZ 10** (ดู [แหล่งอ้างอิง]({{ '/references/' | relative_url }})) ถ้าเมนูบนเครื่องของเราไม่ตรงกับในบทเรียน ให้ดูกล่อง 🔍 ซึ่งบอกจุดที่ต้องยืนยันกับหน้าจอจริง
