@@ -37,11 +37,11 @@ permalink: /
 ทุก course ใช้ **ของใช้ที่มีอยู่ในบ้าน** (เครื่องเขียน ของใช้ในครัว) เป็นแบบ ให้วัดเป็น mm ถ่ายรูป แล้วปั้นตาม ดูวิธีได้ที่ [อ้างอิงจากของในบ้าน]({{ '/home-reference/' | relative_url }})
 ตลอดทั้งแคตตาล็อกจะได้ฝึกครบ: **Solid · Boolean · NURBS · Facetted vs Smooth · Subdivision · Surface creation (Revolve / Loft / Skin / Sweep / Pipe)**
 
-## สัดส่วนเนื้อหา: Designer ~71% · Engineering ~29% (เป้าหมาย 75/25)
+## สัดส่วนเนื้อหา: Designer 70% · Engineering 30%
 
-<div class="balance" role="img" aria-label="สัดส่วน designer 71 เปอร์เซ็นต์ engineering 29 เปอร์เซ็นต์">
-  <div style="width:71%;background:#7253ed">🎨 Designer ~71%</div>
-  <div style="width:29%;background:#2c84fa">📐 Engineering ~29%</div>
+<div class="balance" role="img" aria-label="สัดส่วน designer 70 เปอร์เซ็นต์ engineering 30 เปอร์เซ็นต์">
+  <div style="width:70%;background:#7253ed">🎨 Designer ~70%</div>
+  <div style="width:30%;background:#2c84fa">📐 Engineering ~30%</div>
 </div>
 
 <span class="tag tag-designer">Designer</span> ฟอร์ม ความสวยงาม วัสดุ ภาพนำเสนอ animation และ board
@@ -140,6 +140,12 @@ permalink: /
 </div>
 
 <div class="course-card">
+<h3><a href="{{ '/courses/m5-eng-basics/' | relative_url }}">M5 · วิศวกรตัวน้อย: 6 เช็กก่อนส่งผลิต</a></h3>
+<span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~32 นาที · 6 บท<br>
+✏️ <strong>กล่องดินสอมีฝา</strong> · เวอร์เนียร์, Tolerance & Fit, Thicken, Draft Angle, Intersection, Measure Between, Mass Properties, BOM, DFM checklist
+</div>
+
+<div class="course-card">
 <h3><a href="{{ '/courses/c9-capstone/' | relative_url }}">C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที</a></h3>
 <span class="tag tag-designer">Designer</span><span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ ~90 นาที · 11 บท<br>
 🏠 <strong>เลือกเองจากบ้าน</strong> (ตัวอย่างหลัก: เมาส์คอมพิวเตอร์) · brief → Underlay 2 ระนาบ → Subdivision blockout + Object Symmetry → Squeeze/Stretch → Split + parting line → check-list → CMF hero render → บอร์ด + แบบ + STEP/STL
@@ -160,12 +166,12 @@ permalink: /
 | Course | ประเภท | เวลา (นาที) |
 |---|---|---|
 | C0–C6 + C6 โบนัส + M1 + M2 + SP2, SP3, SP5, SP7 | Designer | ~757 |
-| C7, C8, M3, M4 + SP1, SP4, SP6 | Engineering | ~288 |
+| C7, C8, M3, M4, M5 + SP1, SP4, SP6 | Engineering | ~320 |
 | C9 | ผสม (60/40) | ~90 |
-| **รวม (ไม่นับ C10)** | **Designer ≈ 71% · Engineering ≈ 29%** | ~1,135 |
-| ถ้ารวม C10 (~90) | Designer ≈ 74% · Engineering ≈ 26% | ~1,225 |
+| **รวม (ไม่นับ C10)** | **Designer ≈ 70% · Engineering ≈ 30%** (811 / 356) | ~1,167 |
+| ถ้ารวม C10 (~90) | Designer ≈ 72% · Engineering ≈ 28% | ~1,257 |
 
-**รวมทั้งหมด 136 บท** ใน 14 course ที่พร้อมเรียน (C0–C9 + M1–M4) + Special Projects SP1–SP7 · [📄 Cheat sheet A4]({{ '/cheatsheet/' | relative_url }}) · C10 V-Ray เร็ว ๆ นี้
+**รวมทั้งหมด 142 บท** ใน 15 course ที่พร้อมเรียน (C0–C9 + M1–M5) + Special Projects SP1–SP7 · [📄 Cheat sheet A4]({{ '/cheatsheet/' | relative_url }}) · C10 V-Ray เร็ว ๆ นี้
 
 {: .note }
 เนื้อหาทั้งหมดอ้างอิง **เอกสาร official ของ formZ 10** (ดู [แหล่งอ้างอิง]({{ '/references/' | relative_url }})) ถ้าเมนูบนเครื่องของเราไม่ตรงกับในบทเรียน ให้ดูกล่อง 🔍 ซึ่งบอกจุดที่ต้องยืนยันกับหน้าจอจริง

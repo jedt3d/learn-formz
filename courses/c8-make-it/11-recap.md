@@ -52,4 +52,4 @@ Product designer ไม่ได้หยุดที่ภาพสวย **ข
 {% include homework.html id="c8-recap" title="C8 · Recap" what="ภาพรวม 4 ภาพ: เรนเดอร์, ผ่าครึ่ง, STL, ชิ้นพิมพ์/slicer" %}
 
 ## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
-<div class="next-steps"><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C9 Portfolio ชิ้นแรก</a><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}"><strong>📐 ส่งแบบคู่ไฟล์</strong><br>C7</a><a href="{{ '/courses/m1-quick-tips/' | relative_url }}"><strong>⚡ ทำงานไวขึ้น</strong><br>M1</a></div>
+<div class="next-steps"><a href="{{ '/courses/m5-eng-basics/' | relative_url }}"><strong>✏️ เช็กก่อนผลิต</strong><br>M5 DFM 6 ข้อ</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C9 Portfolio ชิ้นแรก</a><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}"><strong>📐 ส่งแบบคู่ไฟล์</strong><br>C7</a><a href="{{ '/courses/m1-quick-tips/' | relative_url }}"><strong>⚡ ทำงานไวขึ้น</strong><br>M1</a></div>

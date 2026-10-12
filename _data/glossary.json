@@ -85,6 +85,11 @@
   "ch": "C9-4"
  },
  {
+  "term": "BOM (Bill of Materials)",
+  "th": "ตารางรายการชิ้นส่วน จำนวน วัสดุ และวิธีผลิต",
+  "ch": "M5-5"
+ },
+ {
   "term": "Boolean",
   "th": "การรวม (Union) ลบ (Difference) หรือหาส่วนตัด (Intersection) ของ solid",
   "ch": "C1-5"
@@ -93,6 +98,11 @@
   "term": "Cage",
   "th": "กรงเหลี่ยมที่ควบคุมผิว subdivision",
   "ch": "C3-8"
+ },
+ {
+  "term": "Calipers (เวอร์เนียร์)",
+  "th": "เครื่องมือวัดละเอียด 0.01–0.1 mm วัดนอก ใน ลึก และขั้น",
+  "ch": "M5-1"
  },
  {
   "term": "Catcher (shader)",
@@ -113,6 +123,11 @@
   "term": "Clearance",
   "th": "ระยะเผื่อให้ชิ้นส่วนสวมกันได้ เช่น 0.2 mm ต่อด้าน",
   "ch": "C1-5"
+ },
+ {
+  "term": "Clearance fit",
+  "th": "สวมหลวม เลื่อนหรือหมุนได้",
+  "ch": "M5-2"
  },
  {
   "term": "Clipping Plane",
@@ -215,6 +230,11 @@
   "ch": "C8-1"
  },
  {
+  "term": "DFM",
+  "th": "Design for Manufacturing ออกแบบให้ผลิตได้ง่ายและถูก",
+  "ch": "M5-6"
+ },
+ {
   "term": "Difference",
   "th": "Boolean ที่ลบชิ้นที่สองออกจากชิ้นแรก",
   "ch": "C1-5"
@@ -238,6 +258,11 @@
   "term": "Distant light",
   "th": "แสงทิศทางเดียวแบบดวงอาทิตย์",
   "ch": "C1-7"
+ },
+ {
+  "term": "Draft Angle",
+  "th": "เครื่องมือเอียงหน้าเล็กน้อย (Inclination Angle) ให้ถอดแม่พิมพ์ได้ และเป็นโหมดหนึ่งของ Surface analysis",
+  "ch": "M5-3"
  },
  {
   "term": "Draw suite / Create suite",
@@ -308,6 +333,11 @@
   "term": "First-angle / Third-angle projection",
   "th": "ระบบวางภาพฉาย (ISO/ไทยนิยม first-angle: Top อยู่ใต้ Front)",
   "ch": "C7-1"
+ },
+ {
+  "term": "Fit",
+  "th": "ลักษณะการสวมกันของ 2 ชิ้น: press / snug / clearance",
+  "ch": "M5-2"
  },
  {
   "term": "Fit Fillet / Bevel",
@@ -570,6 +600,11 @@
   "ch": "C1-6"
  },
  {
+  "term": "Measure Between",
+  "th": "วัดระยะระหว่างจุด เส้น หรือหน้าที่ขนานกัน",
+  "ch": "M5-4"
+ },
+ {
   "term": "Measure Distance",
   "th": "วัดระยะระหว่าง 2 จุด",
   "ch": "M3-3"
@@ -743,6 +778,11 @@
   "term": "Preset (วิธีสร้าง)",
   "th": "สร้างวัตถุด้วยคลิกเดียวตามตัวเลขใน Tool Options",
   "ch": "C1-4"
+ },
+ {
+  "term": "Press fit",
+  "th": "สวมแน่น ต้องกดถึงเข้า",
+  "ch": "M5-2"
  },
  {
   "term": "Primitive",
@@ -1093,6 +1133,11 @@
   "term": "Waffle",
   "th": "สร้างโครงซี่ไขว้ (U/V) จาก surface สำหรับตัดหรือพิมพ์",
   "ch": "M4-2"
+ },
+ {
+  "term": "Wall thickness",
+  "th": "ความหนาผนังชิ้นงาน ควรเท่ากันทั้งชิ้น",
+  "ch": "M5-3"
  },
  {
   "term": "Watertight",
