@@ -21,6 +21,7 @@ permalink: /cheatsheet/
 - **Quick Keys** palette (เมนู **Palettes**) = รวมปุ่มลัด "ซ่อน" 3 แท็บ: Navigation · Nudge · Drawing (Nudge ไม่มีปุ่ม default ต้องตั้งเอง)
 
 ## 2. ปุ่มที่ต้องจำ
+
 | ทำอะไร | Win | Mac |
 |---|---|---|
 | Undo / Redo (Edit menu · undo ไม่จำกัด แต่ **ถูกล้างทุกครั้งที่ Save** ตามค่าเริ่มต้น) | Ctrl+Z / Ctrl+Shift+Z 🔍 | Cmd+Z / Cmd+Shift+Z 🔍 |
@@ -32,6 +33,7 @@ permalink: /cheatsheet/
 | หมุน / เลื่อน / ซูมมุมมอง | เมาส์กลาง / Shift+เมาส์กลาง / ล้อ 🔍 | เหมือนกัน หรือ trackpad 🔍 |
 
 ## 3. 30 เครื่องมือที่ใช้ 90% ของเวลา
+
 | กลุ่ม | เครื่องมือ |
 |---|---|
 | ✏️ วาด 2D (6) | Line · Rectangle · Circle · Polygon · Spline · Text |
@@ -45,6 +47,7 @@ permalink: /cheatsheet/
 <div class="page-break"></div>
 
 ## 4. SketchUp / Shapr3D → formZ เร็ว ๆ
+
 | เคยใช้ | ใน formZ |
 |---|---|
 | Push/Pull · Extrude | 3D Extrusion |
@@ -54,6 +57,7 @@ permalink: /cheatsheet/
 | Loft (Shapr3D) | NURBS by Lofting |
 | Group / Component | Group / Components |
 | History (Shapr3D) | ❌ ไม่มี history tree → ใช้ **Save Incremental** |
+
 ดูครบที่ [Tool map]({{ '/tool-map/' | relative_url }})
 
 ## 5. ทำไม่ได้? เช็ก 5 ข้อก่อน

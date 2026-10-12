@@ -15,6 +15,7 @@ permalink: /projects/
 | SP2 | [Render Diagnosis #1: แก้ 3 จุด ภาพสวยขึ้นทันที]({{ '/projects/sp2-render-diagnosis/' | relative_url }}) | C4 | 15 |
 
 ## 🗓️ งานสุดสัปดาห์: ของชิ้นเล็กใน 20 นาที
+
 | # | โปรเจกต์ | ต้องเรียนก่อน | นาที |
 |---|---|---|---|
 | SP3 | [ที่ใส่ปากกาเกลียวบิด]({{ '/projects/sp3-pen-holder/' | relative_url }}) | C2 | 20 |

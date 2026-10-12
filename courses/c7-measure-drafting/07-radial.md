@@ -20,6 +20,7 @@ hook: "ใส่ Radial/Diameter Dimension (สลับ R ↔ Ø ได้) แ
 - ทดสอบ **Associativity**: แก้โมเดลแล้วขนาดตามเอง
 
 ## 💡 ไอเดียสั้น ๆ
+
 | เครื่องมือ | วิธี |
 |---|---|
 | **Radial/Diameter Dimension** | คลิกส่วนโค้ง/วงกลม 1 ครั้ง แล้วคลิกวาง · เลือก **Diameter** ใน Tool Options จะแสดง "Ø" |

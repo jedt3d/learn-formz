@@ -19,6 +19,7 @@ permalink: /courses/m4-waffle/02-waffle/
 - ตั้ง **Object Type = Surfaces** + **Notch** ให้ Width = ความหนาวัสดุ
 
 ## 💡 ไอเดียสั้น ๆ
+
 | ค่า | ตั้ง | เพราะ |
 |---|---|---|
 | Number in U / V | 6 / 3 | ซี่ตามยาว 6 ชิ้น ตามขวาง 3 ชิ้น พอแข็งแรง |

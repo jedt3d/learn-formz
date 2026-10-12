@@ -19,6 +19,7 @@ permalink: /courses/c0-start-here/01-ten-minutes/
 - กด **RenderZone** แล้วได้ภาพแรก 🎉
 
 ## ⏱ 10 นาที 6 ขั้น
+
 | นาที | ทำ |
 |---|---|
 | 0–1 | เปิด `C0_start.fmz` (หน่วย mm, พื้น, ไฟ, กล้อง hero ตั้งไว้แล้ว) |

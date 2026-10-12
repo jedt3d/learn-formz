@@ -12,6 +12,7 @@ permalink: /editions/
 <span class="ed ed-free">🟢 Free ก็ทำได้</span> <span class="ed ed-core">🔶 Core / Pro</span> <span class="ed ed-pro">🔷 ต้องใช้ Pro</span> และ **+ RenderZone** = ต้องมี plugin RenderZone (ขายแยก)
 
 ## รุ่นต่างกันอย่างไร (สรุปจากหน้า official)
+
 | ความสามารถ | Free | Core | Pro |
 |---|:-:|:-:|:-:|
 | Mesh modeling, Reshape, Boolean, Clipping planes, Section, Dimension พื้นฐาน, 3D print export | ✅ | ✅ | ✅ |
@@ -30,6 +31,7 @@ permalink: /editions/
 ตารางนี้สรุปจากหน้า marketing ของ AutoDesSys ซึ่ง**ไม่ได้ระบุรายเครื่องมือ** เช่น Print Preparation, Object Doctor, Simplify Mesh (manual ระบุว่าเป็น Pro), Tool Manager ป้ายในแต่ละบทจึงเป็น**การประเมิน** ถ้าเปิดบนเครื่องจริงแล้วไม่ตรง ให้แจ้งใน GitHub Issues
 
 ## ป้ายของแต่ละ course
+
 | Course | ป้ายส่วนใหญ่ | ข้อยกเว้น |
 |---|---|---|
 | C1 ปากกาเมจิก | 🔶 Core / Pro + RenderZone (บท 6–8) | – |

@@ -17,6 +17,7 @@ permalink: /courses/m2-curves-rounds/01-map/
 - รู้ความต่างระหว่าง **มนขอบ** (rounding) กับ **สร้างผิวโค้ง** (surface)
 
 ## 💡 ไอเดียสั้น ๆ
+
 | ถาม | ถ้าใช่ → | วิธี |
 |---|---|---|
 | มีกล่อง/ชิ้น solid อยู่แล้ว แค่อยากให้ขอบมน? | มนขอบ | 1 Controlled Round · 2 Round · 3 Round Between Faces · 4 Round to Holdline |

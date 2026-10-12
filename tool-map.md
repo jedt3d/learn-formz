@@ -16,6 +16,7 @@ permalink: /tool-map/
 </details>
 
 ## 1. SketchUp → formZ
+
 | SketchUp | formZ 10 | เรียนที่ | หมายเหตุ |
 |---|---|---|---|
 | Select (Space) | **Pick** + topological level (object/face/segment/point) | [C2-3]({{ '/courses/c2-solid-form/03-pick-reshape/' | relative_url }}) | เลือกระดับก่อนแล้วค่อยคลิก |
@@ -54,6 +55,7 @@ permalink: /tool-map/
 | Scenes animation | **Animation** (Turntable, Keyframe, Staging) | [C5]({{ '/courses/c5-animation/' | relative_url }}) | 🚀 Pro |
 
 ## 2. Shapr3D → formZ
+
 | Shapr3D | formZ 10 | เรียนที่ | หมายเหตุ |
 |---|---|---|---|
 | Sketch บนระนาบ | **Reference plane** (XY / YZ / ZX) + เครื่องมือ 2D | [C1-2]({{ '/courses/c1-quick-win/02-setup/' | relative_url }}) | |
