@@ -1,0 +1,7 @@
+<div class="course-head">
+  <span class="stat">📚 {{ page.n_chapters }} บท</span>
+  <span class="stat">⏱ ~{{ page.minutes }} นาที</span>
+  <span>🎁 <strong>ได้อะไร:</strong> {{ page.outcome }}</span>
+  {%- assign first = site.pages | where: "parent", page.title | sort: "nav_order" | first -%}
+  {%- if first %}<a class="btn-start" href="{{ first.url | relative_url }}">▶ เริ่มบทที่ 1</a>{% endif %}
+</div>

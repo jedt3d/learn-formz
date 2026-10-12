@@ -1,11 +1,12 @@
 ---
 title: "1. ปั้นตัวเครื่องใน 10 นาที"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 1
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c4-renderzone-studio/01-body/
+hook: "ปั้นตัวเครื่องปิ้งขนมปังด้วยเครื่องมือที่รู้จักแล้ว (ทวน C1–C3) และทำ ช่องขนมปัง 2 ช่อง ด้วย Insert + Cut"
 ---
 
 # 1. ปั้นตัวเครื่องใน 10 นาที
@@ -40,5 +41,9 @@ permalink: /courses/c4-renderzone-studio/01-body/
 
 {: .easy }
 ทั้งหมดนี้คือเครื่องมือ 3 ตัวที่เรารู้จักแล้ว ใช้เวลาไม่ถึง 10 นาที
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำเครื่องปิ้งแบบ 4 ช่องโดยแก้แค่ขนาดและ Insert เพิ่ม
+</div>
 
 📚 อ้างอิง: R1 Cube, Controlled Round, Drawing Objects (Insert)

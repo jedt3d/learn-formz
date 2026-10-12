@@ -1,14 +1,15 @@
 ---
-title: "6. พวยกา: NURBS by Lofting"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "6. พวยกาจาก 3 หน้าตัด: NURBS by Lofting"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 6
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c3-curves-surfaces/06-loft/
+hook: "สร้างผิวที่ผ่านหน้าตัดหลายอันด้วย NURBS by Lofting และรู้ความต่างของ Loose Lofting กับ Tight Lofting"
 ---
 
-# 6. พวยกา: NURBS by Lofting
+# 6. พวยกาจาก 3 หน้าตัด: NURBS by Lofting
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -55,6 +56,10 @@ SketchUp **ไม่มี loft** ในตัวเลย ส่วน formZ �
 
 {: .shapr }
 Shapr3D: **Loft** ผ่าน profiles · formZ: **NURBS by Lofting** (ผิว NURBS) หรือ **Loft tools** (ทำ solid ได้)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เพิ่มหน้าตัดตรงกลางพวยกา 1 อันให้พวยโค้งขึ้น
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. อยากให้ผิวผ่านทุกหน้าตัด เลือกแบบไหน?</summary>By Tight Lofting</details>

@@ -1,14 +1,15 @@
 ---
-title: "11. สรุป: ภาพรวม C2"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "11. สรุป C2: 10 ท่า Solid ในแม็กเย็บตัวเดียว"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 11
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c2-solid-form/11-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 11. สรุป: ภาพรวม C2 🎉
+# 11. สรุป C2: 10 ท่า Solid ในแม็กเย็บตัวเดียว
 {% include meta.html %}
 
 ## 🖼 แกลเลอรี
@@ -46,3 +47,6 @@ permalink: /courses/c2-solid-form/11-recap/
 
 ## 👉 ต่อไป
 **[C3 · ผิวโค้งแบบมือโปร]({{ '/courses/c3-curves-surfaces/' | relative_url }})** จะเลิกใช้แค่กล่องกับกระบอก ไปทำ **ดินสอ** (Facetted vs Smooth) และ **กาต้มน้ำไฟฟ้า** ด้วย Revolve, NURBS, Loft และ Subdivision
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/c3-curves-surfaces/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C3 โค้งแบบมือโปร</a><a href="{{ '/courses/c5-animation/' | relative_url }}"><strong>🎬 ทำให้ขยับ</strong><br>C5 แม็กเย็บเปิด-ปิดได้</a><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}"><strong>📐 สาย engineering</strong><br>C7 เขียนแบบ 3 ด้าน</a></div>

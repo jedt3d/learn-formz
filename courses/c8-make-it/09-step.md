@@ -1,15 +1,16 @@
 ---
-title: "9. STEP + Mass Properties"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "9. ส่งไฟล์ให้ CAD อื่น + ชั่งน้ำหนัก"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/09-step/
+hook: "รู้ว่า STEP ต่างจาก STL อย่างไร และควรใช้เมื่อไร และExport STEP แบบ AP214 (ค่าเริ่มต้น) หรือ AP203"
 ---
 
-# 9. STEP + Mass Properties
+# 9. ส่งไฟล์ให้ CAD อื่น + ชั่งน้ำหนัก
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,6 +47,10 @@ STEP export จากไฟล์ smooth ส่ง NURBS แบบแม่น�
 
 {: .power }
 SketchUp export STEP ไม่ได้ (ต้องใช้ extension) ส่วน formZ export STEP **ในตัว** จึงคุยกับโปรแกรม engineering ได้
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** คำนวณว่าเส้น PLA 1 kg พิมพ์ขวดได้กี่ใบ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ส่งไฟล์ให้โรงงานทำแม่พิมพ์ควรใช้อะไร?</summary>STEP</details>

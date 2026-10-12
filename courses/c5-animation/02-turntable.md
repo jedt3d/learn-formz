@@ -1,11 +1,12 @@
 ---
 title: "2. Turntable ในคลิกเดียว"
-parent: "C5 · Animation จากโมเดล"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 2
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c5-animation/02-turntable/
+hook: "ใช้ Create Turntable View ให้กล้องหมุนรอบสินค้า 360° และเข้าใจ center of interest (COI) ของกล้อง"
 ---
 
 # 2. Turntable ในคลิกเดียว
@@ -41,6 +42,10 @@ permalink: /courses/c5-animation/02-turntable/
 
 {: .warning }
 ถ้า COI ไม่อยู่กลางสินค้า กล้องจะหมุน **เหวี่ยง** ออกนอกจอ ให้ตั้ง COI ใหม่ก่อน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำ turntable ให้หมุน 2 รอบใน 10 วินาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Turntable หมุนรอบจุดไหน?</summary>center of interest (COI) ของกล้อง</details>

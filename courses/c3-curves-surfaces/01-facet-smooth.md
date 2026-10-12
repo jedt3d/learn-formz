@@ -1,11 +1,12 @@
 ---
 title: "1. Facetted vs Smooth ใน 5 นาที"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 1
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c3-curves-surfaces/01-facet-smooth/
+hook: "อธิบายได้ว่า facetted object กับ smooth object ต่างกันอย่างไร และปรับ Display Resolution ของวัตถุ smooth"
 ---
 
 # 1. Facetted vs Smooth ใน 5 นาที
@@ -42,6 +43,10 @@ SketchUp มีแต่วัตถุแบบ **facetted** (ผิวเห�
 
 {: .shapr }
 Shapr3D (Parasolid) เป็นผิวโค้งจริงทั้งหมด จึงเทียบได้กับ **Smooth** ของ formZ · ส่วน Blender mesh คือ **Facetted**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยน Display Resolution ของทรงกลมแล้วจับภาพ 3 ระดับ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมวัตถุ smooth ยังเห็นเป็นเหลี่ยมบนจอ?</summary>เพราะจอแสดงผลด้วย faceting ตาม Display Resolution ส่วนผิวจริงยังโค้งเนียน</details>

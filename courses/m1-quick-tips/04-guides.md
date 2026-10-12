@@ -1,11 +1,13 @@
 ---
 title: "4. Guides: เส้นช่วยด้วย Shift+Space"
-parent: "M1 · Mini: formZ Quick Tips"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 4
 chapter: true
 read_time: 3
 do_time: 4
 permalink: /courses/m1-quick-tips/04-guides/
+edition: free
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
 # 4. Guides: เส้นช่วยด้วย Shift+Space
@@ -34,5 +36,9 @@ permalink: /courses/m1-quick-tips/04-guides/
 
 {: .easy }
 เหมือน **inference** ของ SketchUp แต่เราควบคุมเองได้ว่าจะให้เส้นช่วยขึ้นเมื่อไร
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วาดวงกลมให้ตรงกลางหน้าพอดีโดยใช้แค่ guides
+</div>
 
 📚 อ้างอิง: R1 Snapping, Draw Guide

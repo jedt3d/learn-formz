@@ -1,14 +1,15 @@
 ---
-title: "5. Insert: ร่องรองลวด"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "5. เจาะร่องลวดในคลิกเดียว: Insert"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c2-solid-form/05-insert/
+hook: "ใช้ตัวเลือก Insert วาดลงบนหน้าของ solid แล้ว 'ขุด' หรือ 'เติม' เนื้อวัสดุได้ทันที และรู้จักโหมด Cut and Fill / Cut / Fill"
 ---
 
-# 5. Insert: ร่องรองลวด
+# 5. เจาะร่องลวดในคลิกเดียว: Insert
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -44,6 +45,10 @@ permalink: /courses/c2-solid-form/05-insert/
 
 {: .shapr }
 Shapr3D: วาดบนหน้าแล้ว push ลง = ตัด · formZ: **Insert + Cut**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** Insert ร่องที่ 2 สำหรับนิ้วกดบนฝา
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ถ้าลืมเปิด Insert จะเกิดอะไรขึ้น?</summary>จะได้กล่องชิ้นใหม่วางทับหน้า ไม่ได้ขุดลงไปในฐาน</details>

@@ -1,14 +1,15 @@
 ---
-title: "9. สรุป: ภาพรวม C5"
-parent: "C5 · Animation จากโมเดล"
+title: "9. สรุป C5: วิดีโอสินค้าชิ้นแรก"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 1
 permalink: /courses/c5-animation/09-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 9. สรุป: ภาพรวม C5 🎉
+# 9. สรุป C5: วิดีโอสินค้าชิ้นแรก
 {% include meta.html %}
 
 ## 🖼 แกลเลอรี
@@ -41,3 +42,6 @@ permalink: /courses/c5-animation/09-recap/
 
 ## 👉 ต่อไป
 **[C6 · Brand & Presentation Boards]({{ '/courses/c6-layout-boards/' | relative_url }})** เอาภาพจาก C3–C5 มาจัด **board A3** แบบมืออาชีพใน formZ Layout
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/c6-layout-boards/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C6 บอร์ด A3</a><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}"><strong>✨ ภาพสวยขึ้น</strong><br>C4 แสงสตูดิโอ</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 ใส่ turntable ใน portfolio</strong><br>C9</a></div>

@@ -1,11 +1,12 @@
 ---
 title: "7. ตัวหนังสือ โลโก้ สี"
-parent: "C6 · Brand & Presentation Boards"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 7
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c6-layout-boards/07-brand/
+hook: "ใส่ชื่อสินค้าและคำโปรยด้วย Place Text (เลือกฟอนต์และขนาดใน Text Editor) และวางโลโก้แบรนด์ (PNG จาก C4) ด้วย Place Image"
 ---
 
 # 7. ตัวหนังสือ โลโก้ สี
@@ -43,6 +44,10 @@ permalink: /courses/c6-layout-boards/07-brand/
 
 {: .warning }
 ห้ามใส่ข้อมูลส่วนตัว (ที่อยู่ เบอร์โทร รูปหน้า) บน board ที่จะเผยแพร่ ใช้แค่ชื่อเล่นหรือชื่อแบรนด์สมมติ
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำโลโก้ 2 แบบแล้วเลือกแบบที่อ่านง่ายจากระยะ 2 เมตร
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ตัวหนังสือบน board ใช้กี่ระดับขนาด?</summary>3 ระดับ (ชื่อ / คำโปรย / ข้อมูล)</details>

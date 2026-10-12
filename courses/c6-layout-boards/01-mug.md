@@ -1,14 +1,16 @@
 ---
-title: "1. แก้วมัค: Revolve + Pipe"
-parent: "C6 · Brand & Presentation Boards"
+title: "1. แก้วมัคใน 5 นาที: Revolve + Pipe"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 1
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c6-layout-boards/01-mug/
+edition: core
+hook: "ทวน Revolve + Thicken (จาก C3) ทำตัวแก้ว และทำหูจับด้วย Pipe จากเส้นโค้งรูปตัว C"
 ---
 
-# 1. แก้วมัค: Revolve + Pipe
+# 1. แก้วมัคใน 5 นาที: Revolve + Pipe
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -47,6 +49,10 @@ SketchUp ทำหูจับด้วย **Follow Me** ได้ แต่แ�
 
 {: .shapr }
 Shapr3D: **Sweep** วงกลมไปตามเส้น · formZ: **Pipe** (หรือ Sweep ถ้าอยากได้หน้าตัดแบบอื่น)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำแก้วทรงที่ 2 ที่หูจับเป็นวงกลม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. แก้ diameter ของ Pipe ได้ที่ไหน?</summary>Inspector แท็บ Parameters</details>

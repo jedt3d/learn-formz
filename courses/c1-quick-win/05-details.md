@@ -1,14 +1,15 @@
 ---
-title: "5. ปลอกปากกา: ขอบมน + เจาะ + คลิป"
-parent: "C1 · Quick Win"
+title: "5. ปลอกปากกา 3 ขั้น: มน · เจาะ · คลิป"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 5
 chapter: true
 read_time: 5
 do_time: 8
 permalink: /courses/c1-quick-win/05-details/
+hook: "ทำขอบมนที่กลับมาแก้ได้ด้วย Controlled Round และรวมชิ้นด้วย Union และเจาะรูด้วย Difference (Boolean)"
 ---
 
-# 5. ปลอกปากกา: ขอบมน + เจาะ + คลิป
+# 5. ปลอกปากกา 3 ขั้น: มน · เจาะ · คลิป
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -62,6 +63,10 @@ SketchUp ไม่มี fillet แบบ solid ในตัว และ Boolea
 
 {: .shapr }
 Shapr3D Fillet ≈ **Controlled Round** · Union ≈ **Union** · Subtract ≈ **Difference** (formZ คลิกชิ้นหลักก่อน แล้วค่อยคลิกตัวตัด)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนรัศมีขอบมนของปลอกจาก 1 เป็น 2 mm แล้วเทียบดูว่าแบบไหนสวยกว่า
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมรูด้านในกว้าง 16.4 ไม่ใช่ 16?</summary>เผื่อให้หลวมด้านละ 0.2 mm ถ้าพิมพ์ 3D จริงจะได้สวมเข้าไปได้ (เรียนเรื่อง clearance ใน C8)</details>

@@ -1,14 +1,15 @@
 ---
-title: "9. สรุป: ภาพรวม C1"
-parent: "C1 · Quick Win"
+title: "9. สรุป C1: จากปากกาจริงสู่ภาพ render"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c1-quick-win/09-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 9. สรุป: ภาพรวม C1 🎉
+# 9. สรุป C1: จากปากกาจริงสู่ภาพ render
 {% include meta.html %}
 
 ## 🖼 แกลเลอรี
@@ -45,3 +46,6 @@ permalink: /courses/c1-quick-win/09-recap/
 
 ## 👉 ต่อไป
 **[C2 · ฟอร์มสวยด้วย Solid]({{ '/courses/c2-solid-form/' | relative_url }})** เราจะปั้น **แม็กเย็บกระดาษ** ที่มี 3 ชิ้นประกอบกัน ได้ฝึก sketch → extrude (คล้าย Shapr3D), Boolean ขั้นสูง และ Symmetry
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/c2-solid-form/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C2 แม็กเย็บ: 10 ท่า Solid</a><a href="{{ '/courses/m1-quick-tips/' | relative_url }}"><strong>⚡ ทริกไวขึ้น</strong><br>M1 ทำงานไวขึ้น 2 เท่า</a><a href="{{ '/courses/c1-quick-win/bonus-speaker/' | relative_url }}"><strong>🎁 โจทย์เสริม</strong><br>ลำโพงก้อนหิน 20 นาที</a></div>

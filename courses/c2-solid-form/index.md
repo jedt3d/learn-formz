@@ -1,12 +1,18 @@
 ---
-title: "C2 · ฟอร์มสวยด้วย Solid"
+title: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 20
 has_children: true
 permalink: /courses/c2-solid-form/
+n_chapters: 11
+minutes: 90
+outcome: "แม็กเย็บ solid ครบชิ้น ฝาเปิดได้ พร้อมไปทำ animation"
 ---
 
-# C2 · ฟอร์มสวยด้วย Solid: แม็กเย็บกระดาษ
+# C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน
 {: .no_toc }
+<p class="course-sub">ฐาน · ฝาโค้ง · ร่อง · ขอบมน · บานพับ เหมือนของจริง</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **90 นาที** (อ่าน ~46 + ลงมือ ~44) · 11 บท
 

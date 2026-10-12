@@ -1,15 +1,17 @@
 ---
-title: "6. Print Preparation"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "6. ตรวจ 6 ข้อก่อนพิมพ์: Print Preparation"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 6
 chapter: true
 read_time: 4
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/06-print-prep/
+edition: core
+hook: "ใช้ Print Preparation ตรวจทั้งโปรเจกต์ในคลิกเดียว"
 ---
 
-# 6. Print Preparation: ตรวจก่อนพิมพ์
+# 6. ตรวจ 6 ข้อก่อนพิมพ์: Print Preparation
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -49,6 +51,10 @@ Print Preparation **ตรวจและไฮไลต์** ปัญหาเ
 
 {: .power }
 SketchUp ต้องลง extension (เช่น Solid Inspector) ส่วน formZ มีเครื่องมือนี้ **ในตัว**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำผนังบาง 0.5 mm 1 จุด แล้วดูว่า Print Preparation จับได้ไหม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Print Preparation ซ่อมให้ไหม?</summary>ไม่ซ่อม แค่ตรวจและไฮไลต์</details>

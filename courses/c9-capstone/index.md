@@ -1,12 +1,18 @@
 ---
-title: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 27
 has_children: true
 permalink: /courses/c9-capstone/
+n_chapters: 11
+minutes: 90
+outcome: "portfolio ชิ้นแรก: hero render + บอร์ด + ไฟล์ผลิต"
 ---
 
-# C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ
+# C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที
 {: .no_toc }
+<p class="course-sub">brief → ปั้น → ตรวจ → render → บอร์ด → ไฟล์ผลิต</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **90 นาที** (อ่าน ~40 + ลงมือ ~50) · 11 บท
 

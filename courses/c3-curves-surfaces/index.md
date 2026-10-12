@@ -1,12 +1,18 @@
 ---
-title: "C3 · ผิวโค้งแบบมือโปร"
+title: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 21
 has_children: true
 permalink: /courses/c3-curves-surfaces/
+n_chapters: 12
+minutes: 90
+outcome: "ดินสอเหลาแล้ว + กาต้มน้ำผิวเนียน render คู่กัน"
 ---
 
-# C3 · ผิวโค้งแบบมือโปร: ดินสอ + กาต้มน้ำไฟฟ้า
+# C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ
 {: .no_toc }
+<p class="course-sub">Spline · Revolve · Loft · Subdivision ซึ่งเป็นโค้งที่ SketchUp ทำยาก</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **90 นาที** (อ่าน ~48 + ลงมือ ~42) · 12 บท
 

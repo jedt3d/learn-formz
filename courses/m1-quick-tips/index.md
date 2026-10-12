@@ -1,12 +1,18 @@
 ---
-title: "M1 · Mini: formZ Quick Tips"
+title: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 27.5
 has_children: true
 permalink: /courses/m1-quick-tips/
+n_chapters: 7
+minutes: 45
+outcome: "ชุดปุ่มลัดและ palette ของตัวเอง ทำงานเร็วขึ้น"
 ---
 
-# M1 · Mini: formZ Quick Tips ทำงานไวขึ้น 2 เท่า
+# M1 · 8 ทริกทำงานไวขึ้น 2 เท่า
 {: .no_toc }
+<p class="course-sub">ปุ่มลัดแบบ SketchUp · Taps · Guides · Components</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **45 นาที** · 7 บทสั้น (บทละ 5–7 นาที)
 

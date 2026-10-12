@@ -1,11 +1,12 @@
 ---
-title: "🎁 โจทย์เสริม: Pebble Speaker"
-parent: "C1 · Quick Win"
+title: "🎁 โจทย์เสริม: ลำโพงก้อนหินใน 20 นาที"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 99
 permalink: /courses/c1-quick-win/bonus-speaker/
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
-# 🎁 โจทย์เสริม: Pebble Speaker
+# 🎁 โจทย์เสริม: ลำโพงก้อนหินใน 20 นาที
 <div class="meta-bar"><span>🛠 ลงมือ ~25 นาที</span><span>ใช้ความรู้จาก C1 บท 4–8</span></div>
 
 ลำโพงบลูทูธจิ๋วทรงกระบอก ขอบโค้งมน มีวัสดุ 3 แบบ (ตัวเครื่องด้าน, ฝายาง, ปุ่มโลหะ)
@@ -24,3 +25,8 @@ Cap กว้าง Ø54 ต้องเล็กกว่าหน้าแบ�
 
 {: .shot }
 [SCREENSHOT: ภาพเรนเดอร์ Pebble Speaker บนพื้น Catcher]
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนลำโพงเป็นทรงไข่ด้วย Scale แกน Z แล้ว render ใหม่
+</div>
+

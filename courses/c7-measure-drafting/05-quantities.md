@@ -1,15 +1,16 @@
 ---
-title: "5. Measure Quantities: ปริมาตรและน้ำหนัก"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+title: "5. ชิ้นนี้หนักกี่กรัม? Measure Quantities"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/05-quantities/
+hook: "ดู ปริมาตร (volume) และ พื้นที่ผิว (surface area) ของ solid ด้วย Measure Quantities และเห็น จุดศูนย์ถ่วง (center of gravity)"
 ---
 
-# 5. Measure Quantities: ปริมาตรและน้ำหนัก
+# 5. ชิ้นนี้หนักกี่กรัม? Measure Quantities
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -50,6 +51,10 @@ SketchUp แสดง volume ได้เฉพาะ solid group ที่ป�
 
 {: .note }
 formZ ยังมีเครื่องมือ **Mass Properties** (กลุ่ม Measuring) ที่แสดง **Weight And Volume** จาก density และ **Moments Of Inertia** ด้วย ซึ่งเราจะใช้ใน [C8 บท 9]({{ '/courses/c8-make-it/09-step/' | relative_url }})
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนวัสดุเป็นอะลูมิเนียมแล้วดูว่าน้ำหนักเปลี่ยนเท่าไร
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. น้ำหนักคำนวณอย่างไร?</summary>ปริมาตร × ความหนาแน่น</details>

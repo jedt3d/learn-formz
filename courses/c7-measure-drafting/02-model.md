@@ -1,12 +1,13 @@
 ---
 title: "2. ปั้นกบเหลาใน 10 นาที"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 2
 chapter: true
 read_time: 3
 do_time: 6
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/02-model/
+hook: "ปั้นตัวกบด้วยเครื่องมือที่รู้แล้ว (Cube, Controlled Round, Difference, Insert) และเจาะ รูกรวย ตามแนวแกน X ด้วย Cone + Difference"
 ---
 
 # 2. ปั้นกบเหลาใน 10 นาที
@@ -39,5 +40,9 @@ permalink: /courses/c7-measure-drafting/02-model/
 
 {: .verify }
 ทิศของ Height เมื่อวาด Cone บนระนาบ YZ (+X หรือ −X) ต้องยืนยันบนเครื่องจริง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำกบเหลาแบบ 2 รูภายใน 3 นาที
+</div>
 
 📚 อ้างอิง: R1 Cube, Cone, Difference, Drawing Objects (Insert), Reference planes

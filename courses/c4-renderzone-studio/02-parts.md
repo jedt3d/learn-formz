@@ -1,14 +1,15 @@
 ---
-title: "2. คันโยก ลูกบิด ขา"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "2. 3 ชิ้นเล็กใน 10 นาที: คันโยก · ลูกบิด · ขา"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 2
 chapter: true
 read_time: 3
 do_time: 4
 permalink: /courses/c4-renderzone-studio/02-parts/
+hook: "เพิ่ม รายละเอียดเล็ก ที่ทำให้ภาพดูเป็นสินค้าจริง และใช้ Subdivision / Soften ทำคันโยกให้ขอบนุ่มในคลิกเดียว"
 ---
 
-# 2. คันโยก ลูกบิด ขา
+# 2. 3 ชิ้นเล็กใน 10 นาที: คันโยก · ลูกบิด · ขา
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -41,5 +42,9 @@ permalink: /courses/c4-renderzone-studio/02-parts/
 
 {: .shapr }
 Shapr3D: Move + **Copy** toggle · formZ: Move + ตัวเลือก **copy** ใน Tool Options
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ออกแบบลูกบิดใหม่ 1 แบบที่มีร่องกันลื่น
+</div>
 
 📚 อ้างอิง: R1 Transforming Objects, Subdivision / Soften, Drawing Objects (Insert)

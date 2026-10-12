@@ -1,14 +1,15 @@
 ---
-title: "8. Multi-Frame: views board"
-parent: "C6 · Brand & Presentation Boards"
+title: "8. 4 มุมมองในคลิกเดียว: Multi-Frame"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 8
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c6-layout-boards/08-multiframe/
+hook: "วางหลาย frame พร้อมกันด้วย Place Multi-Frame และเลือก Layout ของตาราง (เช่น 2 × 2) และ Margin ระหว่างกรอบ"
 ---
 
-# 8. Multi-Frame: views board
+# 8. 4 มุมมองในคลิกเดียว: Multi-Frame
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -40,6 +41,10 @@ permalink: /courses/c6-layout-boards/08-multiframe/
 
 {: .note }
 Layers และ Clipping Planes ของแต่ละกรอบ ตั้งเพิ่มได้ **หลัง** สร้างแล้ว (แก้ frame ทีละกรอบ) เช่น ซ่อน layer ดินสอในกรอบ Top
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนจาก 2×2 เป็น 1×3 แล้วดูว่าแบบไหนสวยกว่า
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไม views ต้องมาตราส่วนเท่ากัน?</summary>เพื่อให้เทียบสัดส่วนระหว่างด้านได้ถูกต้อง</details>

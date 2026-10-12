@@ -1,11 +1,12 @@
 ---
-title: "1. ปุ่มลัดแบบ SketchUp"
-parent: "M1 · Mini: formZ Quick Tips"
+title: "1. ปุ่มลัดแบบ SketchUp ในคลิกเดียว"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 1
 chapter: true
 read_time: 3
 do_time: 3
 permalink: /courses/m1-quick-tips/01-shortcuts/
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
 # 1. ปุ่มลัดแบบ SketchUp ในคลิกเดียว
@@ -37,5 +38,9 @@ permalink: /courses/m1-quick-tips/01-shortcuts/
 
 {: .verify }
 ชื่อปุ่ม Preset 1/2 ใน 10.1.x และคำสั่งใดบ้างที่ preset เปลี่ยน (นอกจาก Orbit/Pan) ต้องยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ตั้งปุ่มลัด 1 ปุ่มสำหรับ Controlled Round ด้วยตัวเอง
+</div>
 
 📚 อ้างอิง: R1 Key Shortcuts

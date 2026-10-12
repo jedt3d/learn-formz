@@ -1,14 +1,16 @@
 ---
-title: "8. RenderZone ครั้งแรก + ส่งการบ้าน"
-parent: "C1 · Quick Win"
+title: "8. กด Render! ภาพแรกของเรา"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 8
 chapter: true
 read_time: 5
 do_time: 8
 permalink: /courses/c1-quick-win/08-render/
+renderzone: true
+hook: "เปิด RenderZone Options และตั้งค่าที่จำเป็นแค่ 4 อย่าง และเรนเดอร์ส่วนเล็ก ๆ เพื่อทดสอบก่อน ด้วย Render Area Rectangle"
 ---
 
-# 8. RenderZone ครั้งแรก + ส่งการบ้าน
+# 8. กด Render! ภาพแรกของเรา
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -67,6 +69,10 @@ SketchUp **ไม่มี renderer ในตัว** ต้องติดต�
 
 {: .shapr }
 Shapr3D Visualization เน้นความง่ายแบบ preset ส่วน RenderZone ปรับได้ลึกกว่า แต่ใน course นี้เราใช้ **4 ค่าก็พอ**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** render ปากกา 3 สีวางเรียงกันเป็นภาพ family shot
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. เปิด RenderZone Options อย่างไร?</summary>กด Option (Mac) หรือ Alt (Windows) ค้างไว้แล้วคลิก Display > RenderZone หรือใช้ปุ่ม RenderZone Options ใน Display Options</details>

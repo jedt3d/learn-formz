@@ -1,11 +1,13 @@
 ---
 title: "3. Taps: แตะปุ่มเดียวเปลี่ยนโหมด"
-parent: "M1 · Mini: formZ Quick Tips"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 3
 chapter: true
 read_time: 3
 do_time: 3
 permalink: /courses/m1-quick-tips/03-taps/
+edition: free
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
 # 3. Taps: แตะปุ่มเดียวเปลี่ยนโหมด
@@ -37,5 +39,9 @@ taps เป็นค่าที่ระบบตั้งไว้ **ตั้
 
 {: .power }
 SketchUp ใช้ปุ่มลูกศรล็อกแกน ส่วน formZ มี taps ที่ทำงานต่างกันตามเครื่องมือ จึงทำงานได้โดยไม่ต้องละมือจากเมาส์
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** copy ปากกา 5 ด้ามด้วย tap Alt/Option โดยไม่ต้องแตะ palette
+</div>
 
 📚 อ้างอิง: R1 Tap Keys

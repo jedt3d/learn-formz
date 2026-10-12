@@ -1,14 +1,15 @@
 ---
-title: "4. เส้นโค้งที่ควบคุมได้: Spline + Curve Edit"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "4. วาดโค้งสวยด้วย 5 จุด: Spline + Curve Edit"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 4
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c3-curves-surfaces/04-curves/
+hook: "เปลี่ยนเส้นหักธรรมดา (Vector Line) ให้เป็นเส้นโค้งเนียนด้วย Curve Create และเลือกได้ว่าจะเป็น NURBS Curve หรือ Spline Curve Through Points"
 ---
 
-# 4. เส้นโค้งที่ควบคุมได้: Spline + Curve Edit
+# 4. วาดโค้งสวยด้วย 5 จุด: Spline + Curve Edit
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -55,6 +56,10 @@ SketchUp ไม่มีเส้นโค้งที่แก้ด้วย c
 
 {: .shapr }
 Shapr3D: **Spline** (control points / interpolated) · formZ: **Curve Create** (NURBS / Through Points) + **Curve Edit**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วาดโปรไฟล์กาต้มน้ำแบบอ้วนเตี้ยด้วยจุดไม่เกิน 6 จุด
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. อยากให้เส้นผ่านทุกจุดที่คลิก เลือกชนิดไหน?</summary>Spline Curve Through Points</details>

@@ -1,15 +1,17 @@
 ---
-title: "9. CMF + Hero render"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "9. 2 สี 1 ภาพ hero"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 5
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/09-render/
+renderzone: true
+hook: "ทำ CMF 2 ชุดสี (Color · Material · Finish) และจัดสตูดิโอ 3 ไฟ + Environment (C4) แล้วเรนเดอร์ hero shot"
 ---
 
-# 9. CMF + Hero render
+# 9. 2 สี 1 ภาพ hero
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -39,6 +41,10 @@ permalink: /courses/c9-capstone/09-render/
 
 {: .warning }
 อย่าเปิด **Postprocess** ของ RenderZone (มีรายงานว่าทำให้ 10.1.5 ค้าง) ถ้าอยากปรับภาพเพิ่ม ให้ใช้โปรแกรมแต่งภาพภายนอก
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำสีชุดที่ 3 ตามสีโปรดของเพื่อน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. CMF ย่อมาจากอะไร?</summary>Color, Material, Finish</details>

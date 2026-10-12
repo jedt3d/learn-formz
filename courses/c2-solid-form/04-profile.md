@@ -1,14 +1,15 @@
 ---
-title: "4. โปรไฟล์โค้ง: Vector Line + Arc"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "4. ฝาโค้งจากเส้นเดียว: Vector Line + Arc"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 4
 chapter: true
 read_time: 5
 do_time: 5
 permalink: /courses/c2-solid-form/04-profile/
+hook: "วาดรูปปิดที่มี เส้นตรงผสมเส้นโค้ง ในรูปเดียว (composite shape) และปิดรูปด้วยปุ่ม c และได้ solid ด้วย 3D Extrusion"
 ---
 
-# 4. โปรไฟล์โค้ง: Vector Line + Arc
+# 4. ฝาโค้งจากเส้นเดียว: Vector Line + Arc
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -57,6 +58,10 @@ permalink: /courses/c2-solid-form/04-profile/
 
 {: .shapr }
 นี่คือ **sketch → extrude** แบบ Shapr3D เป๊ะ ๆ ต่างกันแค่ใน formZ เราเลือก object type ไว้ล่วงหน้า
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วาดโปรไฟล์ฝาแบบโค้งมากขึ้น แล้วเทียบกับแบบเดิม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. จะปิดรูปที่วาดอยู่ทำอย่างไร?</summary>คลิกกลับจุดแรก กด c หรือ triple-click</details>

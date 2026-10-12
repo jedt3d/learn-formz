@@ -1,14 +1,16 @@
 ---
-title: "7. แสงและฉากสตูดิโอ"
-parent: "C1 · Quick Win"
+title: "7. ฉากสตูดิโอใน 5 นาที: พื้น + แสง"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 7
 chapter: true
 read_time: 5
 do_time: 7
 permalink: /courses/c1-quick-win/07-light-scene/
+renderzone: true
+hook: "ทำ พื้นสตูดิโอ ที่รับเงาแต่ไม่เห็นเป็นแผ่น ด้วย Catcher shader และปรับ แสงหลัก และ ambient light ให้ภาพนุ่ม"
 ---
 
-# 7. แสงและฉากสตูดิโอ
+# 7. ฉากสตูดิโอใน 5 นาที: พื้น + แสง
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -60,6 +62,10 @@ formZ เริ่มโปรเจกต์มาพร้อม **distant lig
 
 {: .shapr }
 Shapr3D Visualization ตั้งพื้นและแสงแบบ preset ให้ ส่วน formZ เราตั้งเองได้ทุกส่วน ช่วงแรกจะใช้เวลามากกว่านิดหน่อย แต่บันทึกพื้นและแสงชุดนี้ลง **template** ไว้ใช้ซ้ำได้ (ทำในบทที่ 8)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ย้ายแสงไปอีกฝั่ง แล้วดูว่าอารมณ์ของภาพเปลี่ยนไปอย่างไร
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมตั้ง Color ของพื้นเป็น Background?</summary>ให้พื้นกลืนไปกับฉากหลัง จะได้เห็นแค่เงา เป็นลุคสตูดิโอที่ไม่มีขอบพื้น</details>

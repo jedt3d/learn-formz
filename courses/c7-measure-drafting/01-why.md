@@ -1,15 +1,16 @@
 ---
-title: "1. ทำไมต้องมีแบบ drawing"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+title: "1. ภาษาที่โรงงานอ่าน: แบบ 3 ด้าน"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 1
 chapter: true
 read_time: 5
 do_time: 4
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/01-why/
+hook: "อธิบายได้ว่า ภาพเรนเดอร์ ≠ แบบสำหรับผลิต และรู้จัก ภาพฉาย (orthographic projection), ภาพตัด (section) และ tolerance"
 ---
 
-# 1. ทำไมต้องมีแบบ drawing
+# 1. ภาษาที่โรงงานอ่าน: แบบ 3 ด้าน
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -42,6 +43,10 @@ permalink: /courses/c7-measure-drafting/01-why/
 
 {: .power }
 SketchUp ทำแบบ drawing ได้ผ่าน **LayOut** ซึ่งเป็นโปรแกรมแยก ส่วน formZ มีทั้ง measure, dimensions ที่ลิงก์กับโมเดล, section, hatch และ layout อยู่ในโปรแกรมเดียว
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** สเก็ตแบบ 3 ด้านของยางลบด้วยมือภายใน 3 นาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ภาพเรนเดอร์กับแบบ drawing ตอบคำถามต่างกันอย่างไร?</summary>เรนเดอร์ = สวยไหม · drawing = ทำได้ไหมและทำอย่างไร</details>

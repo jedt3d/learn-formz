@@ -1,11 +1,12 @@
 ---
 title: "4. New Layout Project: A3"
-parent: "C6 · Brand & Presentation Boards"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 4
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c6-layout-boards/04-new-layout/
+hook: "สร้าง layout ด้วย File > New Layout Project และตั้ง Units / Standard Paper Size / Landscape / Margin / Border"
 ---
 
 # 4. New Layout Project: A3
@@ -44,6 +45,10 @@ permalink: /courses/c6-layout-boards/04-new-layout/
 
 {: .power }
 SketchUp ต้องใช้ **LayOut** ซึ่งเป็นอีกโปรแกรมแยกต่างหาก ส่วน formZ มี Layout อยู่ในโปรแกรมเดียวกัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ตั้ง sheet ที่ 2 เป็นแนวตั้ง A4
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ไฟล์ layout นามสกุลอะไร?</summary>.fml</details>

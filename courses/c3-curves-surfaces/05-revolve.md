@@ -1,11 +1,12 @@
 ---
 title: "5. Revolve: ตัวกาในคลิกเดียว"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c3-curves-surfaces/05-revolve/
+hook: "หมุนโปรไฟล์รอบแกนด้วย Revolve ให้ได้ผิวทรงกลม และรู้จักตัวเลือก Angle / Direction / Revolve Type (Continuous / Stepped) / Cap"
 ---
 
 # 5. Revolve: ตัวกาในคลิกเดียว
@@ -51,6 +52,10 @@ permalink: /courses/c3-curves-surfaces/05-revolve/
 
 {: .shapr }
 Shapr3D: **Revolve** ชื่อเหมือนกันเลย
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** Revolve โปรไฟล์เดิมแค่ 270° แล้วดูข้างใน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Stepped ใช้ทำอะไร?</summary>ได้รูปเป็นปล้อง ๆ (facetted ตามจำนวนขั้น) เช่น ฝาเกลียวแบบเหลี่ยมหรือโคมไฟทรงเหลี่ยม</details>

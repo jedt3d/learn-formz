@@ -1,21 +1,22 @@
 ---
-title: "3. เลือกเทคนิคให้ถูกงาน"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "3. 4 แบบโมเดล เลือกให้ถูกงาน"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 3
 chapter: true
 read_time: 4
 do_time: 3
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/03-strategy/
+hook: "ใช้ ตารางตัดสินใจ เลือกระหว่าง Solid / NURBS / Subdivision / Facetted และแบ่งชิ้นงานเป็น ชิ้นส่วนและลำดับการทำ"
 ---
 
-# 3. เลือกเทคนิคให้ถูกงาน
+# 3. 4 แบบโมเดล เลือกให้ถูกงาน
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
 - ใช้ **ตารางตัดสินใจ** เลือกระหว่าง Solid / NURBS / Subdivision / Facetted
 - แบ่งชิ้นงานเป็น **ชิ้นส่วนและลำดับการทำ**
-- รู้ว่าขั้นไหน **ย้อนแก้ยาก** (formZ ไม่มี history tree) จึงต้อง Save As เป็นเวอร์ชัน
+- รู้ว่าขั้นไหน **ย้อนแก้ยาก** (formZ ไม่มี history tree) จึงต้องบันทึกเป็นเวอร์ชันด้วย **File › Save Incremental**
 
 ## 💡 ไอเดียสั้น ๆ
 | ถ้ารูปทรงเป็น... | ใช้ | เรียนใน |
@@ -36,7 +37,7 @@ permalink: /courses/c9-capstone/03-strategy/
 ## 👣 ลงมือทำ (3 นาที)
 1. เขียนแผน 5 ขั้นของของที่เราเลือกเอง โดยใช้ตาราง
 2. ตั้ง Layer: `Body`, `Parts`, `Ref` (underlay, เส้นช่วย), `Render`
-3. ตั้งชื่อไฟล์เวอร์ชัน: `C9_v01_blockout`, `v02_shape`, `v03_split` ... (Save As ทุกขั้นใหญ่)
+3. บันทึกไฟล์แรกเป็น `C9_mouse_01.fmz` แล้วกด **File › Save Incremental** ทุกครั้งที่จบขั้นใหญ่ (blockout → shape → split ...) จะได้ `_02`, `_03` ... อัตโนมัติ และจดใน text note ว่าแต่ละเวอร์ชันคือขั้นไหน [🔍 รูปแบบชื่อไฟล์จริง]
 
 {: .shot }
 [SCREENSHOT: Layers palette 4 layer + ชื่อไฟล์เวอร์ชันใน Finder/Explorer]
@@ -47,7 +48,11 @@ permalink: /courses/c9-capstone/03-strategy/
 {: .power }
 SketchUp มีแค่ mesh แบบเดียว ส่วน formZ ให้เลือก **4 แบบตามรูปทรง** และแปลงไปมาระหว่างกันได้ในไฟล์เดียว
 
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เขียนแผนของสำรองอีก 1 ชิ้นด้วยเทคนิคที่ต่างกัน
+</div>
+
 ## ✅ เช็คตัวเอง
 <details><summary>1. เมาส์ควรใช้เทคนิคอะไร ทำไม?</summary>Subdivision เพราะเป็นฟอร์มอิสระที่ปั้นง่าย</details>
-<details><summary>2. ทำไมต้อง Save As เป็นเวอร์ชัน?</summary>formZ ไม่มี history tree ไฟล์เวอร์ชันจึงเป็นจุดย้อนกลับ</details>
+<details><summary>2. ทำไมต้องกด Save Incremental?</summary>formZ ไม่มี history tree ไฟล์เวอร์ชันที่ Save Incremental สร้างจึงเป็นจุดย้อนกลับ</details>
 <details><summary>3. ไฟฉายใช้อะไร?</summary>Revolve + Helix สำหรับฝาเกลียว</details>

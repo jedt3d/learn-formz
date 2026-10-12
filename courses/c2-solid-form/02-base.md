@@ -1,14 +1,15 @@
 ---
-title: "2. Draw + 3D Extrusion: ฐาน"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "2. ฐานแม็กใน 3 คลิก: Rectangle + 3D Extrusion"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 2
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c2-solid-form/02-base/
+hook: "รู้จัก Draw suite และ object type 6 แบบ ใน Tool Options และวาด Rectangle แล้วได้เป็น solid ทันทีด้วย 3D Extrusion"
 ---
 
-# 2. Draw + 3D Extrusion: ฐาน
+# 2. ฐานแม็กใน 3 คลิก: Rectangle + 3D Extrusion
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -54,6 +55,10 @@ permalink: /courses/c2-solid-form/02-base/
 
 {: .shapr }
 Shapr3D: วาด rectangle แล้วดึงหน้าขึ้น · formZ: เลือก **3D Extrusion** ก่อนวาด ได้ผลเหมือนกันในจังหวะเดียว
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำฐานแม็กแบบที่ 2 ที่สั้นลง 10 mm แล้ววางเทียบกัน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ถ้าอยากได้แค่รูป 2D แบน ๆ เลือก type ไหน?</summary>2D</details>

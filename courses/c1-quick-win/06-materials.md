@@ -1,11 +1,13 @@
 ---
 title: "6. ใส่วัสดุ 3 แบบ"
-parent: "C1 · Quick Win"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 6
 chapter: true
 read_time: 5
 do_time: 6
 permalink: /courses/c1-quick-win/06-materials/
+renderzone: true
+hook: "สร้าง material ใหม่ และเลือกค่าตั้งต้นจาก Material Library และใส่ material ให้วัตถุด้วยการ ลากไปวาง (drag-and-drop) หรือใช้เครื่องมือ Paint"
 ---
 
 # 6. ใส่วัสดุ 3 แบบ
@@ -59,6 +61,10 @@ material ของ formZ ตั้งค่าแยกได้เป็น **c
 
 {: .shapr }
 Shapr3D: แท็บ Appearance ใน Visualization · formZ: **Materials palette + Material Parameters** หลักการเหมือนกัน คือเลือกวัสดุแล้ววางบนชิ้นงาน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำปากกาสีที่ 4 (เช่น สีชมพูนีออน) โดยใช้ material เดิมมาแก้สี
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมวัตถุที่สร้างใหม่ถึงได้ material แปลก ๆ?</summary>เพราะวัตถุใหม่จะได้ material ที่ active อยู่ในขณะนั้นเสมอ</details>

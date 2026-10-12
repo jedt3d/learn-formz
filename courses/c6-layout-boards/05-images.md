@@ -1,14 +1,15 @@
 ---
-title: "5. Place Image: ภาพ hero"
-parent: "C6 · Brand & Presentation Boards"
+title: "5. ภาพ hero ใหญ่ 50%: Place Image"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c6-layout-boards/05-images/
+hook: "วางภาพเรนเดอร์ด้วย Place Image และ Place Image Fit และcrop ภาพด้วย controls 9 จุด"
 ---
 
-# 5. Place Image: ภาพ hero
+# 5. ภาพ hero ใหญ่ 50%: Place Image
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -40,6 +41,10 @@ permalink: /courses/c6-layout-boards/05-images/
 
 {: .verify }
 ตำแหน่ง **Project Information** ใน Help menu ของ v10 ตามที่คู่มือบอก ให้ยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** Crop ภาพ hero ให้เหลือเฉพาะส่วนที่ชอบที่สุด
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. crop กับยืดภาพต่างกันอย่างไร?</summary>ลากขอบ = crop · กด Cmd/Ctrl ค้างแล้วลาก = ยืด</details>

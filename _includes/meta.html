@@ -1,6 +1,14 @@
 <div class="meta-bar">
   {%- if page.read_time %}<span>⏱ อ่าน {{ page.read_time }} นาที</span>{% endif -%}
   {%- if page.do_time %}<span>🛠 ลงมือ {{ page.do_time }} นาที</span>{% endif -%}
-  <span>🧩 formZ 10.1.x Pro + RenderZone</span>
+  <span>🧩 formZ 10.1.x</span>
+  {%- assign ed = page.edition | default: "core" -%}
+  <a class="ed ed-{{ ed }}" href="{{ '/editions/' | relative_url }}" title="ใช้ได้กับ formZ รุ่นไหน">{% if ed == "pro" %}🔷 ต้องใช้ Pro{% elsif ed == "free" %}🟢 Free ก็ทำได้{% else %}🔶 Core / Pro{% endif %}{% if page.renderzone %} + RenderZone{% endif %}</a>
   {%- if page.track %}<span>{{ page.track }}</span>{% endif -%}
 </div>
+{%- if page.chapter %}
+<div class="today">
+  {%- if page.result_img %}<img src="{{ page.result_img | relative_url }}" alt="ผลลัพธ์ของบทนี้: {{ page.title }}">{% else %}<div class="today-shot">📸 [SCREENSHOT: ภาพผลลัพธ์ของบทนี้ ({{ page.title }}) วางเป็นภาพแรกของบท]</div>{% endif %}
+  {%- if page.hook %}<p class="today-hook">🎬 <strong>วันนี้เราจะทำ:</strong> {{ page.hook }}</p>{% endif %}
+</div>
+{%- endif %}

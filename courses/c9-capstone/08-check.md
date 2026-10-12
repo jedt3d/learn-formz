@@ -1,15 +1,16 @@
 ---
-title: "8. ตรวจงาน: Zebra + Doctor + ขนาด"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "8. check-list 6 ข้อก่อนส่ง"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 8
 chapter: true
 read_time: 3
 do_time: 4
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/08-check/
+hook: "ตรวจผิวโค้งด้วย Zebra Stripes (C3) และตรวจ solid ด้วย Object Doctor และ Print Preparation (C8)"
 ---
 
-# 8. ตรวจงาน: Zebra + Doctor + ขนาด
+# 8. check-list 6 ข้อก่อนส่ง
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -41,6 +42,10 @@ permalink: /courses/c9-capstone/08-check/
 
 {: .power }
 ทั้ง check-list ทำใน formZ ได้หมด ไม่ต้องสลับโปรแกรม ซึ่ง SketchUp ทำข้อ 2–4 เองไม่ได้
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ให้เพื่อนลองตรวจ check-list ของเรา
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ลาย Zebra หักแปลว่าอะไร?</summary>ผิวไม่ต่อเนื่องตรงนั้น</details>

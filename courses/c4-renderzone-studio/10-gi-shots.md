@@ -1,14 +1,15 @@
 ---
-title: "10. GI + ภาพชุด 3 มุม"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "10. เงานุ่มแบบสตูดิโอ + ภาพชุด 3 มุม"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 10
 chapter: true
 read_time: 5
 do_time: 6
 permalink: /courses/c4-renderzone-studio/10-gi-shots/
+hook: "เปิด Ambient Occlusion + Final Gather ให้แสงสะท้อนในฉากสมจริง และคุมเวลาเรนเดอร์ด้วยการทดสอบเป็นขั้น"
 ---
 
-# 10. GI + ภาพชุด 3 มุม
+# 10. เงานุ่มแบบสตูดิโอ + ภาพชุด 3 มุม
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,5 +47,9 @@ permalink: /courses/c4-renderzone-studio/10-gi-shots/
 ชื่อแท็บและค่า quality ของ Final Gather ใน v10 ต้องยืนยัน (ในคู่มือ RZ แยกเป็น Ambient Occlusion tab และ Final Gather tab)
 
 {% include homework.html id="c4-workshop" title="C4 · Toaster 3 Shots" what="ภาพเรนเดอร์ 3 มุม (Hero / Side / Detail) + ภาพหน้าจอ Materials palette ที่เห็น material ทั้งหมด" %}
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เพิ่มมุมที่ 4 แบบมองจากด้านบน (flat lay)
+</div>
 
 📚 อ้างอิง: R3 Ambient Occlusion, Final Gather, Postprocessed Rendering Effects · R22

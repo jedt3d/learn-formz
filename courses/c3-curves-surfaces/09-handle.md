@@ -1,14 +1,15 @@
 ---
-title: "9. หูจับ: Grow Face + Offset Face"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "9. หูกาใน 4 ขั้น: Grow Face + Offset Face"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c3-curves-surfaces/09-handle/
+hook: "'งอก' หน้าใหม่จาก cage ด้วย Subdivision / Grow Face (Distance + Angle) และทำหูจับรูปตัว C ที่จับถนัดมือ"
 ---
 
-# 9. หูจับ: Grow Face + Offset Face
+# 9. หูกาใน 4 ขั้น: Grow Face + Offset Face
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -49,6 +50,10 @@ permalink: /courses/c3-curves-surfaces/09-handle/
 
 {: .shapr }
 Shapr3D SubD: เลือกหน้าแล้ว **Extrude** · formZ: **Grow Face** (ล็อก Distance และ Angle ได้)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำหูจับทรงที่สองที่จับด้วย 2 นิ้ว
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ล็อก Distance ไว้มีประโยชน์อย่างไร?</summary>ใช้ระยะเดิมซ้ำได้ทุกท่อน ทำให้หูจับสม่ำเสมอ</details>

@@ -1,14 +1,16 @@
 ---
-title: "2. Quick Keys + Nudge"
-parent: "M1 · Mini: formZ Quick Tips"
+title: "2. ขยับทีละ 0.5 mm: Nudge"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 2
 chapter: true
 read_time: 3
 do_time: 3
 permalink: /courses/m1-quick-tips/02-nudge/
+edition: free
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
-# 2. Quick Keys + Nudge: ขยับทีละ 0.5 mm
+# 2. ขยับทีละ 0.5 mm: Nudge
 {% include meta.html %}
 
 ## 🎯 ทริกนี้
@@ -33,5 +35,9 @@ permalink: /courses/m1-quick-tips/02-nudge/
 
 {: .verify }
 Nudge ขยับตามแกนของ reference plane หรือแกนโลก และปุ่มลูกศรถูกใช้โดยคำสั่งอื่นอยู่แล้วหรือไม่ ต้องยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** จัดชิ้นงาน 3 ชิ้นให้ห่างกัน 2 mm พอดีด้วย nudge อย่างเดียว
+</div>
 
 📚 อ้างอิง: R1 Quick Keys

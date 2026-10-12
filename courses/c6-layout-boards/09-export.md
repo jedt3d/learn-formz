@@ -1,11 +1,12 @@
 ---
 title: "9. ส่งออก PDF + อัปเดตโมเดล"
-parent: "C6 · Brand & Presentation Boards"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c6-layout-boards/09-export/
+hook: "ทดลอง แก้โมเดล → board อัปเดต (เวทมนตร์ของ frame ที่ลิงก์อยู่) และพิมพ์หรือบันทึกเป็น PDF 2 หน้า"
 ---
 
 # 9. ส่งออก PDF + อัปเดตโมเดล
@@ -36,6 +37,10 @@ permalink: /courses/c6-layout-boards/09-export/
 ชื่อคำสั่ง **regenerate/update frame** และเมนูที่เปิดหน้าพิมพ์ของ Layout (File > Print... หรือคำสั่งอื่น) ใน v10 ต้องยืนยัน (คู่มือบอกปุ่ม Print Settings และ Print ที่ส่งไปเครื่องพิมพ์หรือ PDF)
 
 {% include homework.html id="c6-workshop" title="C6 · Kitchen Set Boards" what="PDF/PNG ของ board 2 แผ่น + ภาพ thumbnail ที่ร่างด้วยมือ" %}
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ส่ง PDF ให้เพื่อน 1 คนแล้วถามว่ามองเห็นอะไรเป็นอย่างแรก
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. อะไรอัปเดตเองเมื่อแก้โมเดล และอะไรไม่อัปเดต?</summary>frame (หลัง regenerate) อัปเดต ส่วนภาพเรนเดอร์ต้องเรนเดอร์ใหม่</details>

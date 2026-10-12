@@ -1,14 +1,15 @@
 ---
-title: "3. Material 4 ชั้นของ RenderZone"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "3. วัสดุมี 4 ชั้น: สี · เงา · ใส · นูน"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 3
 chapter: true
 read_time: 5
 do_time: 3
 permalink: /courses/c4-renderzone-studio/03-shaders/
+hook: "สลับ Material Type เป็น RenderZone ใน Material Parameters และเข้าใจ 4 ชั้นของ shader: Color · Reflection · Transparency · Bump"
 ---
 
-# 3. Material 4 ชั้นของ RenderZone
+# 3. วัสดุมี 4 ชั้น: สี · เงา · ใส · นูน
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -48,6 +49,10 @@ SketchUp material มีแค่ **สี + ภาพ + opacity** ส่วน 
 
 {: .shapr }
 Shapr3D: Appearance (preset) · formZ: **สร้าง material เองได้ทุกชั้น** และบันทึกเป็น library ใช้ซ้ำได้
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำ material ที่ 'ใส' และ 'นูน' ในตัวเดียว แล้วใส่ให้ลูกบิด
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. จะเห็น 4 ชั้นต้องตั้งอะไร?</summary>Material Type = RenderZone</details>

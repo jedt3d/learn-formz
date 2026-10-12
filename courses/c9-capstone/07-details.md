@@ -1,12 +1,13 @@
 ---
 title: "7. รายละเอียด: ล้อ + ร่อง + โลโก้"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 7
 chapter: true
 read_time: 3
 do_time: 5
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/07-details/
+hook: "ทำ ล้อ scroll (Cylinder + Controlled Round) พร้อมช่องรอบล้อ (clearance 0.5) และทำ ลายกันลื่น ของล้อด้วย Difference แบบกระจายรอบวง (ทวนจาก C8)"
 ---
 
 # 7. รายละเอียด: ล้อ + ร่อง + โลโก้
@@ -30,10 +31,14 @@ permalink: /courses/c9-capstone/07-details/
 [SCREENSHOT: โลโก้จมที่ฐานเมาส์]
 
 {: .warning }
-Controlled Round ขอบเล็ก ๆ หลังทำ Boolean หลายรอบอาจไม่ผ่าน ให้ทำทีละกลุ่มขอบ และ Save ก่อนทุกครั้ง
+Controlled Round ขอบเล็ก ๆ หลังทำ Boolean หลายรอบอาจไม่ผ่าน ให้ทำทีละกลุ่มขอบ และกด **Save Incremental** ก่อนทุกครั้ง
 
 {: .verify }
 การทำ Text เป็น solid เพื่อทำ Boolean ใน v10 (Text tool → 3D Extrusion) และฟอนต์ไทยทำงานได้ไหม ต้องยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำลายล้อแบบเฉียงแทนแบบตรง
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ช่องล้อเว้นเท่าไร?</summary>0.5 mm รอบตัว</details>

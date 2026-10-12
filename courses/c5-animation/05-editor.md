@@ -1,14 +1,15 @@
 ---
-title: "5. Animation Editor: ทำให้นุ่ม"
-parent: "C5 · Animation จากโมเดล"
+title: "5. ขยับนุ่มแบบของแพง: Animation Editor"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c5-animation/05-editor/
+hook: "อ่าน กราฟ track (เช่น Rotation Y) ใน Animation Editor palette"
 ---
 
-# 5. Animation Editor: ทำให้นุ่ม
+# 5. ขยับนุ่มแบบของแพง: Animation Editor
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -39,6 +40,10 @@ permalink: /courses/c5-animation/05-editor/
 
 {: .shapr }
 คนที่เคยใช้ Blender จะคุ้นกับ **Graph Editor** ซึ่งมีหลักการเดียวกัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำให้ฝาปิดเร็วกว่าตอนเปิด 2 เท่า
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. กราฟชันหมายถึงอะไร?</summary>ค่าเปลี่ยนเร็ว (ของขยับเร็ว)</details>

@@ -1,14 +1,15 @@
 ---
-title: "7. สรุป: ชุดทริกของเรา"
-parent: "M1 · Mini: formZ Quick Tips"
+title: "7. สรุป M1: 8 ทริกของเรา"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 7
 chapter: true
 read_time: 3
 do_time: 2
 permalink: /courses/m1-quick-tips/07-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 7. สรุป: ชุดทริกของเรา
+# 7. สรุป M1: 8 ทริกของเรา
 {% include meta.html %}
 
 ## 🗺️ ภาพรวม
@@ -37,3 +38,6 @@ permalink: /courses/m1-quick-tips/07-recap/
 
 ## ➡️ ต่อไป
 กลับไปที่ [แคตตาล็อก]({{ '/' | relative_url }}) หรือรอ [C10 · V-Ray 6 for formZ 10]({{ '/courses/c10-vray/' | relative_url }})
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/' | relative_url }}"><strong>🏠 กลับแคตตาล็อก</strong><br>เลือก course ถัดไป</a><a href="{{ '/courses/c2-solid-form/' | relative_url }}"><strong>➡️ ใช้ทริกจริง</strong><br>C2 แม็กเย็บ</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 งานใหญ่</strong><br>C9 Portfolio</a></div>

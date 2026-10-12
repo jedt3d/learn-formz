@@ -1,14 +1,15 @@
 ---
-title: "8. แสงสตูดิโอด้วย Area light"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "8. ไฟสตูดิโอ 3 ดวง: Key · Fill · Rim"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 8
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c4-renderzone-studio/08-area-light/
+hook: "เปลี่ยนแผ่นสี่เหลี่ยมให้เป็น Area light (เหมือน softbox ในสตูดิโอถ่ายภาพ) และจัด แสง 3 จุด: Key · Fill · Rim"
 ---
 
-# 8. แสงสตูดิโอด้วย Area light
+# 8. ไฟสตูดิโอ 3 ดวง: Key · Fill · Rim
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,6 +47,10 @@ permalink: /courses/c4-renderzone-studio/08-area-light/
 
 {: .power }
 SketchUp **ไม่มีไฟ** เลย (มีแค่แสงอาทิตย์สำหรับเงา) ส่วน formZ + RenderZone มีไฟหลายชนิด รวมถึง area/line light จากวัตถุจริง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ปิด Fill light แล้ว render ภาพแบบ dramatic 1 ภาพ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไม area light ให้เงานุ่ม?</summary>เพราะแสงออกจากผิวขนาดใหญ่ ไม่ใช่จุดเล็ก ๆ</details>

@@ -1,14 +1,16 @@
 ---
-title: "11. ประกอบ + วัสดุ + เรนเดอร์"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "11. ประกอบร่าง + render กาต้มน้ำ"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 11
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c3-curves-surfaces/11-assemble/
+renderzone: true
+hook: "ทำ ฐานไฟฟ้า (power base) เร็ว ๆ ด้วยเครื่องมือจาก C1 และใส่วัสดุ สแตนเลส / พลาสติก / ยาง"
 ---
 
-# 11. ประกอบ + วัสดุ + เรนเดอร์
+# 11. ประกอบร่าง + render กาต้มน้ำ
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -42,5 +44,9 @@ permalink: /courses/c3-curves-surfaces/11-assemble/
 วิธีรวมวัตถุจากไฟล์อื่น (File > Import หรือ copy/paste ข้ามหน้าต่างโปรเจกต์) ใน formZ 10 ต้องยืนยันบนเครื่องจริง
 
 {% include homework.html id="c3-workshop" title="C3 · Kettle + Pencil" what="ภาพถ่ายกาต้มน้ำและดินสอจริง + ภาพเรนเดอร์ + ภาพหน้าจอ Zebra ของตัวกา" %}
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** render กาต้มน้ำ 2 สีวางคู่กันเป็นภาพ family
+</div>
 
 📚 อ้างอิง: R1 Layers, Creating and Editing Materials · R3 RenderZone

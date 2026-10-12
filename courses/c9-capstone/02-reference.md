@@ -1,12 +1,13 @@
 ---
 title: "2. วัด + ถ่ายรูป + Underlay"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 2
 chapter: true
 read_time: 3
 do_time: 5
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/02-reference/
+hook: "ทำ dimension sheet ของของจริง และถ่ายภาพ ด้านบน + ด้านข้าง ที่ใช้เป็นแบบอ้างอิงได้"
 ---
 
 # 2. วัด + ถ่ายรูป + Underlay
@@ -41,6 +42,10 @@ permalink: /courses/c9-capstone/02-reference/
 
 {: .verify }
 formZ เก็บ Underlay แยกต่อ reference plane (XY/ZX/YZ) และแสดงพร้อมกันได้ไหม ต้องยืนยันใน v10 (ถ้าไม่ได้ ให้ใช้ภาพทีละระนาบ หรือ map ภาพลงแผ่นบาง ๆ แทน)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ถ่ายภาพมุมที่ 3 (ด้านหน้า) เพิ่ม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมถ่ายจากไกลแล้วซูม?</summary>ลดการบิดเบี้ยวจาก perspective ทำให้ภาพใกล้เคียงมุมมองตรงมากขึ้น</details>

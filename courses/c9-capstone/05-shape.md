@@ -1,15 +1,16 @@
 ---
-title: "5. ปั้นฟอร์ม: Symmetry + Edit tools"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "5. ปั้นให้จับถนัดมือ: Symmetry + Squeeze/Stretch"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 6
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/05-shape/
+hook: "ใส่ Object Symmetry ให้แก้ข้างเดียวแล้วอีกข้างตามด้วย และใช้ Subdivision / Squeeze, Stretch, Offset Face ปั้นรายละเอียดของฟอร์ม"
 ---
 
-# 5. ปั้นฟอร์ม: Symmetry + Edit tools
+# 5. ปั้นให้จับถนัดมือ: Symmetry + Squeeze/Stretch
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -32,7 +33,7 @@ permalink: /courses/c9-capstone/05-shape/
 3. **Stretch**: เลือก face ท้ายบน → Distance **3** (ป่อง)
 4. เลือก edge รอบฐาน → **Sharpness** ~70% ให้ฐานแบนคม
 5. หมุนดูทุกมุม แล้ว **ลองจับจริง**: พิมพ์ภาพด้านข้าง 1:1 แล้ววางมือเทียบ
-6. **Save As** `C9_v02_shape`
+6. **File › Save Incremental** (เวอร์ชัน shape)
 
 {: .shot }
 [SCREENSHOT: Object Symmetry plane บนเมาส์]
@@ -41,6 +42,10 @@ permalink: /courses/c9-capstone/05-shape/
 
 {: .verify }
 Object Symmetry กับ Subdivision edit tools (Squeeze/Stretch) ยังคงความสมมาตรระหว่างแก้ไขจริงไหม และ Sharpness ใช้กับ edge ที่เลือกหรือทั้ง object ต้องยืนยันใน v10
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ปิดตาจับเมาส์จริงแล้วจดจุดที่นิ้วสัมผัส เอามาแก้โมเดล
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Squeeze ใช้ทำอะไร?</summary>ขยายหรือหด edge หรือ sequence ของ edge</details>

@@ -1,14 +1,15 @@
 ---
-title: "1. Animation 101: เวลาและเฟรม"
-parent: "C5 · Animation จากโมเดล"
+title: "1. 24 เฟรม = 1 วินาที: Animation 101"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 1
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c5-animation/01-basics/
+hook: "สลับไป workspace Rendering/Animation และตั้ง Start Time / End Time / Frames Per Second ใน Animation Options"
 ---
 
-# 1. Animation 101: เวลาและเฟรม
+# 1. 24 เฟรม = 1 วินาที: Animation 101
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -42,6 +43,10 @@ SketchUp ทำได้แค่ **ภาพเคลื่อนไหวจ�
 
 {: .shapr }
 Shapr3D Visualization มี turntable แบบพื้นฐาน · formZ มีทั้ง turntable, keyframe, path และ exploded view
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** คำนวณว่าวิดีโอ 15 วินาทีที่ 30 fps มีกี่เฟรม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. 10 วินาทีที่ 30 fps มีกี่เฟรม?</summary>300</details>

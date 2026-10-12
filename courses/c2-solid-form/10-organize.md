@@ -1,14 +1,15 @@
 ---
-title: "10. Symmetry + จัดระเบียบ + แกนหมุน"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "10. แก้ข้างเดียวได้ 2 ข้าง: Symmetry + จัดระเบียบ"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 10
 chapter: true
 read_time: 4
 do_time: 6
 permalink: /courses/c2-solid-form/10-organize/
+hook: "ใส่ Object Symmetry ให้ชิ้นงาน แก้ข้างหนึ่งอีกข้างก็ตามไปด้วย และจัดชิ้นส่วนลง Layers และรวมด้วย Group"
 ---
 
-# 10. Symmetry + จัดระเบียบ + แกนหมุน
+# 10. แก้ข้างเดียวได้ 2 ข้าง: Symmetry + จัดระเบียบ
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -48,6 +49,10 @@ Symmetry ของ formZ **ยังทำงานต่อหลังแก�
 
 {: .shapr }
 Shapr3D: Mirror body · formZ: **Object Symmetry** (แบบ live) หรือ **Mirror** (ใน Transform suite แบบครั้งเดียว)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ตั้งชื่อ object ทุกชิ้นเป็นภาษาอังกฤษให้ครบภายใน 2 นาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. รู้ได้อย่างไรว่าวัตถุมี symmetry อยู่?</summary>เมื่อเลือกวัตถุจะเห็นระนาบสมมาตรเป็นเส้นประ</details>

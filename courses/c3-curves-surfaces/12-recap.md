@@ -1,14 +1,15 @@
 ---
-title: "12. สรุป: ภาพรวม C3"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "12. สรุป C3: 4 วิธีสร้างโค้งที่ได้ใช้"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 12
 chapter: true
 read_time: 4
 do_time: 1
 permalink: /courses/c3-curves-surfaces/12-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 12. สรุป: ภาพรวม C3 🎉
+# 12. สรุป C3: 4 วิธีสร้างโค้งที่ได้ใช้
 {% include meta.html %}
 
 ## 🖼 แกลเลอรี
@@ -39,3 +40,6 @@ C3 ทั้ง course แทบไม่มีอะไรที่ SketchUp �
 
 ## 👉 ต่อไป
 **[C4 · RenderZone ระดับสตูดิโอ]({{ '/courses/c4-renderzone-studio/' | relative_url }})** ปั้น **เครื่องปิ้งขนมปัง** แบบเร็ว แล้วใช้เวลาส่วนใหญ่ไปกับ **วัสดุ แสง และภาพ** ระดับโฆษณา
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C4 ถ่ายสินค้าแบบสตูดิโอ</a><a href="{{ '/courses/c6-layout-boards/' | relative_url }}"><strong>🖼️ ทำบอร์ด</strong><br>C6 บอร์ดกาต้มน้ำ + แก้ว</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 ข้ามไปลองเอง</strong><br>C9 Portfolio ชิ้นแรก</a></div>

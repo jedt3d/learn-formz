@@ -1,14 +1,15 @@
 ---
-title: "10. ฝา + ปุ่ม: Subdivision / Soften + Convert"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "10. ฝา + ปุ่ม แล้วแปลงเป็น NURBS: Soften + Convert"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 10
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c3-curves-surfaces/10-lid/
+hook: "ทำฝาด้วย Revolve (ทวนบทที่ 5) และปุ่มจับด้วย Subdivision / Soften และแปลง SubD เป็น NURBS ด้วย Subdivision / Convert ก่อนรวมกับชิ้นอื่น"
 ---
 
-# 10. ฝา + ปุ่ม: Subdivision / Soften + Convert
+# 10. ฝา + ปุ่ม แล้วแปลงเป็น NURBS: Soften + Convert
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -43,6 +44,10 @@ formZ แปลงไปมาได้ครบ 3 ตระกูล **Facetted
 
 {: .shapr }
 Shapr3D: SubD → **Convert to solid** · formZ: **Subdivision / Convert** → NURBS
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนปุ่มบนฝาเป็นทรงหยดน้ำ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมต้อง Convert SubD เป็น NURBS?</summary>เพื่อให้ใช้กับเครื่องมือ solid หรือ NURBS ได้ และส่งต่องานผลิตได้</details>

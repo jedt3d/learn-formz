@@ -1,15 +1,16 @@
 ---
-title: "6. Linear + Multi Dimension"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+title: "6. บอกขนาด 10 ค่าใน 2 นาที: Linear + Multi"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 6
 chapter: true
 read_time: 5
 do_time: 4
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/06-linear/
+hook: "ใส่ขนาดด้วย Linear Dimension (คลิก 2 จุด หรือคลิกเส้น) และใส่ขนาดต่อเนื่องด้วย Multi Dimension แบบ Chain / Stack / Ordinate"
 ---
 
-# 6. Linear + Multi Dimension
+# 6. บอกขนาด 10 ค่าใน 2 นาที: Linear + Multi
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,6 +47,10 @@ formZ ใส่ dimension บน **โมเดล 3D** ได้โดยตร
 
 {: .power }
 Dimension ของ SketchUp เป็นแค่ข้อความ ส่วน formZ มี Multi Dimension 3 แบบ (Chain/Stack/Ordinate) และ style ที่ใช้กับงานผลิตได้
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ใส่ขนาดแบบ Chain ให้ด้านยาวครบใน 1 คำสั่ง
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Chain กับ Stack ต่างกันอย่างไร?</summary>Chain วัดต่อกันทีละช่วง ส่วน Stack วัดจากจุดเริ่มเดียวกันทุกเส้น</details>

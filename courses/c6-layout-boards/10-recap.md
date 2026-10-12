@@ -1,14 +1,15 @@
 ---
-title: "10. สรุป: ภาพรวม C6"
-parent: "C6 · Brand & Presentation Boards"
+title: "10. สรุป C6: บอร์ดที่ขายไอเดียได้"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 10
 chapter: true
 read_time: 4
 do_time: 1
 permalink: /courses/c6-layout-boards/10-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 10. สรุป: ภาพรวม C6 🎉
+# 10. สรุป C6: บอร์ดที่ขายไอเดียได้
 {% include meta.html %}
 
 ## 🖼 แกลเลอรี
@@ -43,3 +44,6 @@ permalink: /courses/c6-layout-boards/10-recap/
 
 ## 👉 ต่อไป
 **[C7 · วัดขนาดและเขียนแบบ]({{ '/courses/c7-measure-drafting/' | relative_url }})** <span class="tag tag-eng">Engineering</span> เปลี่ยนจาก board สวย ๆ ไปเป็น **แบบ drawing ที่มีขนาด** สำหรับคนที่จะผลิตจริง โดยใช้ **กบเหลาดินสอ** เป็นชิ้นงาน
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/c7-measure-drafting/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C7 เขียนแบบ 3 ด้าน</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 บอร์ดของงานตัวเอง</strong><br>C9 Portfolio</a><a href="{{ '/courses/c4-renderzone-studio/' | relative_url }}"><strong>✨ ภาพ hero สวยขึ้น</strong><br>C4</a></div>

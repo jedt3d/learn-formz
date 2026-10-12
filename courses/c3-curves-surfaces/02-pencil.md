@@ -1,14 +1,15 @@
 ---
-title: "2. ดินสอหกเหลี่ยม"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "2. ดินสอหกเหลี่ยมใน 3 นาที"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 2
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c3-curves-surfaces/02-pencil/
+hook: "วัดดินสอของจริง (ระยะข้ามมุม / ข้ามด้านแบน / ความยาว) และวาด หกเหลี่ยมด้านเท่า แล้วดึงเป็น 3D Extrusion (facetted)"
 ---
 
-# 2. ดินสอหกเหลี่ยม
+# 2. ดินสอหกเหลี่ยมใน 3 นาที
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -41,6 +42,10 @@ permalink: /courses/c3-curves-surfaces/02-pencil/
 
 {: .shapr }
 Shapr3D: Polygon sketch → extrude · formZ: **Polygon + 3D Extrusion** ในจังหวะเดียว
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำดินสอทรงกลมกับทรงสามเหลี่ยมให้ครบ 3 แบบ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมยาว 195 ไม่ใช่ 175?</summary>เผื่อเนื้อไว้ 20 mm สำหรับส่วนที่จะเหลาในบทถัดไป</details>

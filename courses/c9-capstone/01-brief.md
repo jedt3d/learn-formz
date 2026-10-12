@@ -1,15 +1,16 @@
 ---
-title: "1. Design brief: เลือกของ 1 ชิ้น"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "1. brief 1 หน้าใน 5 หัวข้อ"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 1
 chapter: true
 read_time: 4
 do_time: 4
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/01-brief/
+hook: "เลือกของจากบ้านที่ เหมาะกับเวลา 90 นาที และเขียน design brief 1 หน้า (ใคร · ปัญหา · ไอเดีย · ข้อจำกัด)"
 ---
 
-# 1. Design brief: เลือกของ 1 ชิ้น
+# 1. brief 1 หน้าใน 5 หัวข้อ
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -40,6 +41,10 @@ Designer ไม่ได้แค่ "copy ของจริง" แต่ **�
 
 {: .note }
 🔀 **ถ้าเลือกของอื่น:** ใช้ตารางเดียวกัน แต่อย่าลืมเขียนให้ "ไอเดีย 1 อย่าง" วัดผลได้ เช่น "จับได้ด้วยมือเดียว" หรือ "ตั้งได้ไม่ล้ม"
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เขียนไอเดียหลักให้สั้นไม่เกิน 10 คำ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. brief มี 5 หัวข้ออะไร?</summary>ผู้ใช้ ปัญหา ไอเดีย ข้อจำกัด และงานที่ต้องส่ง</details>

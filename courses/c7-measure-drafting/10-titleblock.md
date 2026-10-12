@@ -1,12 +1,14 @@
 ---
 title: "10. Title block + PDF"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 10
 chapter: true
 read_time: 4
 do_time: 5
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/10-titleblock/
+edition: pro
+hook: "ใส่ dimension บน layout (บนภาพฉาย 2D) ด้วยเครื่องมือชุดเดียวกับบท 6–7 และสร้าง title block แบบง่ายที่มุมขวาล่าง"
 ---
 
 # 10. Title block + PDF
@@ -45,6 +47,10 @@ permalink: /courses/c7-measure-drafting/10-titleblock/
 Dimension ที่วางบน frame ใน Layout ผูก (associative) กับเส้นของ frame ไหม เมื่อ regenerate frame แล้ว dimension ยังอยู่ไหม ต้องทดสอบใน v10
 
 {% include homework.html id="c7-workshop" title="C7 · Sharpener Drawing" what="PDF แบบ A4 + ภาพร่างด้วยมือจากบทที่ 1 (เทียบกัน)" %}
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ใส่โลโก้ของตัวเองใน title block
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Title block ต้องบอกอะไรบ้างอย่างน้อย?</summary>ชื่อชิ้นงาน วัสดุ มาตราส่วน หน่วย tolerance ระบบภาพฉาย ผู้เขียน และวันที่</details>

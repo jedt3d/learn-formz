@@ -1,14 +1,15 @@
 ---
-title: "4. โลหะ: โครเมียมกับสแตนเลส"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "4. โลหะ 2 แบบ: โครเมียมเงา vs สแตนเลสขัดลาย"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 4
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c4-renderzone-studio/04-metal/
+hook: "ทำ โครเมียม (เงาเหมือนกระจก) และ สแตนเลสขัดด้าน และใช้ shader Metal, Accurate (มี Fresnel) และ Mirror"
 ---
 
-# 4. โลหะ: โครเมียมกับสแตนเลส
+# 4. โลหะ 2 แบบ: โครเมียมเงา vs สแตนเลสขัดลาย
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -42,6 +43,10 @@ shader **Metal, Accurate** และ **Glass, Accurate** ใช้การค�
 
 {: .warning }
 อย่าใส่ **Transparency** ให้วัสดุที่ใช้ Glass shader ซ้ำ เพราะความโปร่งใสถูกควบคุมใน Glass แล้ว ถ้าใส่ซ้ำจะเรนเดอร์ช้ามาก (R22: RenderZone Efficiency)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำโลหะสีทองจาก material โครเมียม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมโลหะในฉากว่างดูดำ?</summary>เพราะไม่มีอะไรให้สะท้อน</details>

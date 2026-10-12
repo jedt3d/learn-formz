@@ -1,14 +1,15 @@
 ---
-title: "3. Edit Axes: ย้ายจุดหมุนไปที่ hinge"
-parent: "C5 · Animation จากโมเดล"
+title: "3. ย้ายจุดหมุนไปบานพับใน 1 นาที: Edit Axes"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 3
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c5-animation/03-axes/
+hook: "รู้ว่าทุก object มี แกนของตัวเอง (axes) ซึ่งเป็นจุดหมุนตอนทำ animation และย้ายแกนด้วย Edit Axes ไปไว้ที่ แกนหมุน (hinge pin)"
 ---
 
-# 3. Edit Axes: ย้ายจุดหมุนไปที่ hinge
+# 3. ย้ายจุดหมุนไปบานพับใน 1 นาที: Edit Axes
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -36,6 +37,10 @@ permalink: /courses/c5-animation/03-axes/
 
 {: .shapr }
 Shapr3D ไม่มีการตั้ง pivot สำหรับ animation · ส่วน Blender คือการตั้ง **Origin** ซึ่งคล้ายกับ Edit Axes
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ย้ายแกนของปุ่มกดไปที่ขอบ แล้วลองหมุนดู
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. แกนของ object ใช้ทำอะไรใน animation?</summary>เป็นจุดอ้างอิงของการหมุนและการเลื่อน</details>

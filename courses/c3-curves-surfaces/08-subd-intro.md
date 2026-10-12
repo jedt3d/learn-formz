@@ -1,11 +1,12 @@
 ---
 title: "8. Subdivision 101: ก้อนดินน้ำมันดิจิทัล"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 8
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c3-curves-surfaces/08-subd-intro/
+hook: "เข้าใจ cage (กรงเหลี่ยม) กับ subdivision surface (ผิวนุ่มที่ได้) และใช้ Subdivision / Create และตั้ง Iterations"
 ---
 
 # 8. Subdivision 101: ก้อนดินน้ำมันดิจิทัล
@@ -44,6 +45,10 @@ SketchUp ไม่มี SubD ในตัว (ต้องลง extension เ�
 
 {: .shapr }
 Shapr3D (ตั้งแต่ 2023) มี **SubD** แบบ cage เหมือนกัน · ถ้าเคยใช้ Blender ก็คือ **Subdivision Surface modifier** นั่นเอง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ปั้นก้อนสบู่จาก Cube ด้วย Iterations 2 กับ 4 แล้วเทียบกัน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. cage คืออะไร?</summary>วัตถุเหลี่ยมหยาบ ๆ ที่ควบคุมผิว subdivision ที่นุ่มอยู่ด้านใน</details>

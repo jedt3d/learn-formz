@@ -1,14 +1,15 @@
 ---
-title: "5. สีรถยนต์ + พลาสติก + ยาง"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "5. 3 ผิวที่ใช้บ่อยที่สุด: สีรถ · พลาสติก · ยาง"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c4-renderzone-studio/05-paint/
+hook: "ทำสีตัวเครื่องแบบ สีรถยนต์ ด้วย Multilayer Paint และทำ พลาสติกเงา ด้วย Glossy และ ยางด้าน แบบไม่สะท้อน"
 ---
 
-# 5. สีรถยนต์ + พลาสติก + ยาง
+# 5. 3 ผิวที่ใช้บ่อยที่สุด: สีรถ · พลาสติก · ยาง
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -41,6 +42,10 @@ permalink: /courses/c4-renderzone-studio/05-paint/
 
 {: .power }
 **Multilayer Paint** ไม่มีใน SketchUp และเป็น shader ที่ใช้กันใน renderer ราคาแพง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำเครื่องปิ้งสีพาสเทล 3 สีแล้ว render เทียบกัน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Multilayer Paint ต่างจาก Glossy อย่างไร?</summary>จำลองชั้นสีกับชั้นเคลือบใส สีจึงดูลึกเหมือนสีรถ</details>

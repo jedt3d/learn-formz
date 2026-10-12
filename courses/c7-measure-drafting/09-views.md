@@ -1,12 +1,14 @@
 ---
 title: "9. แบบ 3 ด้านใน Layout"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 9
 chapter: true
 read_time: 5
 do_time: 4
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/09-views/
+edition: pro
+hook: "วางภาพฉาย Front / Top / Left แบบ first-angle ด้วย Place Multi-Frame ที่มาตราส่วน 2:1"
 ---
 
 # 9. แบบ 3 ด้านใน Layout
@@ -44,6 +46,10 @@ permalink: /courses/c7-measure-drafting/09-views/
 
 {: .note }
 ถ้าวาง Multi-Frame แล้วตำแหน่งไม่ตรงตามระบบ first-angle ให้วางทีละ frame ด้วย **Place Frame** แทน แล้วจัดแนวด้วย Align
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เพิ่มมุม iso มุมที่ 4 ลงในแบบ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ใน first-angle ภาพ Top อยู่ตรงไหน?</summary>ใต้ภาพ Front</details>

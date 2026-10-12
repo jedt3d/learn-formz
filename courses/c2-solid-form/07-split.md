@@ -1,14 +1,15 @@
 ---
-title: "7. Boolean Split: แยกฝากับราง"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "7. ผ่าครึ่งได้ 2 ชิ้น: Split"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 7
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c2-solid-form/07-split/
+hook: "ใช้ Split (Boolean Split) แบ่ง solid หนึ่งชิ้นเป็นสองชิ้นด้วยตัวตัด และรู้ว่า One Way ต่างจาก Two Way อย่างไร"
 ---
 
-# 7. Boolean Split: แยกฝากับราง
+# 7. ผ่าครึ่งได้ 2 ชิ้น: Split
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -49,6 +50,10 @@ SketchUp ต้องใช้ **Solid Tools > Split** ซึ่งทำงา�
 
 {: .shapr }
 Shapr3D: **Split body** ด้วย plane หรือ body · formZ: **Split** (ใช้ body) หรือ **Slice** (ใช้เส้น)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** Split ฐานออกเป็น 2 สีแล้วใส่วัสดุคนละสี
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Split ต่างจาก Difference อย่างไร?</summary>Difference ทิ้งส่วนที่ตัดออก ส่วน Split เก็บไว้ทั้งสองส่วน</details>

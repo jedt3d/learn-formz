@@ -1,14 +1,15 @@
 ---
-title: "4. Keyframe: เปิด-ปิดฝา"
-parent: "C5 · Animation จากโมเดล"
+title: "4. เปิด-ปิดฝาด้วย 3 keyframe"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 4
 chapter: true
 read_time: 5
 do_time: 5
 permalink: /courses/c5-animation/04-keyframe/
+hook: "ทำ object ให้เป็น animated entity ด้วย Keyframe tool และใช้ Auto Keyframe: เลื่อนเวลา → ขยับของ → ได้ key ใหม่อัตโนมัติ"
 ---
 
-# 4. Keyframe: เปิด-ปิดฝา
+# 4. เปิด-ปิดฝาด้วย 3 keyframe
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -43,6 +44,10 @@ permalink: /courses/c5-animation/04-keyframe/
 
 {: .note }
 ถ้าไม่ใช้ Auto Keyframe (manual) ให้ปิดไอคอนนั้น แล้วใช้ **Keyframe** tool คลิกซ้ำทุกครั้งหลังขยับของ (R5: The Keyframe Tool)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำให้ฝาเปิด-ปิด 2 ครั้งในวิดีโอเดียว
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ระหว่าง key 2 อันเกิดอะไรขึ้น?</summary>formZ คำนวณตำแหน่งระหว่างกลางให้เอง (interpolation)</details>

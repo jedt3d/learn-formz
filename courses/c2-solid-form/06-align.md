@@ -1,14 +1,15 @@
 ---
-title: "6. วางให้ตรง: Move, Align / Distribute"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "6. วางตรงเป๊ะ 0.1 mm: Move + Align / Distribute"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 6
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c2-solid-form/06-align/
+hook: "จัดตัวบนให้อยู่ กึ่งกลางฐาน ในคลิกเดียวด้วย Align / Distribute และใช้ Move แบบ snap จากจุดไปจุด"
 ---
 
-# 6. วางให้ตรง: Move, Align / Distribute
+# 6. วางตรงเป๊ะ 0.1 mm: Move + Align / Distribute
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,6 +47,10 @@ permalink: /courses/c2-solid-form/06-align/
 
 {: .power }
 SketchUp ไม่มี Align/Distribute ในตัว ต้องลง extension เพิ่ม
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วางลวดเย็บ 5 ชิ้นให้ห่างเท่ากันด้วย Distribute
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมต้อง Shift-คลิก?</summary>เพื่อเลือกหลายชิ้นเป็นชุด (set) ซึ่ง Align ต้องใช้อย่างน้อย 2 ชิ้น</details>

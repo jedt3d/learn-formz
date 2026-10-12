@@ -1,11 +1,12 @@
 ---
 title: "9. Environment light + ฉากหลัง"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 9
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c4-renderzone-studio/09-environment/
+hook: "ใช้ Environment light (แสงจากภาพรอบฉาก) เพิ่มแสงนุ่มทั่วทั้งฉาก และตั้ง Environment ในแท็บ Scene ให้โลหะมีภาพให้สะท้อน"
 ---
 
 # 9. Environment light + ฉากหลัง
@@ -34,6 +35,10 @@ permalink: /courses/c4-renderzone-studio/09-environment/
 
 {: .verify }
 ประเภทภาพที่ v10 รองรับสำหรับ Environment (HDR หรือแค่ JPG/PNG/TIFF) ต้องยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนสีฉากหลังให้เข้ากับสีเครื่อง แล้ว render ใหม่
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Environment ใน Scene tab จะแสดงเป็นฉากหลังไหม?</summary>ไม่แสดง ยกเว้นเลือก Environment ใน Background</details>

@@ -15,6 +15,9 @@ permalink: /
 [เริ่ม Course 1 เลย →]({{ '/courses/c1-quick-win/' | relative_url }}){: .btn .btn-primary .fs-5 .mr-2 }
 [อภิธานศัพท์ (Glossary)]({{ '/glossary/' | relative_url }}){: .btn .fs-5 }
 
+{: .note }
+**ก่อนเริ่ม:** [🧩 ที่บ้านมี formZ รุ่นไหน? (Free / Core / Pro)]({{ '/editions/' | relative_url }}) · [🔁 เคยใช้ SketchUp / Shapr3D? ดูตารางเทียบเครื่องมือ]({{ '/tool-map/' | relative_url }}) · [🛟 ติดปัญหา? แก้ 15 อันดับ]({{ '/troubleshooting/' | relative_url }})
+
 ---
 
 ## ทำไมต้อง formZ?

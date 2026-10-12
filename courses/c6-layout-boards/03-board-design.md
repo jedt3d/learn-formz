@@ -1,14 +1,16 @@
 ---
-title: "3. Board ที่ดีเป็นอย่างไร"
-parent: "C6 · Brand & Presentation Boards"
+title: "3. บอร์ดดีมี 3 ระดับ: hierarchy · grid · ช่องว่าง"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 3
 chapter: true
 read_time: 5
 do_time: 3
 permalink: /courses/c6-layout-boards/03-board-design/
+edition: core
+hook: "รู้จักองค์ประกอบของ presentation board สินค้า และใช้ grid และ ลำดับความสำคัญ (hierarchy) วางของบนหน้า"
 ---
 
-# 3. Board ที่ดีเป็นอย่างไร
+# 3. บอร์ดดีมี 3 ระดับ: hierarchy · grid · ช่องว่าง
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -39,6 +41,10 @@ permalink: /courses/c6-layout-boards/03-board-design/
 
 {: .easy }
 ไม่ต้องเก่งกราฟิก ใช้ **grid** กับ **hierarchy** แค่สองอย่างก็ได้ board ที่ดูเป็นมืออาชีพ
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ร่าง thumbnail บอร์ด 3 แบบในกระดาษภายใน 3 นาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ภาพ hero ควรใหญ่ประมาณเท่าไร?</summary>50–60% ของหน้า</details>

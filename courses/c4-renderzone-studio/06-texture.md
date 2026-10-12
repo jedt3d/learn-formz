@@ -1,14 +1,15 @@
 ---
-title: "6. Texture: ขนมปังกับเขียงไม้"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "6. ภาพก่อน/หลัง: ขนมปังกับเขียงไม้ที่ดูจริง"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 6
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c4-renderzone-studio/06-texture/
+hook: "ใช้ภาพถ่ายเป็นสีของวัสดุด้วย Color Map และเลือกวิธีห่อภาพด้วย Map Texture (Mapping Type)"
 ---
 
-# 6. Texture: ขนมปังกับเขียงไม้
+# 6. ภาพก่อน/หลัง: ขนมปังกับเขียงไม้ที่ดูจริง
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -47,6 +48,10 @@ permalink: /courses/c4-renderzone-studio/06-texture/
 
 {: .easy }
 การหมุนลายด้วย Edit Texture ทำงานเหมือน Position Texture ใน SketchUp
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนเขียงไม้เป็นหินอ่อน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมลายไม่ขึ้นบนจอ?</summary>ยังไม่ได้เปิด Textures ใน Display Options</details>

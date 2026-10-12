@@ -1,14 +1,15 @@
 ---
-title: "6. Exploded view: Animate Object Staging"
-parent: "C5 · Animation จากโมเดล"
+title: "6. ชิ้นส่วนกระจายออกเอง: Object Staging"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 6
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c5-animation/06-staging/
+hook: "ทำ exploded view แบบเคลื่อนไหวด้วย Animate Object Staging (10.1+) และเลือก Disperse (แยกออก) หรือ Collect (รวมเข้า)"
 ---
 
-# 6. Exploded view: Animate Object Staging
+# 6. ชิ้นส่วนกระจายออกเอง: Object Staging
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -45,6 +46,10 @@ permalink: /courses/c5-animation/06-staging/
 
 {: .power }
 ใน SketchUp การทำ exploded แบบเคลื่อนไหวต้องใช้ extension หรือทำเป็นหลาย scene ส่วน formZ 10.1 ทำได้ในคำสั่งเดียว
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำ exploded view ที่กระจายขึ้นด้านบนแทนด้านข้าง
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Disperse กับ Collect ต่างกันอย่างไร?</summary>Disperse เริ่มที่ตำแหน่งปกติแล้วแยกออก ส่วน Collect จบที่ตำแหน่งปกติ</details>

@@ -1,15 +1,16 @@
 ---
-title: "4. ฝาเกลียว + clearance"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "4. ฝาที่ขันได้: clearance 0.4 mm"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 4
 chapter: true
 read_time: 4
 do_time: 5
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/04-cap/
+hook: "ทำฝาที่มี เกลียวใน ซึ่งเป็นภาพกลับด้านของเกลียวนอก และคำนวณ clearance 0.4 mm ในแนวรัศมี"
 ---
 
-# 4. ฝาเกลียว + clearance
+# 4. ฝาที่ขันได้: clearance 0.4 mm
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -43,6 +44,10 @@ permalink: /courses/c8-make-it/04-cap/
 
 {: .verify }
 การ copy แบบหมุนซ้ำรอบวง (Rotate + copy หลายชุด หรือมีคำสั่ง repeat/array) ใน v10 ให้ยืนยันชื่อตัวเลือก
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ลด clearance เป็น 0.3 mm แล้วตรวจชนในบทถัดไป
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. รูในฝาคำนวณอย่างไร?</summary>ยอดเกลียวนอก 12.2 + clearance 0.4 = 12.6</details>

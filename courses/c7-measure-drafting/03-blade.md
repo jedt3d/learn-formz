@@ -1,12 +1,13 @@
 ---
 title: "3. ใบมีด + สกรู: ประกอบชิ้น"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 3
 chapter: true
 read_time: 3
 do_time: 4
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/03-blade/
+hook: "ทำชิ้นเล็กที่บางมาก (ใบมีดหนา 0.6 mm) ได้อย่างแม่นยำ และใช้ Screw/Bolt สร้างสกรูแบบมีเกลียวจาก preset"
 ---
 
 # 3. ใบมีด + สกรู: ประกอบชิ้น
@@ -42,5 +43,9 @@ permalink: /courses/c7-measure-drafting/03-blade/
 
 {: .shapr }
 Shapr3D ไม่มีสกรูสำเร็จรูป (ต้องโหลดจาก McMaster-Carr) ส่วน formZ มี **Screw/Bolt** ในตัว
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปลี่ยนสกรูเป็นหัวแบน แล้ววัดความยาวรวมใหม่
+</div>
 
 📚 อ้างอิง: R1 Screw/Bolt, Detailed Screw/Bolt, Layers

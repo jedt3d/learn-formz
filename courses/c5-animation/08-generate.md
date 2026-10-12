@@ -1,14 +1,15 @@
 ---
-title: "8. Generate Animation: ออกเป็นวิดีโอ"
-parent: "C5 · Animation จากโมเดล"
+title: "8. กด Generate ได้ MP4 15 วินาที"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 8
 chapter: true
 read_time: 5
 do_time: 8
 permalink: /courses/c5-animation/08-generate/
+hook: "ใช้ Display > Generate Animation... เรนเดอร์ทุกเฟรม และเลือก Display Type ให้เหมาะกับเวลาที่มี"
 ---
 
-# 8. Generate Animation: ออกเป็นวิดีโอ
+# 8. กด Generate ได้ MP4 15 วินาที
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -47,6 +48,10 @@ permalink: /courses/c5-animation/08-generate/
 ชื่อตัวเลือก "ภาพแยกเฟรม" ใน Store Frames In และรูปแบบวิดีโอที่ v10 รองรับ (เช่น ยังมี QuickTime บน macOS รุ่นใหม่หรือไม่) ต้องยืนยัน
 
 {% include homework.html id="c5-workshop" title="C5 · Stapler Animation" what="ไฟล์วิดีโอ (หรือ GIF) ยาว ~10 วินาที + ภาพหน้าจอ Animation Time Line ที่เห็น key ทั้งหมด" %}
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** export วิดีโอแนวตั้ง 9:16 สำหรับโพสต์ลงโซเชียล
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ภาพละ 20 วินาที 300 เฟรม ใช้เวลาเท่าไร?</summary>6,000 วินาที = 100 นาที</details>

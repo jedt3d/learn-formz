@@ -1,14 +1,15 @@
 ---
-title: "6. Place On: วางของซ้ำบนผิว"
-parent: "M1 · Mini: formZ Quick Tips"
+title: "6. วาง 36 ชิ้นในคลิกเดียว: Place On"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 6
 chapter: true
 read_time: 3
 do_time: 4
 permalink: /courses/m1-quick-tips/06-place-on/
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
-# 6. Place On: วางของซ้ำบนผิวทีเดียว
+# 6. วาง 36 ชิ้นในคลิกเดียว: Place On
 {% include meta.html %}
 
 ## 🎯 ทริกนี้
@@ -37,5 +38,9 @@ permalink: /courses/m1-quick-tips/06-place-on/
 
 {: .verify }
 Polygon Mesh สร้างแผ่นกริดที่มีจุดตามต้องการได้ไหม (หรือใช้ Rectangle ที่ Insert เส้นแบ่ง) และ Difference กับ component ต้อง explode ก่อนหรือไม่ ต้องยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วางปุ่มยาง 4 มุมใต้เครื่องปิ้งในคลิกเดียว
+</div>
 
 📚 อ้างอิง: R1 Place On, Polygon Mesh, Components

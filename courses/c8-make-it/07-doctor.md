@@ -1,12 +1,13 @@
 ---
 title: "7. Object Doctor: ซ่อม solid"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 7
 chapter: true
 read_time: 4
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/07-doctor/
+hook: "ใช้ Object Doctor แบบ 'ตรวจ' (Add To Selection) และแบบ 'ซ่อม' (Fix If Possible) และรู้จัก 3 แท็บ General / Facetted / Smooth"
 ---
 
 # 7. Object Doctor: ซ่อม solid
@@ -42,6 +43,10 @@ permalink: /courses/c8-make-it/07-doctor/
 
 {: .verify }
 รายชื่อหัวข้อในแต่ละแท็บของ Object Doctor ใน v10 (manual ไม่ได้ระบุทั้งหมด) ให้ถ่ายภาพหน้าจอ palette ไว้ด้วย
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** จดชื่อปัญหาที่ Object Doctor เจอ แล้วอธิบายเป็นภาษาตัวเอง
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Add To Selection กับ Fix If Possible ต่างกันอย่างไร?</summary>Add To Selection แค่ตรวจและเลือกชิ้นที่มีปัญหา ส่วน Fix If Possible พยายามซ่อมให้</details>

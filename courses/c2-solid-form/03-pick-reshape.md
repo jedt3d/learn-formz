@@ -1,14 +1,15 @@
 ---
-title: "3. เลือกให้เป็น: Pick + Reshape"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "3. ดึงหน้าเหมือน Push/Pull: Pick + Reshape"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 3
 chapter: true
 read_time: 5
 do_time: 3
 permalink: /courses/c2-solid-form/03-pick-reshape/
+hook: "เลือกได้ทั้ง ทั้งชิ้น / หน้า / เส้น / จุด ด้วย topological level และเข้าใจความต่างของ prepick กับ postpick"
 ---
 
-# 3. เลือกให้เป็น: Pick + Reshape
+# 3. ดึงหน้าเหมือน Push/Pull: Pick + Reshape
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -51,6 +52,10 @@ SketchUp ต้องดับเบิลคลิกเข้าไปใน g
 
 {: .shapr }
 Shapr3D: แตะหน้าแล้วลาก arrow · formZ: **Reshape** (หน้าเรียบ) หรือเลือกหน้าแล้วใช้ Move
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ใช้ Reshape ดึงหน้าบนของฐานให้สูงขึ้น 2 mm โดยพิมพ์ค่าแทนการลาก
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. จะเลือกหน้าเดียวตอนใช้ Auto Pick ทำอย่างไร?</summary>กด Cmd/Ctrl ค้างไว้ขณะชี้และคลิก</details>

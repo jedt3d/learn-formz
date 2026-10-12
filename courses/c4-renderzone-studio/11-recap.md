@@ -1,14 +1,15 @@
 ---
-title: "11. สรุป: ภาพรวม C4"
-parent: "C4 · RenderZone ระดับสตูดิโอ"
+title: "11. สรุป C4: สูตรถ่ายสินค้าของเรา"
+parent: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 11
 chapter: true
 read_time: 4
 do_time: 1
 permalink: /courses/c4-renderzone-studio/11-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
-# 11. สรุป: ภาพรวม C4 🎉
+# 11. สรุป C4: สูตรถ่ายสินค้าของเรา
 {% include meta.html %}
 
 ## 🖼 แกลเลอรี
@@ -39,3 +40,6 @@ permalink: /courses/c4-renderzone-studio/11-recap/
 
 ## 👉 ต่อไป
 **[C5 · ให้ของขยับได้: Animation]({{ '/courses/c5-animation/' | relative_url }})** พาแม็กเย็บจาก C2 มา **เปิด-ปิด** และทำ **exploded view** กับ **turntable** 360°
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/c5-animation/' | relative_url }}"><strong>➡️ ไปต่อ</strong><br>C5 วิดีโอสินค้า 15 วินาที</a><a href="{{ '/courses/c6-layout-boards/' | relative_url }}"><strong>🖼️ ใช้ภาพทำบอร์ด</strong><br>C6 บอร์ด A3</a><a href="{{ '/courses/c9-capstone/' | relative_url }}"><strong>🎓 ใช้กับงานตัวเอง</strong><br>C9 Portfolio ชิ้นแรก</a></div>

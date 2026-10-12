@@ -1,15 +1,16 @@
 ---
-title: "2. ตัวขวด: Tangent Loft + Caps"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "2. ขวดจาก 4 วงกลม: Tangent Loft"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 2
 chapter: true
 read_time: 4
 do_time: 5
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/02-body/
+hook: "ทำตัวขวดจากหน้าตัด 4 อันด้วย Tangent Loft แบบเปิด Caps (ได้ solid ทันที) และต่อคอขวดด้วย Cylinder + Union"
 ---
 
-# 2. ตัวขวด: Tangent Loft + Caps
+# 2. ขวดจาก 4 วงกลม: Tangent Loft
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,6 +47,10 @@ Tangent Loft กับวงกลมที่วาดด้วย type 2D (ไ
 
 {: .shapr }
 Shapr3D: Loft → Shell · formZ: **Tangent Loft (Caps)** → **Thicken**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำขวดทรงเอวคอดมากขึ้นโดยเปลี่ยนแค่ Ø ของ S1
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Caps เปิดกับปิดต่างกันอย่างไร?</summary>เปิด = ได้ solid · ปิด = ได้ผิว</details>

@@ -1,14 +1,15 @@
 ---
-title: "7. Orbit View + Orbit Light"
-parent: "C5 · Animation จากโมเดล"
+title: "7. กล้องบินรอบ + ไฟหมุนตาม"
+parent: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 7
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c5-animation/07-orbit/
+hook: "ใช้ Create Orbit View ให้กล้องโคจรทั้งแนวนอน (Azimuth) และแนวตั้ง (Altitude) และใช้ Orbit Light (ใน Lights palette) ให้แสงเคลื่อนรอบสินค้า"
 ---
 
-# 7. Orbit View + Orbit Light
+# 7. กล้องบินรอบ + ไฟหมุนตาม
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -39,6 +40,10 @@ Turntable หมุนในแนวนอนอย่างเดียว ส
 
 {: .verify }
 ค่าของ **Orbit Light** และวิธีสลับ "กล้องที่ใช้" ระหว่าง Turntable_Cam กับ Reveal_Cam ภายในวิดีโอเดียว ยังไม่มีเอกสารละเอียด ต้องทดสอบบน 10.1.x · ถ้าสลับกล้องไม่ได้ ให้ generate เป็น 2 คลิปแล้วไปตัดต่อรวมกันทีหลัง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำกล้องบินรอบต่ำกว่าเดิม (Altitude ต่ำ) ให้ดูยิ่งใหญ่
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Azimuth กับ Altitude ต่างกันอย่างไร?</summary>Azimuth = หมุนแนวนอน · Altitude = ยกขึ้นหรือลงแนวตั้ง</details>

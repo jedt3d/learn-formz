@@ -1,12 +1,18 @@
 ---
-title: "C7 · วัดขนาดและเขียนแบบ"
+title: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 25
 has_children: true
 permalink: /courses/c7-measure-drafting/
+n_chapters: 11
+minutes: 88
+outcome: "แบบ 3 ด้านพร้อม title block ส่งโรงงานได้"
 ---
 
-# C7 · วัดขนาดและเขียนแบบ สำหรับ Product Design Engineering
+# C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน
 {: .no_toc }
+<p class="course-sub">วัด · บอกขนาด · ตัด section · title block</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **88 นาที** (อ่าน ~46 + ลงมือ ~42) · 11 บท
 

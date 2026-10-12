@@ -1,12 +1,18 @@
 ---
-title: "C6 · Brand & Presentation Boards"
+title: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 24
 has_children: true
 permalink: /courses/c6-layout-boards/
+n_chapters: 10
+minutes: 85
+outcome: "บอร์ด A3 เป็น PDF พร้อมใส่ portfolio"
 ---
 
-# C6 · Brand & Presentation Boards ด้วย formZ Layout
+# C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว
 {: .no_toc }
+<p class="course-sub">แก้ว + กาต้มน้ำ · hero · CMF · 3 สไตล์ → PDF</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **80 นาที** (อ่าน ~41 + ลงมือ ~39) · 10 บท
 

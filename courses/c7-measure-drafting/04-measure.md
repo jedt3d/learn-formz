@@ -1,15 +1,16 @@
 ---
-title: "4. Measure Distance + Measure Between"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+title: "4. วัด 2 แบบที่ใช้ทุกวัน: Distance + Between"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 4
 chapter: true
 read_time: 4
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/04-measure/
+hook: "วัดระยะระหว่างจุดด้วย Measure Distance (+ Also Measure Perpendicular) และวัดระยะระหว่าง หน้า/เส้นที่ขนานกัน ด้วย Measure Between"
 ---
 
-# 4. Measure Distance + Measure Between
+# 4. วัด 2 แบบที่ใช้ทุกวัน: Distance + Between
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -36,6 +37,10 @@ permalink: /courses/c7-measure-drafting/04-measure/
 
 {: .easy }
 เหมือน **Tape Measure** ของ SketchUp แต่วัดระหว่างหน้าที่ขนานกันได้โดยตรง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วัดระยะระหว่างรูกับขอบให้ได้ 3 ค่า
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไม Measure Between บางคู่ถึงวัดไม่ได้?</summary>เพราะหน้าหรือเส้นคู่นั้นไม่ขนานกัน ระยะจึงไม่นิยาม</details>

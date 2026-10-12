@@ -1,12 +1,18 @@
 ---
-title: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 26
 has_children: true
 permalink: /courses/c8-make-it/
+n_chapters: 11
+minutes: 88
+outcome: "ไฟล์ STL/STEP ขวด + ฝาเกลียวที่ขันได้จริง"
 ---
 
-# C8 · เตรียมผลิต: ขวดจิ๋ว + ฝาเกลียวที่ขันได้จริง
+# C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว
 {: .no_toc }
+<p class="course-sub">Helix · clearance 0.4 mm · ตรวจ · STL/STEP</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-eng">Engineering</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **88 นาที** (อ่าน ~46 + ลงมือ ~42 ไม่รวมเวลาพิมพ์) · 11 บท
 

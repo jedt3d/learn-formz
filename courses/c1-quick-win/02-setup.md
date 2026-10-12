@@ -1,14 +1,15 @@
 ---
-title: "2. ตั้งค่าแค่พอดี: mm, Snap, Template"
-parent: "C1 · Quick Win"
+title: "2. ตั้งค่า 3 อย่างครั้งเดียวจบ: mm · Snap · Template"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 2
 chapter: true
 read_time: 5
 do_time: 6
 permalink: /courses/c1-quick-win/02-setup/
+hook: "ตั้งหน่วยเป็น มิลลิเมตร (mm) ให้เหมาะกับงาน product และตั้ง Grid Snap และ Object Snap ที่จำเป็น"
 ---
 
-# 2. ตั้งค่าแค่พอดี: mm, Snap, Template
+# 2. ตั้งค่า 3 อย่างครั้งเดียวจบ: mm · Snap · Template
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -73,6 +74,16 @@ template ของ formZ เก็บได้มากกว่าหน่ว�
 
 {: .shapr }
 Shapr3D ตั้งหน่วยครั้งเดียวที่ Settings ของแอป แต่ formZ เก็บหน่วยไว้ **ในแต่ละไฟล์** (Project Settings) template จึงเป็นตัวที่ทำให้ไม่ต้องตั้งซ้ำ
+
+{: .note }
+**ติดนิสัยตั้งแต่วันแรก: Save Incremental** formZ 10 มีคำสั่ง **File › Save Incremental** ที่บันทึกไฟล์เป็นเวอร์ชันถัดไปให้อัตโนมัติ (เช่น `pen_01` → `pen_02`) และ **File › Save A Copy As** ที่เก็บสำเนาโดยไฟล์ที่เปิดอยู่ไม่เปลี่ยน formZ ไม่มี history tree แบบ Shapr3D ไฟล์เวอร์ชันจึงเป็น "จุดย้อนกลับ" ของเรา กด Save Incremental ทุกครั้งที่จบขั้นใหญ่
+
+{: .verify }
+รูปแบบชื่อไฟล์ที่ Save Incremental สร้างให้จริง (เช่น `_01`, `-2`) ต้องยืนยันใน 10.1.x
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ตั้งค่าแล้ว Save เป็น template ของตัวเอง จากนั้นเปิดไฟล์ใหม่ดูว่าค่ายังอยู่ไหม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมหน่วยของไฟล์ใหม่ยังเป็นนิ้ว แม้เคยตั้ง mm ไปแล้ว?</summary>เพราะเราตั้งค่าไว้แค่ในไฟล์เก่า ต้องตั้ง Use Template Project ใน Preferences ด้วย</details>

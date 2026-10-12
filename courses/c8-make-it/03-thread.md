@@ -1,15 +1,16 @@
 ---
-title: "3. เกลียวนอกด้วย Helix"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "3. เกลียว 3 รอบด้วย Helix"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 3
 chapter: true
 read_time: 4
 do_time: 5
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/03-thread/
+hook: "วาด โปรไฟล์ฟันเกลียว รูปสามเหลี่ยม และใช้ Helix หมุนพร้อมเลื่อนขึ้น (# Of Cycles, Length Each Cycle, Caps)"
 ---
 
-# 3. เกลียวนอกด้วย Helix
+# 3. เกลียว 3 รอบด้วย Helix
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -49,6 +50,10 @@ permalink: /courses/c8-make-it/03-thread/
 
 {: .power }
 SketchUp ทำเกลียวที่ใช้งานได้จริงแทบไม่ได้ ส่วน formZ มีทั้ง **Helix**, **Wire Helix** และ **Screw/Bolt**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำเกลียว 4 รอบแทน 3 รอบ
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Helix ต่างจาก Revolve อย่างไร?</summary>หมุนพร้อมเลื่อนขึ้นทุกขั้น ได้รูปเกลียว และหมุนเกิน 360° ได้</details>

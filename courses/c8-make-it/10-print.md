@@ -1,15 +1,16 @@
 ---
-title: "10. Slicer และพิมพ์จริง"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "10. พิมพ์ทดสอบ 20 นาทีก่อนพิมพ์จริง"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 10
 chapter: true
 read_time: 4
 do_time: 7
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/10-print/
+hook: "เปิด STL ใน slicer (เช่น PrusaSlicer, Cura, Bambu Studio) แล้วตั้งค่าพื้นฐาน และพิมพ์ทดสอบเกลียว ก่อนพิมพ์ทั้งชิ้น (ประหยัดเวลาและเส้นพลาสติก)"
 ---
 
-# 10. Slicer และพิมพ์จริง
+# 10. พิมพ์ทดสอบ 20 นาทีก่อนพิมพ์จริง
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -46,6 +47,10 @@ Slicer อยู่ **นอก formZ** ทำหน้าที่หั่น�
 
 {: .warning }
 ถ้าใช้เครื่องพิมพ์ที่โรงเรียนหรือ FabLab ให้ทำตามกฎความปลอดภัยของที่นั่น เพราะหัวพิมพ์ร้อนประมาณ 200 °C
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** พิมพ์ฝาด้วย clearance 3 ค่า (0.3/0.4/0.5) แล้วเลือกค่าที่ดีที่สุด
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมต้องพิมพ์ test coupon?</summary>เพื่อทดสอบว่าเกลียวพอดีไหม โดยใช้เวลาและวัสดุน้อย</details>

@@ -1,15 +1,16 @@
 ---
-title: "7. รัศมี มุม ลูกศรชี้ + Associativity"
-parent: "C7 · วัดขนาดและเขียนแบบ"
+title: "7. รัศมี มุม ลูกศร + ขนาดที่ตามโมเดล"
+parent: "C7 · เขียนแบบให้โรงงานอ่านออก: กบเหลา 3 ด้าน"
 nav_order: 7
 chapter: true
 read_time: 4
 do_time: 4
 track: "📐 Engineering"
 permalink: /courses/c7-measure-drafting/07-radial/
+hook: "ใส่ Radial/Diameter Dimension (สลับ R ↔ Ø ได้) และใส่ Angular Dimension (มุมของรูกรวย)"
 ---
 
-# 7. รัศมี มุม ลูกศรชี้ + Associativity
+# 7. รัศมี มุม ลูกศร + ขนาดที่ตามโมเดล
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -44,6 +45,10 @@ permalink: /courses/c7-measure-drafting/07-radial/
 
 {: .power }
 **Associative dimensions** (ขนาดที่ตามโมเดล) เป็นฟีเจอร์ระดับ CAD ที่ SketchUp ทำได้แค่บางกรณี
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ลองแก้ขนาดโมเดลแล้วดูว่า dimension เปลี่ยนตามไหม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. สลับ R เป็น Ø ทำที่ไหน?</summary>Tool Options ของ Radial/Diameter Dimension</details>

@@ -1,12 +1,18 @@
 ---
-title: "C4 · RenderZone ระดับสตูดิโอ"
+title: "C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม"
 nav_order: 22
 has_children: true
 permalink: /courses/c4-renderzone-studio/
+n_chapters: 11
+minutes: 90
+outcome: "ภาพสินค้าแบบสตูดิโอ 3 มุมของเครื่องปิ้งขนมปัง"
 ---
 
-# C4 · RenderZone ระดับสตูดิโอ: เครื่องปิ้งขนมปัง
+# C4 · ถ่ายสินค้าแบบสตูดิโอ: เครื่องปิ้งขนมปัง 3 มุม
 {: .no_toc }
+<p class="course-sub">โครเมียม · สีรถ · ไม้ · ไฟ 3 ดวง โดยไม่ต้องลง plugin</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **88 นาที** (อ่าน ~45 + ลงมือ ~43) · 11 บท
 

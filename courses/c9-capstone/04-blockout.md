@@ -1,15 +1,16 @@
 ---
-title: "4. Blockout: cage ด้วย Subdivision"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "4. ก้อนแรกใน 6 นาที: Blockout"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 4
 chapter: true
 read_time: 4
 do_time: 6
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/04-blockout/
+hook: "ทำ cage (กล่องหยาบ) ให้มีขนาดตามเป้า 104 × 56 × 35 และใช้ Subdivision / Create (Iterations 3) แล้วเปิด/ปิด controls ด้วย F6"
 ---
 
-# 4. Blockout: cage ด้วย Subdivision
+# 4. ก้อนแรกใน 6 นาที: Blockout
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -39,6 +40,10 @@ Shapr3D (บน iPad) มี SubD ด้วย แต่ formZ มีชุด e
 
 {: .note }
 🔀 **ถ้าเลือกของอื่น:** ของทรงกล่องให้ blockout ด้วย **Cube** + **Controlled Round** ได้เลย ไม่ต้องใช้ SubD
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำ blockout แบบที่ 2 ที่ผอมกว่า แล้วเลือกแบบที่ดีกว่า
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ปุ่มลัดแสดง cage คืออะไร?</summary>F6 (Show Controls)</details>

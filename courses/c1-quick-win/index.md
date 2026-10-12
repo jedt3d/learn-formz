@@ -1,13 +1,19 @@
 ---
-title: "C1 · Quick Win"
+title: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 10
 has_children: true
 permalink: /courses/c1-quick-win/
 track: "🎨 Designer"
+n_chapters: 9
+minutes: 90
+outcome: "ภาพ render ปากกาเมจิก 3 สีที่ปั้นเองจากของจริง"
 ---
 
-# C1 · Quick Win: ปั้น → ใส่วัสดุ → เรนเดอร์
+# C1 · ปากกาเมจิกสวยใน 90 นาที
 {: .no_toc }
+<p class="course-sub">วัดของจริง · ปั้น 3 ชิ้น · วัสดุ 3 แบบ · render ภาพแรก</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **90 นาที** (อ่าน ~43 + ลงมือ ~53) · 9 บท
 

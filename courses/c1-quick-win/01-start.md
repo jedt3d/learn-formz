@@ -1,11 +1,12 @@
 ---
 title: "1. เริ่มต้น 5 นาที: หน้าจอ + Assistant"
-parent: "C1 · Quick Win"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 1
 chapter: true
 read_time: 5
 do_time: 5
 permalink: /courses/c1-quick-win/01-start/
+hook: "เปิดโปรเจกต์ใหม่และรู้ว่า เวอร์ชัน formZ บนเครื่องเราคือเวอร์ชันไหน และชี้ได้ว่า 6 ส่วนหลักของหน้าจออยู่ตรงไหน"
 ---
 
 # 1. เริ่มต้น 5 นาที: หน้าจอ + Assistant
@@ -67,6 +68,10 @@ Assistant ทำงานคล้ายช่อง **Search** ของ Sketch
 
 {: .shapr }
 Shapr3D แทบไม่มีแผงตัวเลือก เพราะตัวเลือกจะโผล่ใกล้ ๆ เคอร์เซอร์ ส่วนใน formZ ตัวเลือกจะอยู่ใน **Tool Options palette** ด้านขวาเสมอ ให้ฝึก **มองขวาก่อนคลิก** ทุกครั้ง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เปิด formZ แล้วหาเครื่องมือ Cylinder ให้เจอภายใน 10 วินาทีโดยใช้ Assistant แข่งกับเพื่อน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ผลลัพธ์ที่เป็นสีส้มหมายถึงอะไร?</summary>ผลลัพธ์ที่ยังแก้ตัวเลือกใน Tool Options ได้ทันที โดยไม่ต้องสั่งเครื่องมือใหม่</details>

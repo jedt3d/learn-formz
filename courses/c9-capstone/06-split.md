@@ -1,15 +1,16 @@
 ---
-title: "6. แยกชิ้น: ปุ่ม + Split"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+title: "6. 4 ชิ้นพร้อมร่อง: Split"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 6
 chapter: true
 read_time: 3
 do_time: 5
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/06-split/
+hook: "แปลง SubD เป็น solid ด้วย Subdivision / Convert (เป็น NURBS) และใช้ Split (Boolean) แยกเป็นฝาบน ฐาน ปุ่มซ้าย และปุ่มขวา"
 ---
 
-# 6. แยกชิ้น: ปุ่ม + Split
+# 6. 4 ชิ้นพร้อมร่อง: Split
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -21,7 +22,7 @@ permalink: /courses/c9-capstone/06-split/
 ของจริงไม่ได้เป็นก้อนเดียว ตรงที่ชิ้นต่อกันมี **ร่อง** ที่เรียกว่า parting line ซึ่งทำให้ดูเป็นของที่ผลิตได้จริง วิธีทำ: ใช้แผ่นตัดหนา 0.8 แล้ว **Difference** ก่อน จากนั้นจึง **Split**
 
 ## 👣 ลงมือทำ (5 นาที)
-1. **Subdivision / Convert** → ได้ NURBS solid (Save As `v03_split`)
+1. **Subdivision / Convert** → ได้ NURBS solid (กด **Save Incremental** ก่อน)
 2. **ฐาน/ฝา:** แผ่น Cube หนา **0.8** ที่ z = 8 → **Difference** ได้ร่องรอบตัว จากนั้นใช้แผ่นบาง ๆ ตรงกลางร่อง **Split** แยกฐานกับฝา
 3. **ปุ่ม:** วาดเส้นแบ่งปุ่มบนภาพด้านบน (Vector Line) แล้ว **3D Extrusion** เป็นแผ่น 0.8 → **Difference** กับฝา
 4. **Split** แยกปุ่มซ้าย ขวา และฝาหลัง ตั้งชื่อ `Btn_L`, `Btn_R`, `Shell`, `Base`
@@ -34,6 +35,10 @@ permalink: /courses/c9-capstone/06-split/
 
 {: .note }
 🔀 **ถ้าเลือกของอื่น:** ไฟฉาย → แยกหัว/ตัว/ฝาท้าย · แปรงสีฟัน → แยกด้าม/ยางจับ (ใช้วัสดุต่างกันใน CMF)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เพิ่มปุ่มด้านข้าง 1 ปุ่ม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Parting line คืออะไร?</summary>ร่องตรงที่ชิ้นส่วนต่อกัน</details>

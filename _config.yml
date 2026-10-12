@@ -68,3 +68,10 @@ defaults:
       path: ""
     values:
       layout: default
+
+  - scope: { path: "courses/c5-animation" }
+    values: { edition: pro }
+  - scope: { path: "courses/c6-layout-boards" }
+    values: { edition: pro }
+  - scope: { path: "courses/c4-renderzone-studio" }
+    values: { renderzone: true }

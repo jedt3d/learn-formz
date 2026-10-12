@@ -1,14 +1,16 @@
 ---
-title: "5. Tool palette ของเราเอง"
-parent: "M1 · Mini: formZ Quick Tips"
+title: "5. palette 12 เครื่องมือของเราเอง"
+parent: "M1 · 8 ทริกทำงานไวขึ้น 2 เท่า"
 nav_order: 5
 chapter: true
 read_time: 3
 do_time: 4
 permalink: /courses/m1-quick-tips/05-tool-manager/
+edition: pro
+hook: "ดูภาพรวมของทั้ง course"
 ---
 
-# 5. Tool palette ของเราเอง
+# 5. palette 12 เครื่องมือของเราเอง
 {% include meta.html %}
 
 ## 🎯 ทริกนี้
@@ -34,5 +36,9 @@ Pick · Cube · Cylinder · Vector Line · Spline · 3D Extrusion · Revolve · 
 
 {: .verify }
 ชื่อคำสั่งบันทึก workspace ในเมนู Workspaces ของ v10 ต้องยืนยัน
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ทำ palette ที่ 2 สำหรับงาน render
+</div>
 
 📚 อ้างอิง: R1 Tool Manager and Favorites, Workspace Menu

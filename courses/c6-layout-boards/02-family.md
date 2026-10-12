@@ -1,14 +1,16 @@
 ---
-title: "2. Product family: CMF เดียวกัน"
-parent: "C6 · Brand & Presentation Boards"
+title: "2. 2 ชิ้น 1 ครอบครัว: CMF เดียวกัน"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 2
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c6-layout-boards/02-family/
+edition: core
+hook: "เข้าใจคำว่า product family และ design language และใช้ CMF ชุดเดียวกัน (สี วัสดุ ผิว) กับกาต้มน้ำและแก้วมัค"
 ---
 
-# 2. Product family: CMF เดียวกัน
+# 2. 2 ชิ้น 1 ครอบครัว: CMF เดียวกัน
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -38,5 +40,9 @@ permalink: /courses/c6-layout-boards/02-family/
 
 {: .note }
 ถ้ามีเวลา ให้ทำ **ฉากหลังสีเดียวกับแบรนด์** (Background สี pastel) จะทำให้ board ดูกลมกลืนขึ้น
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เพิ่มสมาชิกที่ 3 ในครอบครัว (เช่น จานรอง) ด้วย CMF เดียวกัน
+</div>
 
 📚 อ้างอิง: R3 Materials · C4 แสงสตูดิโอ

@@ -1,14 +1,15 @@
 ---
-title: "6. Place Frame: มุมมองที่ลิงก์กับโมเดล"
-parent: "C6 · Brand & Presentation Boards"
+title: "6. แก้โมเดลแล้วบอร์ดเปลี่ยนตาม: Place Frame"
+parent: "C6 · บอร์ดขายไอเดีย A3 แผ่นเดียว"
 nav_order: 6
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c6-layout-boards/06-frame/
+hook: "วาง frame ที่แสดงโมเดล 3D แบบเส้น (hidden line) บน board และเลือก View (Top / Front / Right ... หรือ view ที่บันทึกไว้) และ Scale หรือ Fit"
 ---
 
-# 6. Place Frame: มุมมองที่ลิงก์กับโมเดล
+# 6. แก้โมเดลแล้วบอร์ดเปลี่ยนตาม: Place Frame
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -41,6 +42,10 @@ permalink: /courses/c6-layout-boards/06-frame/
 
 {: .power }
 ใน SketchUp + LayOut ก็มี viewport ที่ลิงก์โมเดล แต่ต้องใช้ 2 โปรแกรม ส่วน formZ แปลงเป็น **เส้น vector แท้** (spline/arc) ซึ่งวัดขนาดต่อได้
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** แก้สีโมเดลแล้วกด regenerate ดูว่าบอร์ดเปลี่ยนตาม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Frame ต่างจาก Place Image อย่างไร?</summary>Frame ลิงก์กับโมเดล 3D และแสดงตาม view/scale ส่วน Image เป็นภาพนิ่งจากไฟล์</details>

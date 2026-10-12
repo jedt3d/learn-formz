@@ -1,14 +1,15 @@
 ---
-title: "4. วัดปากกาจริง แล้วปั้นด้าม"
-parent: "C1 · Quick Win"
+title: "4. วัดปากกาจริง → ด้ามเสร็จใน 5 นาที"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 4
 chapter: true
 read_time: 5
 do_time: 7
 permalink: /courses/c1-quick-win/04-body/
+hook: "วัด ปากกาเมจิกของจริง แล้วจดขนาดเป็น mm และสร้าง Cylinder และ Cone แบบ Truncated ด้วยวิธี Preset ให้ขนาดตรงเป๊ะ"
 ---
 
-# 4. วัดปากกาจริง แล้วปั้นด้าม
+# 4. วัดปากกาจริง → ด้ามเสร็จใน 5 นาที
 {% include meta.html %}
 
 {: .note }
@@ -71,6 +72,10 @@ permalink: /courses/c1-quick-win/04-body/
 
 {: .shapr }
 Shapr3D: วาดวงกลมแล้ว extrude แล้วใช้ draft ส่วน formZ ใช้ **Cone Preset + Truncated** ได้ในคลิกเดียว
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ปั้นปากกาอีกด้ามที่ยาวขึ้น 20 mm ภายใน 2 นาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมต้องวัดของจริงก่อนปั้น?</summary>เพราะได้สัดส่วนที่ถูกต้องและจับได้จริงในมือ ไม่ต้องเดา</details>

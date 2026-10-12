@@ -1,15 +1,17 @@
 ---
-title: "8. Facetted สำหรับพิมพ์ + STL"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "8. STL ไม่หนักไม่หยาบ: Facetted + Simplify"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 8
 chapter: true
 read_time: 5
 do_time: 4
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/08-stl/
+edition: pro
+hook: "เข้าใจว่า STL = สามเหลี่ยมล้วน และ Smooth object จะถูกแปลงเป็นสามเหลี่ยมตอน export"
 ---
 
-# 8. Facetted สำหรับพิมพ์ + export STL
+# 8. STL ไม่หนักไม่หยาบ: Facetted + Simplify
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -49,6 +51,10 @@ STL รับเฉพาะ **หน้าสามเหลี่ยม** form
 
 {: .shapr }
 Shapr3D export STL โดยมี slider ความละเอียด formZ ให้คุมเองแบบละเอียดกว่า (Convert / Simplify / Reduce)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** export STL 2 ความละเอียด แล้วเทียบขนาดไฟล์
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. STL เก็บหน้าแบบไหน?</summary>สามเหลี่ยมล้วน</details>

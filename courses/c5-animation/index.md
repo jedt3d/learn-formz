@@ -1,12 +1,18 @@
 ---
-title: "C5 · Animation จากโมเดล"
+title: "C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้"
 nav_order: 23
 has_children: true
 permalink: /courses/c5-animation/
+n_chapters: 9
+minutes: 80
+outcome: "วิดีโอสินค้า ~15 วินาที: หมุนรอบ เปิดฝา กระจายชิ้น"
 ---
 
-# C5 · Animation จากโมเดล: แม็กเย็บที่ขยับได้
+# C5 · วิดีโอสินค้า 15 วินาที: แม็กเย็บขยับได้
 {: .no_toc }
+<p class="course-sub">Turntable · เปิดฝา · exploded view → วิดีโอ</p>
+
+{% include course_header.html %}
 
 <span class="tag tag-designer">Designer</span><span class="tag tag-ready">พร้อมเรียน</span> ⏱ รวมประมาณ **75 นาที** (อ่าน ~38 + ลงมือ ~37) · 9 บท
 

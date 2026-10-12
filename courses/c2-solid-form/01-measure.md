@@ -1,14 +1,15 @@
 ---
-title: "1. วัดแม็กเย็บ + Underlay"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "1. วัด 5 ค่า + วางรูปเป็นแบบ (Underlay)"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 1
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c2-solid-form/01-measure/
+hook: "วัดแม็กเย็บของจริง แล้วสรุปเป็น ขนาดหลัก 6 ค่า และเอาภาพถ่ายด้านข้างไปวางบน reference plane เป็น Underlay"
 ---
 
-# 1. วัดแม็กเย็บ + Underlay
+# 1. วัด 5 ค่า + วางรูปเป็นแบบ (Underlay)
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -48,6 +49,10 @@ permalink: /courses/c2-solid-form/01-measure/
 
 {: .shapr }
 Shapr3D ใช้ **Image import** วางบนระนาบเหมือนกัน หลักการคือวาดเส้นทับภาพ ใน formZ เรียกว่า **Underlay**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** วัดของอีก 1 ชิ้นบนโต๊ะ (เช่น ยางลบ) แล้วจด 3 ค่าหลักใน 1 นาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมต้องถ่ายภาพตั้งฉาก?</summary>ถ้าถ่ายเอียง ภาพจะบิด (perspective) และขนาดที่วาดทับจะผิด</details>

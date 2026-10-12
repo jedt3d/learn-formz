@@ -1,14 +1,15 @@
 ---
-title: "3. มองรอบชิ้นงานและโหมดการแสดงผล"
-parent: "C1 · Quick Win"
+title: "3. หมุนดูรอบทิศ + มุมกล้อง hero 3 แบบ"
+parent: "C1 · ปากกาเมจิกสวยใน 90 นาที"
 nav_order: 3
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c1-quick-win/03-view/
+hook: "หมุน แพน และซูมรอบชิ้นงานได้คล่อง และสลับโหมด Wire Frame / Shaded Work / Shaded Full ได้ตามงาน"
 ---
 
-# 3. มองรอบชิ้นงานและโหมดการแสดงผล
+# 3. หมุนดูรอบทิศ + มุมกล้อง hero 3 แบบ
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -49,6 +50,10 @@ formZ มีโหมดการแสดงผลแบบ real-time 3 โห�
 
 {: .shapr }
 Shapr3D ใช้ท่าทางนิ้วสองนิ้ว ส่วน formZ เหมาะกับ **เมาส์ 3 ปุ่ม** มากกว่า ถ้าเคยใช้ Blender จะคุ้นกับการใช้ปุ่มกลางหมุนมุมมอง
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** บันทึกมุมกล้อง 3 มุม (hero, ด้านข้าง, มุมบน) แล้วสลับไปมาใน 3 วินาที
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. โหมดไหนเห็นเงาจากแสงในฉาก?</summary>Shaded Full (และ RenderZone)</details>

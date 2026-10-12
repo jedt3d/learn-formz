@@ -1,15 +1,16 @@
 ---
-title: "5. ตรวจว่าชนกันไหม"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "5. ชนกันไหม? เช็กใน 1 คลิก"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 5
 chapter: true
 read_time: 4
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/05-fit-check/
+hook: "วางฝาบนขวดในตำแหน่ง ขันสุด และตรวจ interference (ชิ้นทับกัน) ด้วย Intersection ของสำเนา"
 ---
 
-# 5. ตรวจว่าชนกันไหม
+# 5. ชนกันไหม? เช็กใน 1 คลิก
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -31,10 +32,14 @@ permalink: /courses/c8-make-it/05-fit-check/
 [SCREENSHOT: clipping plane ผ่าฝาที่สวมอยู่บนขวด เห็นช่องว่างระหว่างเกลียว]
 
 {: .warning }
-ทำ Intersection กับ **สำเนา** เสมอ เพราะ Boolean จะเปลี่ยนชิ้นต้นฉบับ (formZ ไม่มี history tree ให้ย้อน)
+ทำ Intersection กับ **สำเนา** เสมอ เพราะ Boolean จะเปลี่ยนชิ้นต้นฉบับ (formZ ไม่มี history tree ให้ย้อน จึงควรกด **File › Save Incremental** ก่อนทำ Boolean)
 
 {: .verify }
 ถ้า Intersection ไม่มีส่วนที่ทับกัน formZ จะแจ้ง error หรือให้ผลว่าง ต้องยืนยันพฤติกรรมใน v10
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ตั้งใจทำให้ชนกัน 1 จุด แล้วดูว่าตรวจเจอไหม
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Intersection แล้วมีเนื้อเหลือแปลว่าอะไร?</summary>ชิ้นงานทับกัน (interference)</details>

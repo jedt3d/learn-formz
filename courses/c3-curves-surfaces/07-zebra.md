@@ -1,14 +1,15 @@
 ---
-title: "7. Zebra: ตรวจความเนียนของผิว"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "7. ลายม้าลายบอกความเนียน: Zebra"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 7
 chapter: true
 read_time: 4
 do_time: 3
 permalink: /courses/c3-curves-surfaces/07-zebra/
+hook: "เปิด Surface Analysis แบบ Zebra Stripes บนวัตถุ และอ่านลายม้าลายให้เป็น (เส้นต่อเนื่อง = เนียน, เส้นหัก = รอยต่อ)"
 ---
 
-# 7. Zebra: ตรวจความเนียนของผิว
+# 7. ลายม้าลายบอกความเนียน: Zebra
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -38,6 +39,10 @@ SketchUp **ไม่มีเครื่องมือวิเคราะห
 
 {: .shapr }
 Shapr3D: Visualization > **Zebra** · formZ: Pick > Attributes > **Analysis > Zebra Stripes**
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** หาจุดที่ลาย Zebra หักบนกาของเรา แล้วแก้ให้ลายต่อกัน
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Zebra แสดงในโหมดไหน?</summary>Shaded Work</details>

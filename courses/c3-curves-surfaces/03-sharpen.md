@@ -1,14 +1,15 @@
 ---
-title: "3. เหลาดินสอด้วย Intersection"
-parent: "C3 · ผิวโค้งแบบมือโปร"
+title: "3. เหลาดินสอใน 1 คลิก: Intersection"
+parent: "C3 · โค้งแบบมือโปร: ดินสอ + กาต้มน้ำ"
 nav_order: 3
 chapter: true
 read_time: 4
 do_time: 4
 permalink: /courses/c3-curves-surfaces/03-sharpen/
+hook: "ใช้ Intersection เก็บเฉพาะส่วนที่ 2 ชิ้นซ้อนทับกัน และได้ปลายดินสอที่มี ขอบหยัก 6 ลอน เหมือนเหลาจริง"
 ---
 
-# 3. เหลาดินสอด้วย Intersection
+# 3. เหลาดินสอใน 1 คลิก: Intersection
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -45,6 +46,10 @@ permalink: /courses/c3-curves-surfaces/03-sharpen/
 
 {: .shapr }
 Shapr3D: **Intersect** · formZ: **Intersection** (ชื่อต่างกันนิดเดียว)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** เหลาดินสอให้แหลมขึ้นด้วยกรวยที่สูงขึ้น 10 mm
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Intersection เก็บส่วนไหนไว้?</summary>ส่วนที่อยู่ในทั้งสองชิ้น</details>

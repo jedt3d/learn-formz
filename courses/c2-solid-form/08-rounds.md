@@ -1,14 +1,15 @@
 ---
-title: "8. ขอบมนหลายชุด + Round to Holdline"
-parent: "C2 · ฟอร์มสวยด้วย Solid"
+title: "8. ขอบมน 4 ชุดในครั้งเดียว + Round to Holdline"
+parent: "C2 · แม็กเย็บ: 10 ท่า Solid ที่ใช้ทุกวัน"
 nav_order: 8
 chapter: true
 read_time: 4
 do_time: 5
 permalink: /courses/c2-solid-form/08-rounds/
+hook: "ใช้ Controlled Round แบบ หลาย set (ขอบละรัศมีไม่เท่ากัน) ในชิ้นเดียว และเลือกเส้นต่อเนื่องที่สัมผัสกันได้ในคลิกเดียว (command-click)"
 ---
 
-# 8. ขอบมนหลายชุด + Round to Holdline
+# 8. ขอบมน 4 ชุดในครั้งเดียว + Round to Holdline
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -55,6 +56,10 @@ SketchUp ทำขอบที่ **รัศมีเปลี่ยนไป�
 
 {: .shapr }
 Shapr3D: เลือกหลายขอบแล้วกด Fillet ค่าเดียว · formZ: **Controlled Round แบบหลาย set** (แต่ละ set แก้ทีหลังได้)
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** ลองทำขอบมนชุดเดียวกันด้วยรัศมี 3 ค่า แล้วเลือกค่าที่ชอบที่สุด
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. ทำไมต้องแยก set?</summary>เพื่อให้แต่ละกลุ่มขอบมีรัศมีของตัวเอง และแก้แยกกันได้</details>

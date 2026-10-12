@@ -1,15 +1,17 @@
 ---
-title: "1. ของที่พิมพ์ได้ต้องเป็นแบบไหน"
-parent: "C8 · เตรียมผลิต: 3D Print, STEP"
+title: "1. 5 กฎก่อนพิมพ์ 3D"
+parent: "C8 · พิมพ์ 3D ให้ขันได้จริง: ขวด + ฝาเกลียว"
 nav_order: 1
 chapter: true
 read_time: 5
 do_time: 3
 track: "📐 Engineering"
 permalink: /courses/c8-make-it/01-dfam/
+edition: free
+hook: "รู้ กฎ 5 ข้อ ของการออกแบบเพื่อพิมพ์ 3D แบบ FDM (เครื่องที่ฉีดเส้นพลาสติก) และเข้าใจคำว่า watertight solid, wall thickness, overhang, clearance"
 ---
 
-# 1. ของที่พิมพ์ได้ต้องเป็นแบบไหน
+# 1. 5 กฎก่อนพิมพ์ 3D
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...
@@ -40,6 +42,10 @@ permalink: /courses/c8-make-it/01-dfam/
 
 {: .power }
 formZ มีเครื่องมือตรวจก่อนพิมพ์ในตัว (**Print Preparation**, **Object Doctor**) และทำงานเป็น **solid ตั้งแต่ต้น** ส่วนงานจาก SketchUp มักต้องเอาไปซ่อมในโปรแกรมอื่นก่อนพิมพ์
+
+<div class="challenge" markdown="1">
+🏆 **ท้าทาย 5 นาที:** หาของในบ้าน 1 ชิ้นที่มี overhang เกิน 45° แล้วคิดว่าจะพิมพ์อย่างไร
+</div>
 
 ## ✅ เช็คตัวเอง
 <details><summary>1. Watertight หมายถึงอะไร?</summary>solid ที่ปิดสนิท ไม่มีรูรั่วหรือผิวซ้อน</details>

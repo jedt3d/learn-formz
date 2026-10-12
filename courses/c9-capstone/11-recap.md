@@ -1,12 +1,13 @@
 ---
 title: "11. สรุป: portfolio ชิ้นแรก"
-parent: "C9 · Capstone: ของจากบ้านตั้งแต่ต้นจนจบ"
+parent: "C9 · Portfolio ชิ้นแรก: ของจากบ้านใน 90 นาที"
 nav_order: 11
 chapter: true
 read_time: 4
 do_time: 1
 track: "🎨 Designer + 📐 Engineering"
 permalink: /courses/c9-capstone/11-recap/
+hook: "ดูภาพรวมของทั้ง course, แกลเลอรีผลงาน และเลือกทางไปต่อ"
 ---
 
 # 11. สรุป: portfolio ชิ้นแรก 🎓
@@ -50,3 +51,6 @@ Brief → วัด/ถ่ายรูป (Underlay)            ← C2
 ## ➡️ ต่อไป
 - [M1 · Mini: formZ Quick Tips]({{ '/courses/m1-quick-tips/' | relative_url }}) เทคนิคสั้น ๆ ที่ทำให้ทำงานเร็วขึ้น
 - [C10 · V-Ray 6 for formZ 10]({{ '/courses/c10-vray/' | relative_url }}) (เร็ว ๆ นี้) เรนเดอร์ระดับ photoreal
+
+## 🧭 ไปต่อที่ไหน: 3 ทางเลือก
+<div class="next-steps"><a href="{{ '/courses/m1-quick-tips/' | relative_url }}"><strong>⚡ ทริกไวขึ้น</strong><br>M1 ทำงานไวขึ้น 2 เท่า</a><a href="{{ '/courses/c10-vray/' | relative_url }}"><strong>🔮 เร็ว ๆ นี้</strong><br>C10 V-Ray</a><a href="{{ '/' | relative_url }}"><strong>🏠 กลับแคตตาล็อก</strong><br>เลือก course ใหม่</a></div>
