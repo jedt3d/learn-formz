@@ -135,6 +135,16 @@
   "ch": "C1-9"
  },
  {
+  "term": "Component",
+  "th": "ต้นแบบ 1 ชิ้นที่วางซ้ำเป็น instance แก้ต้นแบบแล้วทุกชิ้นเปลี่ยนตาม",
+  "ch": "M1-7"
+ },
+ {
+  "term": "Component Manager",
+  "th": "palette ที่แสดง library ของ component",
+  "ch": "M1-7"
+ },
+ {
   "term": "Controlled Round",
   "th": "การลบมุมที่จำค่าไว้ แก้รัศมีได้ภายหลัง",
   "ch": "C1-5"
@@ -143,6 +153,16 @@
   "term": "Convert Object Type",
   "th": "แปลงชนิดวัตถุ เช่น smooth ↔ facetted",
   "ch": "C3-1"
+ },
+ {
+  "term": "Create Component",
+  "th": "เปลี่ยน object ที่เลือกให้เป็น component",
+  "ch": "M1-7"
+ },
+ {
+  "term": "Create Objects for Fabrication",
+  "th": "วางสำเนาซี่ลงบน XY Plane เพื่อทำไฟล์ตัด",
+  "ch": "M4-3"
  },
  {
   "term": "Create Orbit View / Orbit Light",
@@ -225,6 +245,11 @@
   "ch": "C2-2"
  },
  {
+  "term": "DXF",
+  "th": "ไฟล์เส้น 2D/3D ที่เครื่องตัดเลเซอร์/CNC รับได้",
+  "ch": "M4-3"
+ },
+ {
   "term": "Ease In/Out",
   "th": "การค่อย ๆ เร่งและค่อย ๆ ผ่อนความเร็วของการเคลื่อนไหว",
   "ch": "C5-2"
@@ -288,6 +313,16 @@
   "term": "Fit Fillet / Bevel",
   "th": "ทำมุมมนหรือลบมุมให้ shape 2D",
   "ch": "M2-6"
+ },
+ {
+  "term": "Fix If Possible",
+  "th": "ตัวเลือกใน Object Doctor ให้ซ่อมปัญหาที่พบ",
+  "ch": "M3-2"
+ },
+ {
+  "term": "Flat Image",
+  "th": "พื้นหลังแบบรูปภาพใน Display Options",
+  "ch": "M1-8"
  },
  {
   "term": "formZ Free / Core / Pro",
@@ -383,6 +418,11 @@
   "term": "Holdline",
   "th": "เส้นที่วาดเพื่อกำหนดขอบเขตของการมน",
   "ch": "M2-5"
+ },
+ {
+  "term": "Import Textures",
+  "th": "ตัวเลือกตอน import SketchUp ให้นำ texture มาด้วย (เปิดเป็นค่าเริ่มต้น)",
+  "ch": "M3-2"
  },
  {
   "term": "Infill",
@@ -490,6 +530,11 @@
   "ch": "C4-8"
  },
  {
+  "term": "Make Individual Component",
+  "th": "แยก instance ออกเป็นต้นแบบใหม่ของตัวเอง",
+  "ch": "M1-7"
+ },
+ {
   "term": "Map Texture / Edit Texture",
   "th": "กำหนดวิธีห่อภาพ (Mapping Type) / เลื่อน หมุน ย่อขยายลายบนหน้า",
   "ch": "C4-6"
@@ -498,6 +543,11 @@
   "term": "Mass Properties",
   "th": "ดูปริมาตร น้ำหนัก (จาก density) และ moment of inertia",
   "ch": "C8-9"
+ },
+ {
+  "term": "Match View",
+  "th": "เครื่องมือจับคู่จุด 3D กับรูปถ่ายเพื่อให้มุมกล้องตรงกัน",
+  "ch": "M1-8"
  },
  {
   "term": "Material",
@@ -558,6 +608,16 @@
   "term": "Multilayer Paint",
   "th": "shader สีรถยนต์ (ชั้นสี + ชั้นเคลือบใส)",
   "ch": "C4-5"
+ },
+ {
+  "term": "Notch",
+  "th": "ร่องที่ซี่ตัดกัน ลึกครึ่งหนึ่งของความสูงซี่",
+  "ch": "M4-2"
+ },
+ {
+  "term": "Notch Tolerance",
+  "th": "ค่าเผื่อความกว้างร่อง (ใช้กับงานพิมพ์ 3D)",
+  "ch": "M4-2"
  },
  {
   "term": "Nudge",
@@ -628,6 +688,11 @@
   "term": "Pitch",
   "th": "ระยะจากยอดเกลียวหนึ่งถึงยอดถัดไป",
   "ch": "C8-1"
+ },
+ {
+  "term": "Place Component",
+  "th": "วาง instance ของ component ลงในโปรเจกต์",
+  "ch": "M1-7"
  },
  {
   "term": "Place Image / Place Image Fit",
@@ -728,6 +793,11 @@
   "term": "Render Area Rectangle",
   "th": "เรนเดอร์เฉพาะกรอบเล็ก ๆ ไว้ทดสอบ",
   "ch": "C1-8"
+ },
+ {
+  "term": "Render Diagnosis",
+  "th": "การหาปัญหาของภาพ render ทีละชั้น: กล้อง แสง วัสดุ",
+  "ch": "SP2"
  },
  {
   "term": "RenderZone",
@@ -1018,6 +1088,11 @@
   "term": "Views palette",
   "th": "ที่บันทึกมุมกล้องไว้ใช้ซ้ำ",
   "ch": "C1-3"
+ },
+ {
+  "term": "Waffle",
+  "th": "สร้างโครงซี่ไขว้ (U/V) จาก surface สำหรับตัดหรือพิมพ์",
+  "ch": "M4-2"
  },
  {
   "term": "Watertight",

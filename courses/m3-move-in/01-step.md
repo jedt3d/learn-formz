@@ -23,7 +23,7 @@ STEP เก็บ solid แบบ B-rep เหมือนกันทั้ง 
 ## 👣 ลงมือทำ (4 นาที)
 1. Shapr3D: **Export › STEP**
 2. formZ: **File › Import** เลือกไฟล์ .step
-3. ในหน้าต่าง options ติ๊ก **Heal Corrupt Geometry** และ **Preserve Assembly Hierarchy**
+3. ในหน้าต่าง **Modeling Import Options: STEP** ตรวจว่าติ๊ก **Heal Corrupt Geometry** และ **Preserve Assembly Hierarchy**
 4. ตรวจ **Objects palette**: ชิ้นส่วนยังแยกเป็นกลุ่มเหมือนเดิม
 5. ลอง **Controlled Round** ขอบหนึ่งเพื่อดูว่าเป็น solid จริง
 
@@ -37,7 +37,7 @@ STEP เก็บ solid แบบ B-rep เหมือนกันทั้ง 
 ใน Shapr3D Free export STEP ไม่ได้ 🔍 ถ้าไม่มีให้ใช้ STL แทน (แต่จะได้ mesh)
 
 {: .verify }
-ชื่อ option ใน STEP import dialog ของ formZ 10.1.x และ edition ที่ import STEP ได้ (Free อาจไม่ได้)
+edition ที่ import STEP ได้ (Free อาจไม่ได้) · ✅ ชื่อ option ตรวจกับคู่มือแล้ว: ทั้ง 2 ตัว **เปิดอยู่แล้วโดยค่าเริ่มต้น** และถ้าปิด Preserve Assembly Hierarchy, assembly จะถูกรวมแบนเป็นชั้นเดียว
 
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** Import ไฟล์เดิมแบบไม่ติ๊ก Preserve Assembly Hierarchy แล้วเทียบ Objects palette

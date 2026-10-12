@@ -7,7 +7,7 @@ read_time: 3
 do_time: 4
 permalink: /courses/m1-quick-tips/05-tool-manager/
 edition: pro
-hook: "ดูภาพรวมของทั้ง course"
+hook: "สร้าง palette 12 เครื่องมือที่เราใช้บ่อยที่สุด"
 ---
 
 # 5. palette 12 เครื่องมือของเราเอง

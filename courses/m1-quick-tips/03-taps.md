@@ -7,7 +7,7 @@ read_time: 3
 do_time: 3
 permalink: /courses/m1-quick-tips/03-taps/
 edition: free
-hook: "ดูภาพรวมของทั้ง course"
+hook: "แตะ Shift / Ctrl / Alt ระหว่างใช้เครื่องมือเพื่อสลับโหมดทันที"
 ---
 
 # 3. Taps: แตะปุ่มเดียวเปลี่ยนโหมด

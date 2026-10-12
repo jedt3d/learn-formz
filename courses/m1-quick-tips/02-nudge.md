@@ -7,7 +7,7 @@ read_time: 3
 do_time: 3
 permalink: /courses/m1-quick-tips/02-nudge/
 edition: free
-hook: "ดูภาพรวมของทั้ง course"
+hook: "ขยับชิ้นงานทีละ 0.5 mm ด้วยปุ่มลูกศร"
 ---
 
 # 2. ขยับทีละ 0.5 mm: Nudge

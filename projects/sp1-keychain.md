@@ -1,5 +1,5 @@
 ---
-title: "1. SP1 · พวงกุญแจชื่อเรา → พิมพ์ 3D ใน 10 นาที"
+title: "SP1 · พวงกุญแจชื่อเรา → พิมพ์ 3D ใน 10 นาที"
 parent: "⭐ Special Projects"
 nav_order: 1
 chapter: true
@@ -10,7 +10,7 @@ track: "📐 Engineering"
 permalink: /projects/sp1-keychain/
 ---
 
-# 1. SP1 · พวงกุญแจชื่อเรา → พิมพ์ 3D ใน 10 นาที
+# SP1 · พวงกุญแจชื่อเรา → พิมพ์ 3D ใน 10 นาที
 {% include meta.html %}
 
 ## 🎯 จบบทนี้แล้วเราจะ...

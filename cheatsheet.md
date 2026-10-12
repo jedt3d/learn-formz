@@ -11,22 +11,24 @@ permalink: /cheatsheet/
 <p class="course-sub">พิมพ์ติดข้างจอ (Ctrl/Cmd + P → A4 → แนวตั้ง) · Win = Ctrl / Mac = Cmd</p>
 
 {: .verify }
-ปุ่มลัดในหน้านี้อิงจาก preset และคู่มือ formZ 10 ที่หาได้ ปุ่มที่มี 🔍 ให้ตรวจใน **Key Shortcuts** ของเครื่องตัวเองก่อนพิมพ์ เพราะแต่ละ edition หรือแต่ละคนตั้งค่าไม่เหมือนกัน
+ข้อที่ไม่มี 🔍 ตรวจกับคู่มือ formZ 10 แล้ว ส่วนข้อที่มี 🔍 คู่มือไม่ได้ระบุปุ่ม ให้ดูใน **Edit › Key Shortcuts... › List Shortcuts...** ของเครื่องตัวเอง
 
 ## 1. ตั้งครั้งเดียว ใช้ทุกวัน
-- **Key Shortcuts › Load Defaults › Preset 2 = SketchUp** (Preset 1 = Rhino) → ปุ่มลัดเหมือน SketchUp ทันที
+- **Edit › Key Shortcuts... › Load Defaults... › Preset 2 = SketchUp** (Preset 1 = Rhino, Default = formZ) → ปุ่มลัดและการ Orbit/Pan เหมือน SketchUp ทันที
 - ไม่รู้ว่าเครื่องมืออยู่ไหน? → **Keyword Assist** พิมพ์ชื่อเครื่องมือได้เลย 🔍
 - ไม่รู้ต้องคลิกอะไรต่อ? → ดูบรรทัด **Assistant** ด้านล่างจอ
-- **Taps** (กดปุ่มสั้น ๆ = สลับเครื่องมือ) vs **Quick Keys** (กดค้าง = ใช้ชั่วคราว ปล่อยแล้วกลับเครื่องมือเดิม) 🔍
+- **Taps** = ระหว่างใช้เครื่องมือ แตะ **Shift / Ctrl (Mac: Cmd) / Alt (Mac: Option)** สั้น ๆ เพื่อสลับโหมด เช่น Extrusion + Ctrl/Cmd = สลับตั้งฉากกับ reference plane ↔ ตั้งฉากกับผิว (ตั้งค่าเองไม่ได้)
+- **Quick Keys** palette (เมนู **Palettes**) = รวมปุ่มลัด "ซ่อน" 3 แท็บ: Navigation · Nudge · Drawing (Nudge ไม่มีปุ่ม default ต้องตั้งเอง)
 
 ## 2. ปุ่มที่ต้องจำ
 | ทำอะไร | Win | Mac |
 |---|---|---|
-| Undo / Redo | Ctrl+Z / Ctrl+Shift+Z 🔍 | Cmd+Z / Cmd+Shift+Z 🔍 |
+| Undo / Redo (Edit menu · undo ไม่จำกัด แต่ **ถูกล้างทุกครั้งที่ Save** ตามค่าเริ่มต้น) | Ctrl+Z / Ctrl+Shift+Z 🔍 | Cmd+Z / Cmd+Shift+Z 🔍 |
 | Save / Save Incremental | Ctrl+S / 🔍 | Cmd+S / 🔍 |
 | Copy / Paste | Ctrl+C / Ctrl+V | Cmd+C / Cmd+V |
-| พิมพ์ค่าตัวเลขระหว่างใช้เครื่องมือ | Tab 🔍 | Tab 🔍 |
-| สลับดู cage ของ SubD | F6 | F6 (อาจต้องกด fn) |
+| พิมพ์ค่าระหว่างลาก control แล้วยืนยัน | พิมพ์ตัวเลข → Tab หรือ Enter | พิมพ์ตัวเลข → Tab หรือ Return |
+| control ซ้อนกัน เลือกตัวถัดไป | Tab | Tab |
+| ซ่อน/แสดง controls (เช่น cage ของ SubD) | F6 | F6 (อาจต้องกด fn) |
 | หมุน / เลื่อน / ซูมมุมมอง | เมาส์กลาง / Shift+เมาส์กลาง / ล้อ 🔍 | เหมือนกัน หรือ trackpad 🔍 |
 
 ## 3. 30 เครื่องมือที่ใช้ 90% ของเวลา
@@ -48,7 +50,7 @@ permalink: /cheatsheet/
 | Push/Pull · Extrude | 3D Extrusion |
 | Follow Me | Revolve · Axial Sweep · Pipe |
 | Fillet (Shapr3D) | Controlled Round |
-| Shell (Shapr3D) | Thicken / Shell 🔍 |
+| Shell (Shapr3D) | Thicken |
 | Loft (Shapr3D) | NURBS by Lofting |
 | Group / Component | Group / Components |
 | History (Shapr3D) | ❌ ไม่มี history tree → ใช้ **Save Incremental** |

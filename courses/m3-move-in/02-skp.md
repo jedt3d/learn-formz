@@ -17,12 +17,12 @@ permalink: /courses/m3-move-in/02-skp/
 - ใช้ **Object Doctor** ตรวจ/ซ่อม และ **Convert Object Type** เปลี่ยนเป็น solid
 
 ## 💡 ไอเดียสั้น ๆ
-โมเดล SketchUp เป็น **mesh/facetted** ที่มักมีหน้าหายหรือเส้นซ้อน formZ อ่าน .skp ได้ตรง ๆ แต่ควรตรวจก่อนนำไปใช้ต่อ
+โมเดล SketchUp เป็น **mesh/facetted** ที่มักมีหน้าหายหรือเส้นซ้อน formZ อ่าน .skp ได้ตรง ๆ (import อย่างเดียว) และ **พยายามแปลงเป็น solid ให้** แต่ทำไม่สำเร็จเสมอถ้าโมเดลปิดไม่สนิท (manual: Trimble SketchUp)
 
 ## 👣 ลงมือทำ (4 นาที)
-1. **File › Import** → เลือก .skp
-2. เลือก object → **Object Doctor** → ตรวจและให้ซ่อม
-3. **Convert Object Type** → เป็น solid (ถ้าปิดสนิท)
+1. **File › Import** → เลือก .skp → ในหน้าต่าง **Modeling Import Options: SketchUp** (ไม่มี option เฉพาะ SketchUp) ปล่อย **Import Textures** ไว้ตามค่าเริ่มต้น (เปิด)
+2. **Object Doctor** → ในแท็บ General / Facetted เลือกปัญหาที่จะตรวจ → Action **Fix If Possible** → คลิก object
+3. **Convert Object Type** → คลิก object → ใน **Convert Options** ดู Current Object Type แล้วเลือกเป็น solid (ทำได้ถ้าปิดสนิท)
 4. ทดลอง **Difference** เจาะรูเพื่อยืนยัน
 
 {: .shot }
@@ -32,7 +32,7 @@ permalink: /courses/m3-move-in/02-skp/
 ถ้า Group / Component ใน SketchUp ไม่ได้เป็น "Solid" มาตั้งแต่แรก อาจต้องปิดรูเองก่อน
 
 {: .verify }
-เวอร์ชัน .skp ที่ formZ 10 รองรับ และชื่อเมนูของ Convert Object Type
+เวอร์ชัน .skp ที่ formZ 10 รองรับ (คู่มือไม่ระบุ) · ✅ Object Doctor, Fix If Possible, Convert Options ตรวจกับคู่มือแล้ว
 
 <div class="challenge" markdown="1">
 🏆 **ท้าทาย 5 นาที:** Import โมเดลจาก 3D Warehouse 1 ชิ้นแล้วลองซ่อม

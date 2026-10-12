@@ -34,5 +34,6 @@ outcome: "บอร์ด A3 เป็น PDF พร้อมใส่ portfolio
 | 6 | [แก้โมเดลแล้วบอร์ดเปลี่ยนตาม: Place Frame]({{ '/courses/c6-layout-boards/06-frame/' | relative_url }}) | 4 | 4 | ภาพด้านหน้าแบบเส้น |
 | 7 | [ตัวหนังสือ โลโก้ สี]({{ '/courses/c6-layout-boards/07-brand/' | relative_url }}) | 4 | 5 | hero board เสร็จ |
 | 8 | [4 มุมมองในคลิกเดียว: Multi-Frame]({{ '/courses/c6-layout-boards/08-multiframe/' | relative_url }}) | 4 | 4 | แผ่นที่ 2: 4 มุม |
+| 🎁 | [โบนัส: บอร์ดเดียว 3 สไตล์: Minimal · Bold · Tech]({{ '/courses/c6-layout-boards/bonus-3-styles/' | relative_url }}) | 4 | 11 | บอร์ด 3 อารมณ์ (ไม่นับเวลา) |
 | 9 | [ส่งออก PDF + อัปเดตโมเดล]({{ '/courses/c6-layout-boards/09-export/' | relative_url }}) | 4 | 5 | PDF 2 หน้า |
 | 10 | [สรุป C6: บอร์ดที่ขายไอเดียได้]({{ '/courses/c6-layout-boards/10-recap/' | relative_url }}) | 4 | 1 | ภาพรวม |

@@ -6,7 +6,7 @@ chapter: true
 read_time: 3
 do_time: 4
 permalink: /courses/m1-quick-tips/06-place-on/
-hook: "ดูภาพรวมของทั้ง course"
+hook: "วางของ 36 ชิ้นบนผิวในคลิกเดียว"
 ---
 
 # 6. วาง 36 ชิ้นในคลิกเดียว: Place On

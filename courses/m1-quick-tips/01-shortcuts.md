@@ -6,7 +6,7 @@ chapter: true
 read_time: 3
 do_time: 3
 permalink: /courses/m1-quick-tips/01-shortcuts/
-hook: "ดูภาพรวมของทั้ง course"
+hook: "โหลดปุ่มลัดแบบ SketchUp ในคลิกเดียว แล้วใช้ formZ เหมือนเครื่องมือเดิม"
 ---
 
 # 1. ปุ่มลัดแบบ SketchUp ในคลิกเดียว

@@ -7,7 +7,7 @@ read_time: 3
 do_time: 4
 permalink: /courses/m1-quick-tips/04-guides/
 edition: free
-hook: "ดูภาพรวมของทั้ง course"
+hook: "วางเส้นช่วยแบบเร็ว ๆ ด้วย Shift+Space"
 ---
 
 # 4. Guides: เส้นช่วยด้วย Shift+Space
